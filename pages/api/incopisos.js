@@ -1,16 +1,17 @@
-import fs from 'fs';
-import path from 'path';
+const fs = require('fs');
+const path = require('path');
 
 const customLastUpdated = "19/05/2025";
 
-export default function handler(req, res) {
+module.exports = function handler(req, res) {
   const { produto } = req.query;
   const filePath = path.join(process.cwd(), 'data_incopisos.json');
 
   try {
     const fileContent = fs.readFileSync(filePath, 'utf8');
-    /** 
-     * @type {{Produto:string, Saldo:string, "Previsão":string}[]} 
+
+    /**
+     * @type {{Produto: string, Saldo: string, "Previsão": string}[]}
      */
     const data = JSON.parse(fileContent);
 
@@ -32,4 +33,4 @@ export default function handler(req, res) {
       .status(500)
       .json({ error: 'Erro ao processar o arquivo JSON.' });
   }
-}
+};
