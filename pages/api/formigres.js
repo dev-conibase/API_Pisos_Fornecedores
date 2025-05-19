@@ -4,7 +4,7 @@ const path = require('path');
 // Defina a data customizada
 const customLastUpdated = "16/05/2025";
 
-module.exports = function handler(req, res) {
+export default function handler(req, res) {
   const { produto } = req.query;
   const filePath = path.join(process.cwd(), 'data_formigres.json');
 
