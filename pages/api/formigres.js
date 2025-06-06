@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Defina a data customizada
-const customLastUpdated = "05/06/2025";
+const customLastUpdated = "06/06/2025";
 
 export default function handler(req, res) {
   const { produto } = req.query;
