@@ -6,17 +6,17 @@
         {
           "produto": "50042",
           "descricao": "PISO ARAUCARIA RT HD 20X120",
-          "maiorLote": "5.856,48",
-          "A": "5.856,48",
-          "A2": "5.856,48",
+          "maiorLote": "5.715,36",
+          "A": "5.715,36",
+          "A2": "5.715,36",
           "B": ""
         },
         {
           "produto": "50034",
           "descricao": "PISO CABERNET RT HD 20X120",
-          "maiorLote": "141,12",
-          "A": "141,12",
-          "A2": "141,12",
+          "maiorLote": "70,56",
+          "A": "70,56",
+          "A2": "70,56",
           "B": ""
         },
         {
@@ -38,9 +38,9 @@
         {
           "produto": "50062",
           "descricao": "PISO CUMARU RT HD 20X120",
-          "maiorLote": "1.975,68",
-          "A": "1.975,68",
-          "A2": "1.975,68",
+          "maiorLote": "1.905,12",
+          "A": "1.905,12",
+          "A2": "1.905,12",
           "B": ""
         },
         {
@@ -54,9 +54,9 @@
         {
           "produto": "50146",
           "descricao": "PISO FRESNO CL MATE RT HD 20X120",
-          "maiorLote": "1.975,68",
-          "A": "1.975,68",
-          "A2": "1.975,68",
+          "maiorLote": "987,84",
+          "A": "987,84",
+          "A2": "987,84",
           "B": ""
         },
         {
@@ -69,7 +69,7 @@
         },
         {
           "produto": "50036",
-          "descricao": "PISO PEROBA RT HD 20X120",
+          "descricao": "PISO PEROBA RT HD 20X120 PISO PIEMONT RT HD 20X120",
           "maiorLote": "5.292,00",
           "A": "6.068,16",
           "A2": "6.068,16",
@@ -82,12 +82,15 @@
           "A": "0,00",
           "A2": "0,00",
           "B": ""
-        }
-      ]
-    },
-    {
-      "dimensions": "20x60 PISO ALAMO HD 20X60",
-      "products": [
+        },
+        {
+          "produto": "Tamanho: 20001",
+          "descricao": "20x60 PISO ALAMO HD 20X60",
+          "maiorLote": "210,24",
+          "A": "210,24",
+          "A2": "210,24",
+          "B": ""
+        },
         {
           "produto": "20004",
           "descricao": "PISO NOGUEIRA HD 20X60",
@@ -128,9 +131,9 @@
         {
           "produto": "1261",
           "descricao": "PISO ANTIK CAFE 32",
-          "maiorLote": "33.696,00",
-          "A": "33.696,00",
-          "A2": "33.696,00",
+          "maiorLote": "31.248,00",
+          "A": "31.248,00",
+          "A2": "31.248,00",
           "B": ""
         },
         {
@@ -153,32 +156,32 @@
           "produto": "1242",
           "descricao": "PISO BARILOCHE 32",
           "maiorLote": "17.856,00",
-          "A": "19.296,00",
-          "A2": "19.296,00",
+          "A": "19.152,00",
+          "A2": "19.152,00",
           "B": ""
         },
         {
           "produto": "5803",
           "descricao": "PISO BIANCO 32",
-          "maiorLote": "0,00",
-          "A": "0,00",
-          "A2": "0,00",
+          "maiorLote": "17.424,00",
+          "A": "20.592,00",
+          "A2": "20.592,00",
           "B": ""
         },
         {
           "produto": "1441",
           "descricao": "PISO BISOTADO BR 32",
-          "maiorLote": "9.648,00",
-          "A": "9.648,00",
-          "A2": "9.648,00",
+          "maiorLote": "8.928,00",
+          "A": "8.928,00",
+          "A2": "8.928,00",
           "B": ""
         },
         {
           "produto": "1418",
           "descricao": "PISO BRANCO 32",
-          "maiorLote": "71.856,00",
-          "A": "79.200,00",
-          "A2": "79.200,00",
+          "maiorLote": "70.560,00",
+          "A": "76.320,00",
+          "A2": "76.320,00",
           "B": ""
         },
         {
@@ -190,19 +193,11 @@
           "B": ""
         },
         {
-          "produto": "2011",
-          "descricao": "PISO CORDILHEIRA BR 32",
-          "maiorLote": "0,00",
-          "A": "0,00",
-          "A2": "0,00",
-          "B": ""
-        },
-        {
           "produto": "1598",
           "descricao": "PISO CRONOS AZ HD 32",
-          "maiorLote": "7.920,00",
-          "A": "7.920,00",
-          "A2": "7.920,00",
+          "maiorLote": "7.776,00",
+          "A": "7.776,00",
+          "A2": "7.776,00",
           "B": ""
         },
         {
@@ -230,66 +225,61 @@
           "B": ""
         },
         {
-          "produto": "1601 1271",
-          "descricao": "PISO DAKAR CZ HD 32 PISO DAMME 32",
+          "produto": "1601",
+          "descricao": "PISO DAKAR CZ HD 32",
           "maiorLote": "4.032,00",
-          "A": "4.320,00 6.048,00",
-          "A2": "4.320,00 6.048,00",
+          "A": "4.320,00",
+          "A2": "4.320,00",
           "B": ""
         },
         {
-          "produto": "1403",
-          "descricao": "PISO DHAMA AZUL 32",
-          "maiorLote": "15.120,00",
-          "A": "30.816,00",
-          "A2": "30.816,00",
+          "produto": "1271",
+          "descricao": "PISO DAMME 32",
+          "maiorLote": "5.472,00",
+          "A": "6.048,00",
+          "A2": "6.048,00",
           "B": ""
         },
         {
-          "produto": "1404",
-          "descricao": "PISO DHAMA BP 32",
-          "maiorLote": "28.224,00",
-          "A": "16.560,00",
-          "A2": "16.560,00",
+          "produto": "1403 1404",
+          "descricao": "PISO DHAMA AZUL 32 PISO DHAMA BP 32",
+          "maiorLote": "14.832,00",
+          "A": "14.832,00 30.240,00",
+          "A2": "14.832,00 30.240,00",
           "B": ""
         },
         {
           "produto": "1406",
           "descricao": "PISO DHAMA BRANCO 32",
-          "maiorLote": "16.560,00",
+          "maiorLote": "15.840,00",
           "A": "",
-          "A2": "12.096,00",
+          "A2": "11.520,00",
           "B": ""
         },
         {
           "produto": "1407",
           "descricao": "PISO DHAMA CINZA 32",
-          "maiorLote": "12.096,00",
-          "A": "12.096,00",
+          "maiorLote": "11.520,00",
+          "A": "11.520,00",
           "A2": "",
           "B": ""
         },
         {
-          "produto": "1410 1272",
-          "descricao": "PISO DHAMA VERDE 32 PISO FLORATA BRANCA 32",
-          "maiorLote": "144,00 7.200,00",
-          "A": "144,00 7.200,00",
-          "A2": "144,00 7.200,00",
+          "produto": "1410",
+          "descricao": "PISO DHAMA VERDE 32",
+          "maiorLote": "144,00",
+          "A": "144,00",
+          "A2": "144,00",
           "B": ""
         },
         {
-          "produto": "1273",
-          "descricao": "PISO FLORATA PRETA 32",
-          "maiorLote": "4.896,00",
-          "A": "4.896,00",
-          "A2": "4.896,00",
+          "produto": "1272 1273",
+          "descricao": "PISO FLORATA BRANCA 32 PISO FLORATA PRETA 32",
+          "maiorLote": "7.200,00 4.896,00",
+          "A": "7.200,00 4.896,00",
+          "A2": "7.200,00 4.896,00",
           "B": ""
-        }
-      ]
-    },
-    {
-      "dimensions": "32X45",
-      "products": [
+        },
         {
           "produto": "1807",
           "descricao": "PISO LAGO BEGE 32",
@@ -325,9 +315,9 @@
         {
           "produto": "1706",
           "descricao": "PISO LOTUS MR HD 32",
-          "maiorLote": "6.336,00",
-          "A": "6.336,00",
-          "A2": "6.336,00",
+          "maiorLote": "5.184,00",
+          "A": "5.184,00",
+          "A2": "5.184,00",
           "B": ""
         },
         {
@@ -343,7 +333,7 @@
           "descricao": "PISO LUZ 32",
           "maiorLote": "4.032,00",
           "A": "4.032,00",
-          "A2": "",
+          "A2": "4.032,00",
           "B": ""
         },
         {
@@ -351,47 +341,47 @@
           "descricao": "PISO MAIORCA BR HD 32",
           "maiorLote": "2.880,00",
           "A": "2.880,00",
-          "A2": "4.032,00 2.880,00",
+          "A2": "2.880,00",
           "B": ""
         },
         {
           "produto": "1608",
           "descricao": "PISO MAIORCA CZ HD 32",
           "maiorLote": "18.720,00",
-          "A": "22.608,00",
-          "A2": "22.608,00",
+          "A": "22.032,00",
+          "A2": "22.032,00",
           "B": ""
         },
         {
           "produto": "3492",
           "descricao": "PISO MONT BLANC 32",
           "maiorLote": "16.560,00",
-          "A": "",
-          "A2": "",
+          "A": "21.888,00",
+          "A2": "21.888,00",
           "B": ""
         },
         {
           "produto": "1286",
           "descricao": "PISO OASIS 32",
           "maiorLote": "8.352,00",
-          "A": "22.176,00",
-          "A2": "22.176,00",
+          "A": "24.768,00",
+          "A2": "24.768,00",
           "B": ""
         },
         {
           "produto": "1542",
           "descricao": "PISO PASTILHA MR 32",
           "maiorLote": "3.600,00",
-          "A": "3.600,00",
+          "A": "",
           "A2": "3.600,00",
           "B": ""
         },
         {
-          "produto": "1606",
-          "descricao": "PISO REQUINTE BG HD 32",
-          "maiorLote": "3.888,00",
-          "A": "3.888,00",
-          "A2": "3.888,00",
+          "produto": "1298",
+          "descricao": "PISO QUARTIZITA 32",
+          "maiorLote": "1.584,00",
+          "A": "1.584,00",
+          "A2": "1.584,00",
           "B": ""
         },
         {
@@ -486,15 +476,12 @@
           "A": "0,00",
           "A2": "0,00",
           "B": ""
-        },
-        {
-          "produto": "33X59 Tamanho:",
-          "descricao": "33X59 Tamanho:",
-          "maiorLote": "",
-          "A": "",
-          "A2": "",
-          "B": ""
-        },
+        }
+      ]
+    },
+    {
+      "dimensions": "33X59",
+      "products": [
         {
           "produto": "2050",
           "descricao": "AMOSTRAS FORMIGRES 33X59",
@@ -514,9 +501,9 @@
         {
           "produto": "6003",
           "descricao": "PISO BIANCO ACT RETIFICADO 33X59",
-          "maiorLote": "1.018,08",
-          "A": "1.018,08",
-          "A2": "1.018,08",
+          "maiorLote": "872,64",
+          "A": "872,64",
+          "A2": "872,64",
           "B": ""
         },
         {
@@ -538,33 +525,33 @@
         {
           "produto": "2002",
           "descricao": "PISO BRANCO RETIFICADO 33X59",
-          "maiorLote": "436,32",
-          "A": "436,32",
-          "A2": "436,32",
+          "maiorLote": "7.126,56",
+          "A": "7.126,56",
+          "A2": "7.126,56",
           "B": ""
         },
         {
           "produto": "2101",
           "descricao": "PISO DECORA BR RETIFICADO 33X59",
-          "maiorLote": "2.181,60",
-          "A": "2.181,60",
-          "A2": "2.181,60",
+          "maiorLote": "1.745,28",
+          "A": "1.745,28",
+          "A2": "1.745,28",
           "B": ""
         },
         {
           "produto": "2066",
           "descricao": "PISO FINALLE RETIFICADO 33X59",
-          "maiorLote": "13.235,04",
-          "A": "13.235,04",
-          "A2": "13.235,04",
+          "maiorLote": "12.653,28",
+          "A": "12.653,28",
+          "A2": "12.653,28",
           "B": ""
         },
         {
           "produto": "3636",
           "descricao": "PISO MONT BLANC ACT RETIFICADO 33X59",
-          "maiorLote": "5.090,40",
-          "A": "5.090,40",
-          "A2": "5.090,40",
+          "maiorLote": "4.944,96",
+          "A": "4.944,96",
+          "A2": "4.944,96",
           "B": ""
         },
         {
@@ -586,41 +573,25 @@
         {
           "produto": "2071",
           "descricao": "PISO TAIKO MARFIM RETIFICADO 33X59",
-          "maiorLote": "3.199,68",
-          "A": "3.199,68",
-          "A2": "3.199,68",
-          "B": ""
-        },
-        {
-          "produto": "33X59 Tamanho:",
-          "descricao": "33X59 Tamanho:",
-          "maiorLote": "33X59 Tamanho:",
-          "A": "33X59 Tamanho:",
-          "A2": "33X59 Tamanho:",
-          "B": "33X59 Tamanho:"
-        },
-        {
-          "produto": "2071",
-          "descricao": "PISO TAIKO MARFIM RETIFICADO 33X59",
-          "maiorLote": "3.199,68",
-          "A": "3.199,68",
-          "A2": "3.199,68",
+          "maiorLote": "3.054,24",
+          "A": "3.054,24",
+          "A2": "3.054,24",
           "B": ""
         },
         {
           "produto": "2069",
           "descricao": "PISO TAIKO MR RETIFICADO 33X59",
-          "maiorLote": "3.781,44",
-          "A": "3.781,44",
-          "A2": "3.781,44",
+          "maiorLote": "3.054,24",
+          "A": "3.054,24",
+          "A2": "3.054,24",
           "B": ""
         },
         {
           "produto": "2102",
           "descricao": "PISO WINDSOR BR RETIFICADO 33X59",
-          "maiorLote": "4.654,08",
-          "A": "4.654,08",
-          "A2": "4.654,08",
+          "maiorLote": "4.072,32",
+          "A": "4.072,32",
+          "A2": "4.072,32",
           "B": ""
         }
       ]
@@ -639,9 +610,9 @@
         {
           "produto": "3621",
           "descricao": "PISO AMBIENTE BR HD 34X60",
-          "maiorLote": "14.817,60",
-          "A": "14.817,60",
-          "A2": "14.817,60",
+          "maiorLote": "14.515,20",
+          "A": "14.515,20",
+          "A2": "14.515,20",
           "B": ""
         },
         {
@@ -672,8 +643,8 @@
           "produto": "8952",
           "descricao": "PISO ANDES CZ HD 34X60",
           "maiorLote": "7.711,20",
-          "A": "9.072,00",
-          "A2": "9.072,00",
+          "A": "8.769,60",
+          "A2": "8.769,60",
           "B": ""
         },
         {
@@ -688,64 +659,64 @@
           "produto": "1977",
           "descricao": "PISO AQUARELA AZ HD 34X60",
           "maiorLote": "6.199,20",
-          "A": "8.164,80",
-          "A2": "8.164,80",
+          "A": "7.711,20",
+          "A2": "7.711,20",
           "B": ""
         },
         {
           "produto": "1959",
           "descricao": "PISO AQUARELA MR HD 34X60",
-          "maiorLote": "25.099,20",
-          "A": "25.099,20",
-          "A2": "25.099,20",
+          "maiorLote": "24.040,80",
+          "A": "24.040,80",
+          "A2": "24.040,80",
           "B": ""
         },
         {
           "produto": "1982",
           "descricao": "PISO AQUARELA VD HD 34X60",
           "maiorLote": "9.374,40",
-          "A": "9.979,20",
-          "A2": "9.979,20",
+          "A": "9.374,40",
+          "A2": "9.374,40",
           "B": ""
         },
         {
           "produto": "2036",
           "descricao": "PISO ARTESAN BG HD 34X60",
-          "maiorLote": "7.862,40",
-          "A": "7.862,40",
-          "A2": "7.862,40",
+          "maiorLote": "7.408,80",
+          "A": "7.408,80",
+          "A2": "7.408,80",
           "B": ""
         },
         {
           "produto": "1915",
           "descricao": "PISO AVILA BG HD 34X60",
-          "maiorLote": "26.913,60",
-          "A": "26.913,60",
-          "A2": "26.913,60",
+          "maiorLote": "24.343,20",
+          "A": "24.343,20",
+          "A2": "24.343,20",
           "B": ""
         },
         {
           "produto": "1933",
           "descricao": "PISO AVILA BR HD 34X60",
-          "maiorLote": "32.054,40",
-          "A": "32.054,40",
-          "A2": "32.054,40",
+          "maiorLote": "30.391,20",
+          "A": "30.391,20",
+          "A2": "30.391,20",
           "B": ""
         },
         {
           "produto": "1916",
           "descricao": "PISO AVILA CZ HD 34X60",
-          "maiorLote": "8.316,00",
-          "A": "8.316,00",
-          "A2": "8.316,00",
+          "maiorLote": "2.872,80",
+          "A": "2.872,80",
+          "A2": "2.872,80",
           "B": ""
         },
         {
           "produto": "2031",
           "descricao": "PISO AVILA ESC HD 34X60",
-          "maiorLote": "6.199,20",
-          "A": "6.199,20",
-          "A2": "6.199,20",
+          "maiorLote": "5.896,80",
+          "A": "5.896,80",
+          "A2": "5.896,80",
           "B": ""
         },
         {
@@ -759,49 +730,49 @@
         {
           "produto": "1998",
           "descricao": "PISO AZULEJO BG HD 34X60",
-          "maiorLote": "1.965,60",
-          "A": "1.965,60",
-          "A2": "1.965,60",
+          "maiorLote": "1.512,00",
+          "A": "1.512,00",
+          "A2": "1.512,00",
           "B": ""
         },
         {
           "produto": "1951",
           "descricao": "PISO AZULEJO BR HD 34X60",
-          "maiorLote": "1.814,40",
-          "A": "1.814,40",
-          "A2": "1.814,40",
-          "B": ""
-        },
-        {
-          "produto": "1979",
-          "descricao": "PISO AZULEJO PT HD 34X60",
           "maiorLote": "0,00",
           "A": "0,00",
           "A2": "0,00",
           "B": ""
         },
         {
+          "produto": "1979",
+          "descricao": "PISO AZULEJO PT HD 34X60",
+          "maiorLote": "15.573,60",
+          "A": "19.958,40",
+          "A2": "19.958,40",
+          "B": ""
+        },
+        {
           "produto": "3624",
           "descricao": "PISO BAMBU HD 34X60",
-          "maiorLote": "7.106,40",
-          "A": "7.106,40",
-          "A2": "7.106,40",
+          "maiorLote": "6.955,20",
+          "A": "6.955,20",
+          "A2": "6.955,20",
           "B": ""
         },
         {
           "produto": "1955",
           "descricao": "PISO BEGE 34X60",
-          "maiorLote": "15.724,80",
-          "A": "27.367,20",
-          "A2": "27.367,20",
+          "maiorLote": "17.236,80",
+          "A": "29.181,60",
+          "A2": "29.181,60",
           "B": ""
         },
         {
           "produto": "5935",
           "descricao": "PISO BIANCO 34X60",
           "maiorLote": "26.913,60",
-          "A": "42.638,40",
-          "A2": "42.638,40",
+          "A": "42.487,20",
+          "A2": "42.487,20",
           "B": ""
         },
         {
@@ -831,47 +802,47 @@
         {
           "produto": "1967",
           "descricao": "PISO BISOTADO BR 34X60",
-          "maiorLote": "6.955,20",
-          "A": "6.955,20",
-          "A2": "6.955,20",
+          "maiorLote": "6.048,00",
+          "A": "6.048,00",
+          "A2": "6.048,00",
           "B": ""
         },
         {
           "produto": "8964",
           "descricao": "PISO BLASEN BG HD 34X60",
-          "maiorLote": "4.838,40",
-          "A": "4.838,40",
-          "A2": "4.838,40",
+          "maiorLote": "4.536,00",
+          "A": "4.536,00",
+          "A2": "4.536,00",
           "B": ""
         },
         {
           "produto": "8953",
           "descricao": "PISO BLASEN BR HD 34X60",
           "maiorLote": "39.614,40",
-          "A": "44.906,40",
-          "A2": "44.906,40",
+          "A": "44.150,40",
+          "A2": "44.150,40",
           "B": ""
         },
         {
           "produto": "8919 1936",
-          "descricao": "PISO BOHO HD 34X60",
-          "maiorLote": "6.048,00",
-          "A": "6.048,00 48.081,60",
-          "A2": "6.048,00",
+          "descricao": "PISO BOHO HD 34X60 PISO BRANCO 34X60",
+          "maiorLote": "5.745,60",
+          "A": "5.745,60 45.511,20",
+          "A2": "5.745,60 45.511,20",
           "B": ""
         },
         {
           "produto": "2006",
-          "descricao": "PISO BRANCO ACETINADO 34X60",
-          "maiorLote": "7.711,20",
-          "A": "",
+          "descricao": "",
+          "maiorLote": "42.033,60",
+          "A": "7.711,20",
           "A2": "7.711,20",
           "B": ""
         },
         {
           "produto": "3611",
-          "descricao": "PISO BRIQUE MR HD 34X60",
-          "maiorLote": "1.965,60",
+          "descricao": "PISO BRANCO ACETINADO 34X60 PISO BRIQUE MR HD 34X60",
+          "maiorLote": "7.711,20",
           "A": "1.965,60",
           "A2": "1.965,60",
           "B": ""
@@ -885,35 +856,27 @@
           "B": ""
         },
         {
-          "produto": "3597 5980",
-          "descricao": "PISO BRISA CINZA 34X60 PISO CARRARA CINZA 34X60",
-          "maiorLote": "1.512,00 302,40",
-          "A": "1.512,00 453,60",
-          "A2": "1.512,00 453,60",
+          "produto": "3597",
+          "descricao": "PISO BRISA CINZA 34X60",
+          "maiorLote": "1.512,00",
+          "A": "1.512,00",
+          "A2": "1.512,00",
           "B": ""
         },
         {
-          "produto": "34X60 Tamanho:",
-          "descricao": "34X60 Tamanho:",
-          "maiorLote": "34X60 Tamanho:",
-          "A": "34X60 Tamanho:",
-          "A2": "34X60 Tamanho:",
-          "B": "34X60 Tamanho:"
-        },
-        {
-          "produto": "1972",
-          "descricao": "PISO CATAVENTO BRANCO HD 34X60",
-          "maiorLote": "8.316,00",
-          "A": "16.178,40",
-          "A2": "16.178,40",
+          "produto": "5980 1972",
+          "descricao": "PISO CARRARA CINZA 34X60 PISO CATAVENTO BRANCO HD 34X60",
+          "maiorLote": "302,40 8.316,00",
+          "A": "453,60 15.573,60",
+          "A2": "453,60 15.573,60",
           "B": ""
         },
         {
           "produto": "1973",
           "descricao": "PISO CATAVENTO CL HD 34X60",
           "maiorLote": "18.900,00",
-          "A": "27.669,60",
-          "A2": "27.669,60",
+          "A": "26.762,40",
+          "A2": "26.762,40",
           "B": ""
         },
         {
@@ -927,9 +890,9 @@
         {
           "produto": "1946",
           "descricao": "PISO COLORAL AZ HD 34X60",
-          "maiorLote": "2.721,60",
-          "A": "2.721,60",
-          "A2": "2.721,60",
+          "maiorLote": "2.570,40",
+          "A": "2.570,40",
+          "A2": "2.570,40",
           "B": ""
         },
         {
@@ -943,9 +906,9 @@
         {
           "produto": "1969",
           "descricao": "PISO COLORAL BP HD 34X60",
-          "maiorLote": "1.814,40",
-          "A": "1.814,40",
-          "A2": "1.814,40",
+          "maiorLote": "1.663,20",
+          "A": "1.663,20",
+          "A2": "1.663,20",
           "B": ""
         },
         {
@@ -959,9 +922,9 @@
         {
           "produto": "2023",
           "descricao": "PISO CREARE HD 34X60",
-          "maiorLote": "25.855,20",
-          "A": "25.855,20",
-          "A2": "25.855,20",
+          "maiorLote": "23.738,40",
+          "A": "23.738,40",
+          "A2": "23.738,40",
           "B": ""
         },
         {
@@ -983,25 +946,25 @@
         {
           "produto": "1912",
           "descricao": "PISO DANTE MR HD 34X60",
+          "maiorLote": "6.955,20",
+          "A": "6.955,20",
+          "A2": "6.955,20",
+          "B": ""
+        },
+        {
+          "produto": "5978",
+          "descricao": "PISO DECORE BR HD 34X60",
           "maiorLote": "",
-          "A": "8.769,60",
-          "A2": "6.955,20 8.769,60",
+          "A": "",
+          "A2": "",
           "B": ""
         },
         {
-          "produto": "5978 5982",
-          "descricao": "PISO DECORE BR HD 34X60 PISO DECORE MR HD 34X60",
-          "maiorLote": "8.769,60 302,40",
-          "A": "302,40",
-          "A2": "302,40",
-          "B": ""
-        },
-        {
-          "produto": "1942",
-          "descricao": "PISO DIAMANTE BR HD 34X60",
-          "maiorLote": "151,20",
-          "A": "151,20",
-          "A2": "151,20",
+          "produto": "5982 1942",
+          "descricao": "PISO DECORE MR HD 34X60 PISO DIAMANTE BR HD 34X60",
+          "maiorLote": "302,40 151,20",
+          "A": "302,40 151,20",
+          "A2": "302,40 151,20",
           "B": ""
         },
         {
@@ -1016,8 +979,8 @@
           "produto": "3601",
           "descricao": "PISO ELEMENTUS BG HD 34X60",
           "maiorLote": "4.989,60",
-          "A": "5.594,40",
-          "A2": "5.594,40",
+          "A": "5.443,20",
+          "A2": "5.443,20",
           "B": ""
         },
         {
@@ -1031,9 +994,9 @@
         {
           "produto": "3600",
           "descricao": "PISO ELEMENTUS PT HD 34X60",
-          "maiorLote": "13.608,00",
-          "A": "13.608,00",
-          "A2": "13.608,00",
+          "maiorLote": "13.456,80",
+          "A": "13.456,80",
+          "A2": "13.456,80",
           "B": ""
         },
         {
@@ -1048,8 +1011,8 @@
           "produto": "1953",
           "descricao": "PISO ELITE CZ HD 34X60",
           "maiorLote": "20.865,60",
-          "A": "26.006,40",
-          "A2": "26.006,40",
+          "A": "24.796,80",
+          "A2": "24.796,80",
           "B": ""
         },
         {
@@ -1087,9 +1050,9 @@
         {
           "produto": "5960",
           "descricao": "PISO FILETE 59 HD 34X60",
-          "maiorLote": "12.700,80",
-          "A": "12.700,80",
-          "A2": "12.700,80",
+          "maiorLote": "11.944,80",
+          "A": "11.944,80",
+          "A2": "11.944,80",
           "B": ""
         },
         {
@@ -1104,16 +1067,16 @@
           "produto": "1961",
           "descricao": "PISO FIORENTINA BR HD 34X60",
           "maiorLote": "12.549,60",
-          "A": "20.563,20",
-          "A2": "20.563,20",
+          "A": "20.109,60",
+          "A2": "20.109,60",
           "B": ""
         },
         {
           "produto": "1960",
           "descricao": "PISO FIORENTINA HD 34X60",
           "maiorLote": "17.690,40",
-          "A": "21.319,20",
-          "A2": "21.319,20",
+          "A": "20.865,60",
+          "A2": "20.865,60",
           "B": ""
         },
         {
@@ -1142,66 +1105,58 @@
         },
         {
           "produto": "1878 5936",
-          "descricao": "PISO FOREST CZ HD 34X60 PISO FRIGGA BR HD 34X60",
+          "descricao": "PISO FOREST CZ HD 34X60",
           "maiorLote": "1.512,00",
-          "A": "1.663,20 11.944,80",
-          "A2": "1.663,20 11.944,80",
+          "A": "1.512,00",
+          "A2": "1.512,00",
           "B": ""
         },
         {
           "produto": "5937",
-          "descricao": "PISO FRIGGA CZ HD 34X60",
+          "descricao": "PISO FRIGGA BR HD 34X60 PISO FRIGGA CZ HD 34X60",
           "maiorLote": "10.886,40",
-          "A": "2.721,60",
-          "A2": "2.721,60",
+          "A": "11.944,80 2.721,60",
+          "A2": "11.944,80 2.721,60",
           "B": ""
         },
         {
           "produto": "5966",
-          "descricao": "",
+          "descricao": "PISO FRIGGA HD 34X60",
           "maiorLote": "2.721,60",
-          "A": "",
-          "A2": "",
+          "A": "22.528,80",
+          "A2": "22.528,80",
           "B": ""
         },
         {
           "produto": "3631",
-          "descricao": "PISO GALAXY HD 34X60",
-          "maiorLote": "7.106,40",
+          "descricao": " PISO GALAXY HD 34X60",
+          "maiorLote": "18.900,00",
           "A": "7.257,60",
-          "A2": "7.257,60",
+          "A2": "",
           "B": ""
         },
         {
-          "produto": "1909 1911",
-          "descricao": "PISO GRACE BG HD 34X60 PISO GRACE BP HD 34X60",
-          "maiorLote": "4.233,60",
-          "A": "4.233,60 0,00",
-          "A2": "4.233,60",
+          "produto": "1909",
+          "descricao": "PISO GRACE BG HD 34X60",
+          "maiorLote": "4.082,40",
+          "A": "4.082,40",
+          "A2": "4.082,40",
           "B": ""
         },
         {
-          "produto": "1908",
-          "descricao": "PISO GRACE MR HD 34X60",
-          "maiorLote": "0,00 2.570,40",
-          "A": "2.570,40",
-          "A2": "0,00 2.570,40",
+          "produto": "1911 1908",
+          "descricao": "PISO GRACE BP HD 34X60 PISO GRACE MR HD 34X60",
+          "maiorLote": "0,00",
+          "A": "0,00 2.116,80",
+          "A2": "0,00",
           "B": ""
-        },
-        {
-          "produto": "34X60 Tamanho:",
-          "descricao": "34X60 Tamanho:",
-          "maiorLote": "34X60 Tamanho:",
-          "A": "34X60 Tamanho:",
-          "A2": "34X60 Tamanho:",
-          "B": "34X60 Tamanho:"
         },
         {
           "produto": "1978",
           "descricao": "PISO GRECO HD 34X60",
-          "maiorLote": "7.408,80",
+          "maiorLote": "2.116,80 7.408,80",
           "A": "7.408,80",
-          "A2": "7.408,80",
+          "A2": "2.116,80 7.408,80",
           "B": ""
         },
         {
@@ -1239,17 +1194,17 @@
         {
           "produto": "1956",
           "descricao": "PISO HIDRA HD 34X60",
-          "maiorLote": "14.968,80",
-          "A": "14.968,80",
-          "A2": "14.968,80",
+          "maiorLote": "14.666,40",
+          "A": "14.666,40",
+          "A2": "14.666,40",
           "B": ""
         },
         {
           "produto": "2024",
           "descricao": "PISO ILLUSION HD 34X60",
-          "maiorLote": "28.425,60",
-          "A": "28.425,60",
-          "A2": "28.425,60",
+          "maiorLote": "27.367,20",
+          "A": "27.367,20",
+          "A2": "27.367,20",
           "B": ""
         },
         {
@@ -1278,26 +1233,26 @@
         },
         {
           "produto": "1952",
-          "descricao": "",
-          "maiorLote": "17.388,00",
-          "A": "21.016,80",
-          "A2": "21.016,80",
+          "descricao": "PISO JARDINS HD 34X60",
+          "maiorLote": "15.271,20",
+          "A": "15.271,20",
+          "A2": "15.271,20",
           "B": ""
         },
         {
-          "produto": "1991 3604",
-          "descricao": "PISO JASMIM HD 34X60 PISO LADRILHO HD 34X60",
+          "produto": "1991",
+          "descricao": "PISO JASMIM HD 34X60",
           "maiorLote": "18.295,20",
-          "A": "19.051,20",
-          "A2": "19.051,20",
+          "A": "18.748,80",
+          "A2": "18.748,80",
           "B": ""
         },
         {
-          "produto": "1958",
-          "descricao": "PISO LAKA BR HD 34X60",
+          "produto": "3604 1958",
+          "descricao": "PISO LADRILHO HD 34X60 PISO LAKA BR HD 34X60",
           "maiorLote": "14.515,20",
-          "A": "18.144,00",
-          "A2": "18.144,00",
+          "A": "17.539,20",
+          "A2": "17.539,20",
           "B": ""
         },
         {
@@ -1327,17 +1282,17 @@
         {
           "produto": "5942",
           "descricao": "PISO MARGARIDA HD 34X60",
-          "maiorLote": "13.456,80",
-          "A": "13.456,80",
-          "A2": "13.456,80",
+          "maiorLote": "13.305,60",
+          "A": "13.305,60",
+          "A2": "13.305,60",
           "B": ""
         },
         {
           "produto": "8971",
           "descricao": "PISO MARMORE BG HD 34X60",
-          "maiorLote": "25.250,40",
-          "A": "25.250,40",
-          "A2": "25.250,40",
+          "maiorLote": "24.494,40",
+          "A": "24.494,40",
+          "A2": "24.494,40",
           "B": ""
         },
         {
@@ -1352,16 +1307,16 @@
           "produto": "8957",
           "descricao": "PISO MARMORE CZ HD 34X60",
           "maiorLote": "10.130,40",
-          "A": "10.584,00",
-          "A2": "10.584,00",
+          "A": "10.130,40",
+          "A2": "10.130,40",
           "B": ""
         },
         {
           "produto": "5953",
           "descricao": "PISO MELODIA BEGE 34X60",
           "maiorLote": "2.268,00",
-          "A": "5.140,80",
-          "A2": "5.140,80",
+          "A": "4.838,40",
+          "A2": "4.838,40",
           "B": ""
         },
         {
@@ -1423,39 +1378,47 @@
         {
           "produto": "3606",
           "descricao": "PISO MURETTO ES HD 34X60",
-          "maiorLote": "4.233,60",
-          "A": "4.233,60",
-          "A2": "4.233,60",
+          "maiorLote": "3.931,20",
+          "A": "3.931,20",
+          "A2": "3.931,20",
           "B": ""
         },
         {
-          "produto": "1940 5989",
-          "descricao": "PISO NAVEGANTES BR HD 34X60 PISO NEWTON BR HD 34X60",
+          "produto": "1940",
+          "descricao": "PISO NAVEGANTES BR HD 34X60",
           "maiorLote": "0,00",
           "A": "0,00",
           "A2": "0,00",
           "B": ""
         },
         {
+          "produto": "5989",
+          "descricao": "PISO NEWTON BR HD 34X60",
+          "maiorLote": "1.663,20",
+          "A": "3.780,00",
+          "A2": "3.780,00",
+          "B": ""
+        },
+        {
           "produto": "5990",
           "descricao": "PISO NEWTON PT HD 34X60",
-          "maiorLote": "1.663,20 2.268,00",
-          "A": "3.780,00 2.268,00",
-          "A2": "3.780,00 2.268,00",
+          "maiorLote": "2.116,80",
+          "A": "2.116,80",
+          "A2": "2.116,80",
           "B": ""
         },
         {
           "produto": "8917",
           "descricao": "PISO NIAGARA BG HD 34X60",
-          "maiorLote": "",
+          "maiorLote": "3.326,40",
           "A": "3.326,40",
           "A2": "3.326,40",
           "B": ""
         },
         {
           "produto": "8918",
-          "descricao": "",
-          "maiorLote": "3.326,40",
+          "descricao": "PISO NIAGARA CZ HD 34X60",
+          "maiorLote": "2.116,80",
           "A": "2.872,80",
           "A2": "2.872,80",
           "B": ""
@@ -1469,35 +1432,27 @@
           "B": ""
         },
         {
-          "produto": "5923 5958",
-          "descricao": "PISO OREON HD 34X60 PISO ORQUIDEA HD 34X60",
-          "maiorLote": "5.745,60",
-          "A": "5.745,60 4.989,60",
-          "A2": "5.745,60",
+          "produto": "5923",
+          "descricao": "PISO OREON HD 34X60",
+          "maiorLote": "5.443,20",
+          "A": "5.443,20",
+          "A2": "5.443,20",
           "B": ""
         },
         {
-          "produto": "8954",
-          "descricao": "PISO PANDORA ES HD 34X60",
-          "maiorLote": "4.989,60 44.755,20",
-          "A": "48.837,60",
-          "A2": "4.989,60 48.837,60",
+          "produto": "5958",
+          "descricao": "PISO ORQUIDEA HD 34X60",
+          "maiorLote": "4.838,40",
+          "A": "4.838,40",
+          "A2": "4.838,40",
           "B": ""
         },
         {
-          "produto": "34X60 Tamanho:",
-          "descricao": "34X60 Tamanho:",
-          "maiorLote": "34X60 Tamanho:",
-          "A": "34X60 Tamanho:",
-          "A2": "34X60 Tamanho:",
-          "B": "34X60 Tamanho:"
-        },
-        {
-          "produto": "5994",
-          "descricao": "PISO PEDRA 57 HD 34X60",
-          "maiorLote": "604,80",
-          "A": "604,80",
-          "A2": "604,80",
+          "produto": "8954 5994",
+          "descricao": "PISO PANDORA ES HD 34X60 PISO PEDRA 57 HD 34X60",
+          "maiorLote": "44.755,20",
+          "A": "48.232,80",
+          "A2": "48.232,80",
           "B": ""
         },
         {
@@ -1512,8 +1467,8 @@
           "produto": "5951",
           "descricao": "PISO PETRA BG HD 34X60",
           "maiorLote": "3.326,40",
-          "A": "4.384,80",
-          "A2": "4.384,80",
+          "A": "4.233,60",
+          "A2": "4.233,60",
           "B": ""
         },
         {
@@ -1544,8 +1499,8 @@
           "produto": "1976",
           "descricao": "PISO PORCELLANAT CL 34X60",
           "maiorLote": "7.560,00",
-          "A": "8.618,40",
-          "A2": "8.618,40",
+          "A": "8.467,20",
+          "A2": "8.467,20",
           "B": ""
         },
         {
@@ -1574,26 +1529,26 @@
         },
         {
           "produto": "5992",
-          "descricao": "PISO RIVIERA BEGE 34X60",
-          "maiorLote": "",
-          "A": "6.955,20",
+          "descricao": "PISO RIVIERA BEGE 34X60 PISO RIVIERA CZ 34X60",
+          "maiorLote": "6.048,00",
+          "A": "6.199,20",
           "A2": "6.199,20",
           "B": ""
         },
         {
-          "produto": "5986 8972",
-          "descricao": "PISO RIVIERA CZ 34X60 PISO SAHARA HD 34X60",
-          "maiorLote": "5.896,80 9.676,80",
+          "produto": "5986",
+          "descricao": "",
+          "maiorLote": "9.676,80",
           "A": "9.676,80",
-          "A2": "6.955,20 9.676,80",
+          "A2": "9.676,80",
           "B": ""
         },
         {
-          "produto": "1954",
-          "descricao": "PISO SENSE HD 34X60",
+          "produto": "8972 1954",
+          "descricao": "PISO SAHARA HD 34X60 PISO SENSE HD 34X60",
           "maiorLote": "39.160,80",
-          "A": "67.284,00",
-          "A2": "67.284,00",
+          "A": "66.981,60",
+          "A2": "66.981,60",
           "B": ""
         },
         {
@@ -1632,48 +1587,48 @@
           "produto": "2021",
           "descricao": "PISO SPACE BG HD 34X60",
           "maiorLote": "8.164,80",
-          "A": "9.676,80",
-          "A2": "9.676,80",
+          "A": "9.525,60",
+          "A2": "9.525,60",
           "B": ""
         },
         {
           "produto": "2022",
           "descricao": "PISO SPACE PT HD 34X60",
           "maiorLote": "5.292,00",
-          "A": "5.443,20",
-          "A2": "5.443,20",
+          "A": "5.292,00",
+          "A2": "5.292,00",
           "B": ""
         },
         {
           "produto": "3590",
           "descricao": "PISO SPRING HD 34X60",
           "maiorLote": "18.295,20",
-          "A": "24.948,00",
-          "A2": "24.948,00",
+          "A": "24.343,20",
+          "A2": "24.343,20",
           "B": ""
         },
         {
           "produto": "1920",
           "descricao": "PISO STAR HD 34X60",
-          "maiorLote": "13.608,00",
-          "A": "13.608,00",
-          "A2": "13.608,00",
+          "maiorLote": "13.305,60",
+          "A": "13.305,60",
+          "A2": "13.305,60",
           "B": ""
         },
         {
           "produto": "1947",
           "descricao": "PISO TIJOLINHO HD 34X60",
-          "maiorLote": "5.594,40",
-          "A": "5.594,40",
-          "A2": "5.594,40",
+          "maiorLote": "5.292,00",
+          "A": "5.292,00",
+          "A2": "5.292,00",
           "B": ""
         },
         {
           "produto": "5955",
           "descricao": "PISO TIJOLO 57 HD 34X60",
           "maiorLote": "38.707,20",
-          "A": "46.569,60",
-          "A2": "46.569,60",
+          "A": "45.208,80",
+          "A2": "45.208,80",
           "B": ""
         },
         {
@@ -1690,14 +1645,6 @@
           "maiorLote": "9.979,20",
           "A": "9.979,20",
           "A2": "9.979,20",
-          "B": ""
-        },
-        {
-          "produto": "5988",
-          "descricao": "PISO TRAVERTINO CZ 34X60",
-          "maiorLote": "151,20",
-          "A": "151,20",
-          "A2": "151,20",
           "B": ""
         },
         {
@@ -1719,25 +1666,25 @@
         {
           "produto": "1957",
           "descricao": "PISO VISION BR HD 34X60",
-          "maiorLote": "16.027,20",
-          "A": "16.027,20",
-          "A2": "16.027,20",
+          "maiorLote": "15.422,40",
+          "A": "15.422,40",
+          "A2": "15.422,40",
           "B": ""
         },
         {
           "produto": "1974",
           "descricao": "PISO VISION HD 34X60",
-          "maiorLote": "5.896,80",
-          "A": "5.896,80",
-          "A2": "5.896,80",
+          "maiorLote": "5.745,60",
+          "A": "5.745,60",
+          "A2": "5.745,60",
           "B": ""
         },
         {
           "produto": "8963",
           "descricao": "PISO VITORIA BR HD 34X60",
-          "maiorLote": "2.872,80",
-          "A": "2.872,80",
-          "A2": "2.872,80",
+          "maiorLote": "2.570,40",
+          "A": "2.570,40",
+          "A2": "2.570,40",
           "B": ""
         },
         {
@@ -1751,9 +1698,9 @@
         {
           "produto": "3642",
           "descricao": "PISO VITRAL BP 34X60",
-          "maiorLote": "302,40",
-          "A": "302,40",
-          "A2": "302,40",
+          "maiorLote": "151,20",
+          "A": "151,20",
+          "A2": "151,20",
           "B": ""
         },
         {
@@ -1776,24 +1723,8 @@
           "produto": "1963",
           "descricao": "PISO VIVALDI MR HD 34X60",
           "maiorLote": "5.292,00",
-          "A": "7.560,00",
-          "A2": "7.560,00",
-          "B": ""
-        },
-        {
-          "produto": "40x81 Tamanho:",
-          "descricao": "40x81 Tamanho:",
-          "maiorLote": "40x81 Tamanho:",
-          "A": "40x81 Tamanho:",
-          "A2": "40x81 Tamanho:",
-          "B": "40x81 Tamanho:"
-        },
-        {
-          "produto": "50420 AMOSTRA FORMIGRES PREMIUM 40X81",
-          "descricao": "50420 AMOSTRA FORMIGRES PREMIUM 40X81",
-          "maiorLote": "85,88",
-          "A": "85,88",
-          "A2": "85,88",
+          "A": "7.408,80",
+          "A2": "7.408,80",
           "B": ""
         }
       ]
@@ -1801,6 +1732,38 @@
     {
       "dimensions": "40x81",
       "products": [
+        {
+          "produto": "50420",
+          "descricao": "AMOSTRA FORMIGRES PREMIUM 40X81",
+          "maiorLote": "85,88",
+          "A": "85,88",
+          "A2": "85,88",
+          "B": ""
+        },
+        {
+          "produto": "50409",
+          "descricao": "PISO BRANCO MATE RT 40X81",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
+          "B": ""
+        },
+        {
+          "produto": "60520",
+          "descricao": "PISO BRANCO RT POLIDO 40X81",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
+          "B": ""
+        },
+        {
+          "produto": "60518",
+          "descricao": "PISO ONIX CRISTAL RT POLIDO 40X81",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
+          "B": ""
+        },
         {
           "produto": "60521",
           "descricao": "PISO P.E 40X81 POLIDO",
@@ -1870,17 +1833,17 @@
         {
           "produto": "1680",
           "descricao": "PISO ADERE BG HD 45",
-          "maiorLote": "11.136,00",
-          "A": "11.136,00",
-          "A2": "11.136,00",
+          "maiorLote": "11.008,00",
+          "A": "11.008,00",
+          "A2": "11.008,00",
           "B": ""
         },
         {
           "produto": "1679",
           "descricao": "PISO ADERE CZ HD 45",
           "maiorLote": "25.856,00",
-          "A": "31.360,00",
-          "A2": "31.360,00",
+          "A": "31.104,00",
+          "A2": "31.104,00",
           "B": ""
         },
         {
@@ -1894,17 +1857,17 @@
         {
           "produto": "8852",
           "descricao": "PISO ALFA BG HD 45",
-          "maiorLote": "3.840,00",
-          "A": "3.840,00",
-          "A2": "3.840,00",
+          "maiorLote": "3.456,00",
+          "A": "3.456,00",
+          "A2": "3.456,00",
           "B": ""
         },
         {
           "produto": "8853",
           "descricao": "PISO ALFA CZ HD 45",
           "maiorLote": "6.272,00",
-          "A": "6.784,00",
-          "A2": "6.784,00",
+          "A": "6.400,00",
+          "A2": "6.400,00",
           "B": ""
         },
         {
@@ -1918,17 +1881,17 @@
         {
           "produto": "3438",
           "descricao": "PISO ALICANTE VD HD 45",
-          "maiorLote": "1.152,00",
-          "A": "1.536,00",
-          "A2": "1.536,00",
+          "maiorLote": "1.024,00",
+          "A": "1.408,00",
+          "A2": "1.408,00",
           "B": ""
         },
         {
           "produto": "3494",
           "descricao": "PISO ALLURE BR HD 45",
           "maiorLote": "14.208,00",
-          "A": "27.008,00",
-          "A2": "27.008,00",
+          "A": "26.880,00",
+          "A2": "26.880,00",
           "B": ""
         },
         {
@@ -1974,17 +1937,17 @@
         {
           "produto": "1205",
           "descricao": "PISO ARENA 45",
-          "maiorLote": "128,00",
-          "A": "128,00",
-          "A2": "128,00",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
           "produto": "1828",
           "descricao": "PISO ARGUS HD 45",
-          "maiorLote": "12.288,00",
-          "A": "12.672,00",
-          "A2": "12.672,00",
+          "maiorLote": "11.136,00",
+          "A": "11.520,00",
+          "A2": "11.520,00",
           "B": ""
         },
         {
@@ -2007,46 +1970,46 @@
           "produto": "3427",
           "descricao": "PISO ASTRA BG 45",
           "maiorLote": "36.736,00",
-          "A": "48.640,00",
-          "A2": "48.640,00",
+          "A": "47.872,00",
+          "A2": "47.872,00",
           "B": ""
         },
         {
           "produto": "3428",
           "descricao": "PISO ASTRA CZ 45",
-          "maiorLote": "16.896,00",
-          "A": "16.896,00",
-          "A2": "16.896,00",
+          "maiorLote": "15.744,00",
+          "A": "15.744,00",
+          "A2": "15.744,00",
           "B": ""
         },
         {
           "produto": "3536",
-          "descricao": "PISO AURORA BP HD 45 PISO AURORA MR HD 45",
+          "descricao": "PISO AURORA BP HD 45",
           "maiorLote": "16.128,00",
-          "A": "24.448,00 12.160,00",
-          "A2": "24.448,00 12.160,00",
+          "A": "24.448,00",
+          "A2": "24.448,00",
           "B": ""
         },
         {
-          "produto": "3557 3537",
-          "descricao": "PISO AURORA VD HD 45",
-          "maiorLote": "9.984,00 1.664,00",
-          "A": "1.664,00",
-          "A2": "1.664,00",
+          "produto": "3557",
+          "descricao": "PISO AURORA MR HD 45",
+          "maiorLote": "9.984,00",
+          "A": "12.160,00",
+          "A2": "12.160,00",
           "B": ""
         },
         {
-          "produto": "5756",
-          "descricao": "PISO AZERA BG HD 45",
-          "maiorLote": "1.024,00",
-          "A": "1.152,00",
-          "A2": "1.152,00",
+          "produto": "3537 5756",
+          "descricao": "PISO AURORA VD HD 45 PISO AZERA BG HD 45",
+          "maiorLote": "1.664,00",
+          "A": "1.664,00 1.152,00",
+          "A2": "1.664,00 1.152,00",
           "B": ""
         },
         {
           "produto": "5504",
-          "descricao": "PISO AZURRO 45",
-          "maiorLote": "11.520,00",
+          "descricao": " PISO AZURRO 45",
+          "maiorLote": "1.024,00",
           "A": "15.616,00",
           "A2": "15.616,00",
           "B": ""
@@ -2070,49 +2033,41 @@
         {
           "produto": "1422",
           "descricao": "PISO BARCELONA 45",
-          "maiorLote": "",
-          "A": "",
+          "maiorLote": "768,00",
+          "A": "1.408,00",
           "A2": "1.408,00",
           "B": ""
         },
         {
           "produto": "1200 1212",
           "descricao": "PISO BARILOCHE 45 PISO BASALTO 45",
-          "maiorLote": "1.920,00 0,00",
-          "A": "1.920,00 0,00",
-          "A2": "1.920,00 0,00",
+          "maiorLote": "15.872,00",
+          "A": "25.088,00",
+          "A2": "25.088,00",
           "B": ""
         },
         {
           "produto": "1213",
           "descricao": "PISO BAUXITA 45",
           "maiorLote": "9.600,00",
-          "A": "13.824,00",
-          "A2": "13.824,00",
+          "A": "13.312,00",
+          "A2": "13.312,00",
           "B": ""
-        },
-        {
-          "produto": "45X45 Tamanho:",
-          "descricao": "45X45 Tamanho:",
-          "maiorLote": "45X45 Tamanho:",
-          "A": "45X45 Tamanho:",
-          "A2": "45X45 Tamanho:",
-          "B": "45X45 Tamanho:"
         },
         {
           "produto": "1714",
           "descricao": "PISO BEGE 45",
-          "maiorLote": "384,00",
-          "A": "384,00",
-          "A2": "384,00",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
           "produto": "5505",
           "descricao": "PISO BIANCO 45",
-          "maiorLote": "1.536,00",
-          "A": "1.536,00",
-          "A2": "1.536,00",
+          "maiorLote": "1.408,00",
+          "A": "1.408,00",
+          "A2": "1.408,00",
           "B": ""
         },
         {
@@ -2134,9 +2089,9 @@
         {
           "produto": "1713",
           "descricao": "PISO BRANCO 45",
-          "maiorLote": "3.200,00",
-          "A": "3.202,00",
-          "A2": "3.202,00",
+          "maiorLote": "2.048,00",
+          "A": "2.050,00",
+          "A2": "2.050,00",
           "B": ""
         },
         {
@@ -2180,17 +2135,17 @@
           "B": ""
         },
         {
-          "produto": "5509",
-          "descricao": "PISO CARRARA BEGE 45",
-          "maiorLote": "",
+          "produto": "5509 5510",
+          "descricao": "PISO CARRARA BEGE 45 PISO CARRARA CINZA 45",
+          "maiorLote": "5.376,00",
           "A": "5.504,00",
-          "A2": "1.152,00 5.504,00",
+          "A2": "5.504,00",
           "B": ""
         },
         {
-          "produto": "5510 1219",
-          "descricao": "PISO CARRARA CINZA 45 PISO CARVALHO 45",
-          "maiorLote": "5.376,00 2.048,00",
+          "produto": "1219",
+          "descricao": "PISO CARVALHO 45",
+          "maiorLote": "2.048,00",
           "A": "2.048,00",
           "A2": "2.048,00",
           "B": ""
@@ -2206,9 +2161,9 @@
         {
           "produto": "1639",
           "descricao": "PISO CENTAURO CZ HD 45",
-          "maiorLote": "13.824,00",
-          "A": "14.208,00",
-          "A2": "14.208,00",
+          "maiorLote": "12.928,00",
+          "A": "13.184,00",
+          "A2": "13.184,00",
           "B": ""
         },
         {
@@ -2238,9 +2193,9 @@
         {
           "produto": "1223",
           "descricao": "PISO CREMA 45",
-          "maiorLote": "7.296,00",
-          "A": "7.296,00",
-          "A2": "7.296,00",
+          "maiorLote": "6.784,00",
+          "A": "6.784,00",
+          "A2": "6.784,00",
           "B": ""
         },
         {
@@ -2254,9 +2209,9 @@
         {
           "produto": "5513",
           "descricao": "PISO CRISTAL MARROM 45",
-          "maiorLote": "11.136,00",
-          "A": "11.136,00",
-          "A2": "11.136,00",
+          "maiorLote": "10.368,00",
+          "A": "10.368,00",
+          "A2": "10.368,00",
           "B": ""
         },
         {
@@ -2270,9 +2225,9 @@
         {
           "produto": "1475",
           "descricao": "PISO DALI BEGE 45",
-          "maiorLote": "16.512,00",
-          "A": "17.024,00",
-          "A2": "17.024,00",
+          "maiorLote": "16.384,00",
+          "A": "16.896,00",
+          "A2": "16.896,00",
           "B": ""
         },
         {
@@ -2286,33 +2241,33 @@
         {
           "produto": "1226",
           "descricao": "PISO DECK 45",
-          "maiorLote": "8.832,00",
-          "A": "8.832,00",
-          "A2": "8.832,00",
+          "maiorLote": "8.320,00",
+          "A": "8.320,00",
+          "A2": "8.320,00",
           "B": ""
         },
         {
           "produto": "3358",
           "descricao": "PISO DELUXE 45",
-          "maiorLote": "14.848,00",
-          "A": "15.232,00",
-          "A2": "15.232,00",
+          "maiorLote": "14.080,00",
+          "A": "14.080,00",
+          "A2": "14.080,00",
           "B": ""
         },
         {
           "produto": "9029",
           "descricao": "PISO DUBAI BEGE HD 45",
           "maiorLote": "10.496,00",
-          "A": "11.392,00",
-          "A2": "11.392,00",
+          "A": "11.136,00",
+          "A2": "11.136,00",
           "B": ""
         },
         {
           "produto": "3362",
           "descricao": "PISO DUOMO MR 45",
           "maiorLote": "6.016,00",
-          "A": "6.656,00",
-          "A2": "6.656,00",
+          "A": "6.528,00",
+          "A2": "6.528,00",
           "B": ""
         },
         {
@@ -2326,9 +2281,9 @@
         {
           "produto": "1845",
           "descricao": "PISO ETHIOS CZ HD 45",
-          "maiorLote": "6.016,00",
-          "A": "6.400,00",
-          "A2": "6.400,00",
+          "maiorLote": "5.504,00",
+          "A": "5.888,00",
+          "A2": "5.888,00",
           "B": ""
         },
         {
@@ -2366,42 +2321,34 @@
         {
           "produto": "5678",
           "descricao": "PISO EVORA M 45",
-          "maiorLote": "2.304,00",
-          "A": "2.304,00",
-          "A2": "2.304,00",
+          "maiorLote": "2.176,00",
+          "A": "2.176,00",
+          "A2": "2.176,00",
           "B": ""
         },
         {
           "produto": "1233",
           "descricao": "PISO FLORESCER 45",
-          "maiorLote": "1.536,00",
-          "A": "1.536,00",
-          "A2": "1.536,00",
+          "maiorLote": "1.024,00",
+          "A": "1.024,00",
+          "A2": "1.024,00",
           "B": ""
         },
         {
-          "produto": "1467",
-          "descricao": "PISO FREIJO CL 45",
-          "maiorLote": "10.496,00",
-          "A": "10.496,00",
-          "A2": "10.496,00",
+          "produto": "1467 1474",
+          "descricao": "PISO FREIJO CL 45 PISO FREIJO M 45",
+          "maiorLote": "9.984,00",
+          "A": "9.984,00",
+          "A2": "9.984,00",
           "B": ""
         },
         {
-          "produto": "1474 1402",
-          "descricao": "PISO FREIJO M 45",
-          "maiorLote": "15.104,00",
-          "A": "19.968,00",
-          "A2": "19.968,00",
+          "produto": "1402",
+          "descricao": "PISO GARDEN 45",
+          "maiorLote": "6.400,00",
+          "A": "6.400,00",
+          "A2": "6.400,00",
           "B": ""
-        },
-        {
-          "produto": "45X45 Tamanho:",
-          "descricao": "45X45 Tamanho:",
-          "maiorLote": "45X45 Tamanho:",
-          "A": "45X45 Tamanho:",
-          "A2": "45X45 Tamanho:",
-          "B": "45X45 Tamanho:"
         },
         {
           "produto": "8709",
@@ -2414,17 +2361,17 @@
         {
           "produto": "5747",
           "descricao": "PISO GRAMADO HD 45",
-          "maiorLote": "11.392,00",
-          "A": "11.392,00",
-          "A2": "11.392,00",
+          "maiorLote": "11.264,00",
+          "A": "11.264,00",
+          "A2": "11.264,00",
           "B": ""
         },
         {
           "produto": "3566",
           "descricao": "PISO GRANADA HD 45",
-          "maiorLote": "4.352,00",
-          "A": "4.992,00",
-          "A2": "4.992,00",
+          "maiorLote": "4.224,00",
+          "A": "4.864,00",
+          "A2": "4.864,00",
           "B": ""
         },
         {
@@ -2455,16 +2402,16 @@
           "produto": "1355",
           "descricao": "PISO IMBUIA CL 45",
           "maiorLote": "39.424,00",
-          "A": "47.616,00",
-          "A2": "47.616,00",
+          "A": "47.360,00",
+          "A2": "47.360,00",
           "B": ""
         },
         {
           "produto": "1359",
           "descricao": "PISO IMBUIA M 45",
           "maiorLote": "18.688,00",
-          "A": "21.120,00",
-          "A2": "21.120,00",
+          "A": "20.992,00",
+          "A2": "20.992,00",
           "B": ""
         },
         {
@@ -2479,8 +2426,8 @@
           "produto": "1356",
           "descricao": "PISO JACARANDA M 45",
           "maiorLote": "20.608,00",
-          "A": "42.752,00",
-          "A2": "42.752,00",
+          "A": "42.368,00",
+          "A2": "42.368,00",
           "B": ""
         },
         {
@@ -2526,9 +2473,9 @@
         {
           "produto": "5521",
           "descricao": "PISO JAVA VERDE 45",
-          "maiorLote": "1.408,00",
-          "A": "1.408,00",
-          "A2": "1.408,00",
+          "maiorLote": "768,00",
+          "A": "768,00",
+          "A2": "768,00",
           "B": ""
         },
         {
@@ -2566,17 +2513,17 @@
         {
           "produto": "5891",
           "descricao": "PISO LAPA HD 45",
-          "maiorLote": "1.152,00",
-          "A": "1.152,00",
-          "A2": "1.152,00",
+          "maiorLote": "128,00",
+          "A": "128,00",
+          "A2": "128,00",
           "B": ""
         },
         {
           "produto": "1367",
           "descricao": "PISO LEBLON 45",
-          "maiorLote": "9.216,00",
-          "A": "9.216,00",
-          "A2": "9.216,00",
+          "maiorLote": "8.832,00",
+          "A": "8.832,00",
+          "A2": "8.832,00",
           "B": ""
         },
         {
@@ -2590,9 +2537,9 @@
         {
           "produto": "1366",
           "descricao": "PISO LIMONE 45",
-          "maiorLote": "3.072,00",
-          "A": "3.200,00",
-          "A2": "3.200,00",
+          "maiorLote": "2.944,00",
+          "A": "2.944,00",
+          "A2": "2.944,00",
           "B": ""
         },
         {
@@ -2614,33 +2561,41 @@
         {
           "produto": "1740",
           "descricao": "PISO MACO BP HD 45",
-          "maiorLote": "27.776,00",
-          "A": "27.776,00",
-          "A2": "27.776,00",
+          "maiorLote": "27.392,00",
+          "A": "27.392,00",
+          "A2": "27.392,00",
           "B": ""
         },
         {
-          "produto": "1732 3237",
-          "descricao": "PISO MACO HD 45 PISO MAGNETITE 45",
-          "maiorLote": "8.832,00 5.888,00",
-          "A": "8.832,00",
-          "A2": "8.832,00 9.088,00",
+          "produto": "1732",
+          "descricao": "PISO MACO HD 45",
+          "maiorLote": "8.192,00",
+          "A": "8.192,00",
+          "A2": "8.192,00",
+          "B": ""
+        },
+        {
+          "produto": "3237",
+          "descricao": "PISO MAGNETITE 45",
+          "maiorLote": "5.888,00",
+          "A": "9.088,00",
+          "A2": "9.088,00",
           "B": ""
         },
         {
           "produto": "1362 1361",
           "descricao": "PISO MARFIM 45 PISO MARMO BIANCO 45",
-          "maiorLote": "1.280,00 256,00",
-          "A": "1.280,00 384,00",
-          "A2": "384,00",
+          "maiorLote": "768,00 256,00",
+          "A": "768,00 384,00",
+          "A2": "768,00 384,00",
           "B": ""
         },
         {
           "produto": "5523",
           "descricao": "PISO MELODIA BEGE 45",
-          "maiorLote": "896,00",
-          "A": "896,00",
-          "A2": "896,00",
+          "maiorLote": "768,00",
+          "A": "768,00",
+          "A2": "768,00",
           "B": ""
         },
         {
@@ -2654,7 +2609,7 @@
         {
           "produto": "8873",
           "descricao": "PISO MIMAS BR HD 45",
-          "maiorLote": "1.792,00",
+          "maiorLote": "",
           "A": "3.328,00",
           "A2": "3.328,00",
           "B": ""
@@ -2662,33 +2617,33 @@
         {
           "produto": "8875",
           "descricao": "PISO MIMAS CL HD 45",
+          "maiorLote": "1.792,00",
+          "A": "",
+          "A2": "",
+          "B": ""
+        },
+        {
+          "produto": "8858",
+          "descricao": "",
           "maiorLote": "4.096,00",
           "A": "5.376,00",
           "A2": "5.376,00",
           "B": ""
         },
         {
-          "produto": "8858",
-          "descricao": "PISO MINERALE MR HD 45",
-          "maiorLote": "1.792,00",
-          "A": "3.200,00",
-          "A2": "3.200,00",
-          "B": ""
-        },
-        {
           "produto": "3239",
-          "descricao": "PISO MIRACEMA 45",
-          "maiorLote": "",
-          "A": "",
-          "A2": "2.176,00",
+          "descricao": "PISO MINERALE MR HD 45 PISO MIRACEMA 45",
+          "maiorLote": "1.792,00 1.920,00",
+          "A": "3.200,00 1.920,00",
+          "A2": "3.200,00 1.920,00",
           "B": ""
         },
         {
           "produto": "1358",
           "descricao": "PISO MOGNO 45",
-          "maiorLote": "2.176,00 5.632,00",
-          "A": "2.176,00 5.632,00",
-          "A2": "5.632,00",
+          "maiorLote": "5.376,00",
+          "A": "5.376,00",
+          "A2": "5.376,00",
           "B": ""
         },
         {
@@ -2700,19 +2655,11 @@
           "B": ""
         },
         {
-          "produto": "45X45 Tamanho:",
-          "descricao": "45X45 Tamanho:",
-          "maiorLote": "45X45 Tamanho:",
-          "A": "45X45 Tamanho:",
-          "A2": "45X45 Tamanho:",
-          "B": "45X45 Tamanho:"
-        },
-        {
           "produto": "8711",
           "descricao": "PISO MONDEO 45",
           "maiorLote": "7.552,00",
-          "A": "8.064,00",
-          "A2": "8.064,00",
+          "A": "7.808,00",
+          "A2": "7.808,00",
           "B": ""
         },
         {
@@ -2766,81 +2713,81 @@
         {
           "produto": "1246",
           "descricao": "PISO NEON 45",
-          "maiorLote": "4.992,00",
-          "A": "5.248,00",
-          "A2": "5.248,00",
+          "maiorLote": "4.736,00",
+          "A": "4.992,00",
+          "A2": "4.992,00",
           "B": ""
         },
         {
           "produto": "1371",
           "descricao": "PISO NEVE 45",
-          "maiorLote": "29.952,00",
-          "A": "38.272,00",
-          "A2": "38.272,00",
+          "maiorLote": "29.824,00",
+          "A": "37.632,00",
+          "A2": "37.632,00",
           "B": ""
         },
         {
           "produto": "3216",
           "descricao": "PISO OLIVA GREEN 45",
-          "maiorLote": "10.624,00",
-          "A": "16.640,00",
-          "A2": "16.640,00",
+          "maiorLote": "11.392,00",
+          "A": "1.408,00",
+          "A2": "17.664,00 1.408,00",
           "B": ""
         },
         {
-          "produto": "3217",
-          "descricao": "PISO OLIVA RED 45",
-          "maiorLote": "896,00",
-          "A": "",
-          "A2": "1.408,00",
+          "produto": "3217 3565",
+          "descricao": "PISO OLIVA RED 45 PISO OMEGA HD 45",
+          "maiorLote": "896,00 3.200,00",
+          "A": "3.328,00",
+          "A2": "3.328,00",
           "B": ""
         },
         {
-          "produto": "3565 1368",
-          "descricao": "PISO OMEGA HD 45 PISO ONIX WHITE 45",
-          "maiorLote": "3.200,00 2.432,00",
-          "A": "3.456,00 2.944,00",
-          "A2": "3.456,00 2.944,00",
+          "produto": "1368",
+          "descricao": "PISO ONIX WHITE 45",
+          "maiorLote": "2.432,00",
+          "A": "2.944,00",
+          "A2": "2.944,00",
           "B": ""
         },
         {
           "produto": "1360",
           "descricao": "PISO OREGON 45",
-          "maiorLote": "36.864,00",
-          "A": "36.864,00",
-          "A2": "36.864,00",
+          "maiorLote": "36.096,00",
+          "A": "36.096,00",
+          "A2": "36.096,00",
           "B": ""
         },
         {
           "produto": "3434",
           "descricao": "PISO ORIGEN CL HD 45",
-          "maiorLote": "2.816,00",
-          "A": "2.816,00",
-          "A2": "2.816,00",
+          "maiorLote": "2.560,00",
+          "A": "2.560,00",
+          "A2": "2.560,00",
           "B": ""
         },
         {
           "produto": "3433",
           "descricao": "PISO ORIGEN ES HD 45",
-          "maiorLote": "12.800,00",
-          "A": "12.800,00",
-          "A2": "12.800,00",
+          "maiorLote": "12.160,00",
+          "A": "12.160,00",
+          "A2": "12.160,00",
           "B": ""
         },
         {
           "produto": "5762",
           "descricao": "PISO PALATINO HD 45",
-          "maiorLote": "256,00",
-          "A": "256,00",
-          "A2": "256,00",
+          "maiorLote": "128,00",
+          "A": "128,00",
+          "A2": "128,00",
           "B": ""
         },
         {
           "produto": "5528",
           "descricao": "PISO PAU BRASIL 45",
-          "maiorLote": "256,00",
-          "A": "256,00",
-          "A2": "256,00",
+          "maiorLote": "128,00",
+          "A": "128,00",
+          "A2": "128,00",
           "B": ""
         },
         {
@@ -2854,17 +2801,17 @@
         {
           "produto": "5529",
           "descricao": "PISO PETROLEO 45",
-          "maiorLote": "6.400,00",
-          "A": "6.400,00",
-          "A2": "6.400,00",
+          "maiorLote": "6.272,00",
+          "A": "6.272,00",
+          "A2": "6.272,00",
           "B": ""
         },
         {
           "produto": "5892",
           "descricao": "PISO PIZARRA HD 45",
-          "maiorLote": "2.688,00",
-          "A": "2.944,00",
-          "A2": "2.944,00",
+          "maiorLote": "2.048,00",
+          "A": "2.304,00",
+          "A2": "2.304,00",
           "B": ""
         },
         {
@@ -2879,8 +2826,8 @@
           "produto": "1247",
           "descricao": "PISO POMES 45",
           "maiorLote": "22.528,00",
-          "A": "29.824,00",
-          "A2": "29.824,00",
+          "A": "28.416,00",
+          "A2": "28.416,00",
           "B": ""
         },
         {
@@ -2895,8 +2842,8 @@
           "produto": "1349",
           "descricao": "PISO PROVENSAL BEGE 45",
           "maiorLote": "4.608,00",
-          "A": "10.112,00",
-          "A2": "10.112,00",
+          "A": "9.600,00",
+          "A2": "9.600,00",
           "B": ""
         },
         {
@@ -2910,9 +2857,9 @@
         {
           "produto": "5798",
           "descricao": "PISO RENDA BRANCO HD 45",
-          "maiorLote": "5.632,00",
-          "A": "5.888,00",
-          "A2": "5.888,00",
+          "maiorLote": "4.864,00",
+          "A": "5.120,00",
+          "A2": "5.120,00",
           "B": ""
         },
         {
@@ -2926,17 +2873,17 @@
         {
           "produto": "1248",
           "descricao": "PISO RESISTENCE 45",
-          "maiorLote": "1.536,00",
-          "A": "1.536,00",
-          "A2": "1.536,00",
+          "maiorLote": "1.280,00",
+          "A": "1.280,00",
+          "A2": "1.280,00",
           "B": ""
         },
         {
           "produto": "1345",
           "descricao": "PISO RESISTENCE 46",
-          "maiorLote": "11.648,00",
-          "A": "11.648,00",
-          "A2": "11.648,00",
+          "maiorLote": "10.624,00",
+          "A": "10.624,00",
+          "A2": "10.624,00",
           "B": ""
         },
         {
@@ -2951,16 +2898,16 @@
           "produto": "5537",
           "descricao": "PISO RIVIERA BEGE 45",
           "maiorLote": "2.432,00",
-          "A": "2.432,00",
-          "A2": "2.432,00",
+          "A": "2.432,00 5.760,00",
+          "A2": "2.432,00 5.760,00",
           "B": ""
         },
         {
           "produto": "5538",
           "descricao": "PISO RIVIERA CINZA 45",
           "maiorLote": "4.608,00",
-          "A": "5.760,00",
-          "A2": "5.760,00",
+          "A": "",
+          "A2": "",
           "B": ""
         },
         {
@@ -2982,34 +2929,26 @@
         {
           "produto": "1249",
           "descricao": "PISO ROCHOSA 45",
-          "maiorLote": "3.968,00",
-          "A": "3.968,00",
-          "A2": "3.968,00",
+          "maiorLote": "3.072,00",
+          "A": "3.072,00",
+          "A2": "3.072,00",
           "B": ""
         },
         {
-          "produto": "1689",
-          "descricao": "PISO RUSTICO BG HD 45",
+          "produto": "1689 1688",
+          "descricao": "PISO RUSTICO BG HD 45 PISO RUSTICO CZ HD 45",
           "maiorLote": "2.944,00",
           "A": "3.328,00",
           "A2": "3.328,00",
           "B": ""
         },
         {
-          "produto": "1688 1690",
-          "descricao": "PISO RUSTICO CZ HD 45",
-          "maiorLote": "2.560,00",
-          "A": "5.376,00",
-          "A2": "5.376,00",
+          "produto": "1690",
+          "descricao": "PISO RUSTICO MR HD 45",
+          "maiorLote": "256,00",
+          "A": "256,00",
+          "A2": "256,00",
           "B": ""
-        },
-        {
-          "produto": "45X45 Tamanho:",
-          "descricao": "45X45 Tamanho:",
-          "maiorLote": "45X45 Tamanho:",
-          "A": "45X45 Tamanho:",
-          "A2": "45X45 Tamanho:",
-          "B": "45X45 Tamanho:"
         },
         {
           "produto": "8855",
@@ -3023,24 +2962,24 @@
           "produto": "8854",
           "descricao": "PISO SAN LORENZO CZ HD 45",
           "maiorLote": "13.952,00",
-          "A": "15.360,00",
-          "A2": "15.360,00",
+          "A": "14.848,00",
+          "A2": "14.848,00",
           "B": ""
         },
         {
           "produto": "2064",
           "descricao": "PISO SAUDI AZUL HD 45",
-          "maiorLote": "9.216,00",
-          "A": "10.496,00",
-          "A2": "10.496,00",
+          "maiorLote": "8.832,00",
+          "A": "10.112,00",
+          "A2": "10.112,00",
           "B": ""
         },
         {
           "produto": "9024",
           "descricao": "PISO SAUDI MADERA BLUE HD 45",
           "maiorLote": "5.504,00",
-          "A": "7.168,00",
-          "A2": "7.168,00",
+          "A": "6.784,00",
+          "A2": "6.784,00",
           "B": ""
         },
         {
@@ -3070,9 +3009,9 @@
         {
           "produto": "5539",
           "descricao": "PISO SHANGAI BEGE 45",
-          "maiorLote": "7.296,00",
-          "A": "7.296,00",
-          "A2": "7.296,00",
+          "maiorLote": "6.784,00",
+          "A": "6.784,00",
+          "A2": "6.784,00",
           "B": ""
         },
         {
@@ -3087,22 +3026,22 @@
           "produto": "1334",
           "descricao": "PISO SINTONIA 45",
           "maiorLote": "9.600,00",
-          "A": "10.368,00",
-          "A2": "10.368,00",
+          "A": "10.880,00",
+          "A2": "10.368,00 10.880,00",
           "B": ""
         },
         {
-          "produto": "1330",
-          "descricao": "PISO SOL RED 45",
-          "maiorLote": "",
+          "produto": "1330 5567",
+          "descricao": "PISO SOL RED 45 PISO STONE 45",
+          "maiorLote": "9.472,00 19.328,00",
           "A": "23.808,00",
-          "A2": "11.136,00 23.808,00",
+          "A2": "23.808,00",
           "B": ""
         },
         {
-          "produto": "5567 5587",
-          "descricao": "PISO STONE 45 PISO SUPER MARINO 45",
-          "maiorLote": "19.328,00 14.080,00",
+          "produto": "5587",
+          "descricao": "PISO SUPER MARINO 45",
+          "maiorLote": "14.080,00",
           "A": "14.080,00",
           "A2": "14.080,00",
           "B": ""
@@ -3111,8 +3050,8 @@
           "produto": "1415",
           "descricao": "PISO SUPREME 45",
           "maiorLote": "15.104,00",
-          "A": "15.488,00",
-          "A2": "15.488,00",
+          "A": "15.232,00",
+          "A2": "15.232,00",
           "B": ""
         },
         {
@@ -3151,8 +3090,8 @@
           "produto": "5746",
           "descricao": "PISO TRAFEGO BG 45",
           "maiorLote": "6.016,00",
-          "A": "6.144,00",
-          "A2": "6.144,00",
+          "A": "6.016,00",
+          "A2": "6.016,00",
           "B": ""
         },
         {
@@ -3174,9 +3113,9 @@
         {
           "produto": "1323",
           "descricao": "PISO TREVISO 45",
-          "maiorLote": "5.632,00",
-          "A": "5.632,00",
-          "A2": "5.632,00",
+          "maiorLote": "3.712,00",
+          "A": "3.712,00",
+          "A2": "3.712,00",
           "B": ""
         },
         {
@@ -3190,17 +3129,17 @@
         {
           "produto": "1321",
           "descricao": "PISO TROIA 45",
-          "maiorLote": "6.400,00",
-          "A": "6.400,00",
-          "A2": "6.400,00",
+          "maiorLote": "5.376,00",
+          "A": "5.376,00",
+          "A2": "5.376,00",
           "B": ""
         },
         {
           "produto": "5558",
           "descricao": "PISO TURIM BLACK 45",
-          "maiorLote": "768,00",
-          "A": "1.024,00",
-          "A2": "1.024,00",
+          "maiorLote": "640,00",
+          "A": "896,00",
+          "A2": "896,00",
           "B": ""
         },
         {
@@ -3215,8 +3154,8 @@
           "produto": "5883",
           "descricao": "PISO UNIQUE HD 45",
           "maiorLote": "5.120,00",
-          "A": "8.192,00",
-          "A2": "8.192,00",
+          "A": "7.936,00",
+          "A2": "7.936,00",
           "B": ""
         },
         {
@@ -3231,16 +3170,16 @@
           "produto": "1636",
           "descricao": "PISO VALLE ESC HD 45",
           "maiorLote": "4.864,00",
-          "A": "6.656,00",
-          "A2": "6.656,00",
+          "A": "6.272,00",
+          "A2": "6.272,00",
           "B": ""
         },
         {
           "produto": "1635",
           "descricao": "PISO VALLE MR HD 45",
           "maiorLote": "14.336,00",
-          "A": "16.896,00",
-          "A2": "16.896,00",
+          "A": "16.768,00",
+          "A2": "16.768,00",
           "B": ""
         },
         {
@@ -3252,59 +3191,43 @@
           "B": ""
         },
         {
-          "produto": "5894 3449",
+          "produto": "5894",
           "descricao": "PISO VETRINO HD 45",
-          "maiorLote": "12.800,00",
-          "A": "14.208,00 5.248,00",
-          "A2": "14.208,00 5.248,00",
+          "maiorLote": "12.544,00",
+          "A": "13.952,00",
+          "A2": "13.952,00",
+          "B": ""
+        },
+        {
+          "produto": "3449",
+          "descricao": "PISO VILAGIO HD 45",
+          "maiorLote": "5.248,00",
+          "A": "5.248,00",
+          "A2": "5.248,00",
           "B": ""
         },
         {
           "produto": "1252",
           "descricao": "PISO VITORIA 45",
-          "maiorLote": "6.400,00",
-          "A": "14.080,00",
-          "A2": "",
+          "maiorLote": "6.272,00",
+          "A": "13.952,00",
+          "A2": "13.952,00",
           "B": ""
         },
         {
           "produto": "1254",
           "descricao": "PISO YPE MARROM 45",
-          "maiorLote": "1.408,00",
-          "A": "1.408,00",
-          "A2": "1.408,00",
+          "maiorLote": "1.152,00",
+          "A": "1.152,00",
+          "A2": "1.152,00",
           "B": ""
         },
         {
           "produto": "8715",
           "descricao": "PISO ZAIRE 45",
           "maiorLote": "17.152,00",
-          "A": "19.200,00",
-          "A2": "19.200,00",
-          "B": ""
-        },
-        {
-          "produto": "50X50 Tamanho:",
-          "descricao": "50X50 Tamanho:",
-          "maiorLote": "50X50 Tamanho:",
-          "A": "50X50 Tamanho:",
-          "A2": "50X50 Tamanho:",
-          "B": "50X50 Tamanho:"
-        },
-        {
-          "produto": "1686",
-          "descricao": "PISO ADERENTE CZ HD 50",
-          "maiorLote": "16.440,00",
-          "A": "24.360,00",
-          "A2": "24.360,00",
-          "B": ""
-        },
-        {
-          "produto": "8789",
-          "descricao": "PISO AGATA BG HD 50",
-          "maiorLote": "35.520,00",
-          "A": "35.520,00",
-          "A2": "35.520,00",
+          "A": "18.816,00",
+          "A2": "18.816,00",
           "B": ""
         }
       ]
@@ -3313,11 +3236,27 @@
       "dimensions": "50X50",
       "products": [
         {
+          "produto": "1686 PISO ADERENTE CZ HD 50",
+          "descricao": "1686 PISO ADERENTE CZ HD 50",
+          "maiorLote": "16.440,00",
+          "A": "23.880,00",
+          "A2": "23.880,00",
+          "B": ""
+        },
+        {
+          "produto": "8789",
+          "descricao": "PISO AGATA BG HD 50",
+          "maiorLote": "35.400,00",
+          "A": "35.400,00",
+          "A2": "35.400,00",
+          "B": ""
+        },
+        {
           "produto": "8788",
           "descricao": "PISO AGATA HD 50",
           "maiorLote": "41.160,00",
-          "A": "58.560,00",
-          "A2": "58.560,00",
+          "A": "58.200,00",
+          "A2": "58.200,00",
           "B": ""
         },
         {
@@ -3339,17 +3278,17 @@
         {
           "produto": "3499",
           "descricao": "PISO AMAZONAS MR HD 50",
-          "maiorLote": "360,00",
-          "A": "360,00",
-          "A2": "360,00",
+          "maiorLote": "240,00",
+          "A": "240,00",
+          "A2": "240,00",
           "B": ""
         },
         {
           "produto": "1433",
           "descricao": "PISO ANDARAI CINZA 50",
-          "maiorLote": "5.160,00",
-          "A": "5.160,00",
-          "A2": "5.160,00",
+          "maiorLote": "4.800,00",
+          "A": "4.800,00",
+          "A2": "4.800,00",
           "B": ""
         },
         {
@@ -3379,7 +3318,7 @@
         {
           "produto": "3645",
           "descricao": "PISO ANGELIM HD 50",
-          "maiorLote": "15.240,00",
+          "maiorLote": "",
           "A": "18.120,00",
           "A2": "18.120,00",
           "B": ""
@@ -3388,24 +3327,24 @@
           "produto": "5700",
           "descricao": "PISO AREIA 50",
           "maiorLote": "3.840,00",
-          "A": "3.840,00",
-          "A2": "3.840,00",
+          "A": "9.000,00",
+          "A2": "3.840,00 9.000,00",
           "B": ""
         },
         {
-          "produto": "5819",
-          "descricao": "PISO ARTICO HD 50",
-          "maiorLote": "",
+          "produto": "5819 1458",
+          "descricao": "PISO ARTICO HD 50 PISO ATLANTIS HD 50",
+          "maiorLote": "9.000,00 2.760,00",
           "A": "2.760,00",
           "A2": "2.760,00",
           "B": ""
         },
         {
-          "produto": "1458 1493",
-          "descricao": "PISO ATLANTIS HD 50 PISO BEGE 50",
-          "maiorLote": "2.760,00 11.760,00",
-          "A": "20.280,00",
-          "A2": "20.280,00",
+          "produto": "1493",
+          "descricao": "PISO BEGE 50",
+          "maiorLote": "11.280,00",
+          "A": "19.320,00",
+          "A2": "19.320,00",
           "B": ""
         },
         {
@@ -3427,25 +3366,25 @@
         {
           "produto": "1527",
           "descricao": "PISO BRANCO 50",
-          "maiorLote": "22.440,00",
-          "A": "22.680,00",
-          "A2": "22.680,00",
+          "maiorLote": "20.160,00",
+          "A": "20.160,00",
+          "A2": "20.160,00",
           "B": ""
         },
         {
           "produto": "5593",
           "descricao": "PISO CAIRO HD 50",
-          "maiorLote": "1.560,00",
-          "A": "1.560,00",
-          "A2": "1.560,00",
+          "maiorLote": "960,00",
+          "A": "960,00",
+          "A2": "960,00",
           "B": ""
         },
         {
           "produto": "5858",
           "descricao": "PISO CALÇADA HD 50",
           "maiorLote": "35.880,00",
-          "A": "42.960,00",
-          "A2": "42.960,00",
+          "A": "42.000,00",
+          "A2": "42.000,00",
           "B": ""
         },
         {
@@ -3467,7 +3406,7 @@
         {
           "produto": "2027",
           "descricao": "PISO CASTANO HD 50",
-          "maiorLote": "10.680,00",
+          "maiorLote": "10.920,00",
           "A": "12.840,00",
           "A2": "12.840,00",
           "B": ""
@@ -3492,8 +3431,8 @@
           "produto": "1620",
           "descricao": "PISO COLINAS HD 50",
           "maiorLote": "20.640,00",
-          "A": "27.240,00",
-          "A2": "27.240,00",
+          "A": "26.760,00",
+          "A2": "26.760,00",
           "B": ""
         },
         {
@@ -3507,17 +3446,17 @@
         {
           "produto": "5740",
           "descricao": "PISO COLONIAL HD 50",
-          "maiorLote": "2.640,00",
-          "A": "2.640,00",
-          "A2": "2.640,00",
+          "maiorLote": "1.920,00",
+          "A": "1.920,00",
+          "A2": "1.920,00",
           "B": ""
         },
         {
           "produto": "1659",
           "descricao": "PISO COLUMBIA BG HD 50",
-          "maiorLote": "7.920,00",
-          "A": "7.920,00",
-          "A2": "7.920,00",
+          "maiorLote": "7.440,00",
+          "A": "7.440,00",
+          "A2": "7.440,00",
           "B": ""
         },
         {
@@ -3540,24 +3479,16 @@
           "produto": "1491",
           "descricao": "PISO COPACABANA 50",
           "maiorLote": "21.840,00",
-          "A": "25.320,00",
-          "A2": "25.320,00",
+          "A": "24.960,00",
+          "A2": "24.960,00",
           "B": ""
         },
         {
-          "produto": "5745",
-          "descricao": "PISO CORUMBA 50",
-          "maiorLote": "1.320,00",
-          "A": "1.320,00",
-          "A2": "1.320,00",
-          "B": ""
-        },
-        {
-          "produto": "5868",
-          "descricao": "PISO CORUMBA BG HD 50",
-          "maiorLote": "15.000,00",
-          "A": "15.000,00",
-          "A2": "15.000,00",
+          "produto": "5745 5868",
+          "descricao": "PISO CORUMBA 50 PISO CORUMBA BG HD 50",
+          "maiorLote": "240,00",
+          "A": "240,00 15.000,00",
+          "A2": "240,00 15.000,00",
           "B": ""
         },
         {
@@ -3565,15 +3496,15 @@
           "descricao": "PISO COTTO HD 50",
           "maiorLote": "120,00",
           "A": "120,00",
-          "A2": "120,00 7.080,00",
+          "A2": "",
           "B": ""
         },
         {
           "produto": "5945",
           "descricao": "PISO DAKOTA BG 50",
           "maiorLote": "5.160,00",
-          "A": "7.080,00",
-          "A2": "",
+          "A": "5.880,00",
+          "A2": "5.880,00",
           "B": ""
         },
         {
@@ -3593,48 +3524,43 @@
           "B": ""
         },
         {
-          "produto": "5907",
-          "descricao": "PISO DUCALE HD 50",
-          "maiorLote": "0,00",
-          "A": "0,00",
-          "A2": "0,00",
+          "produto": "5907 8966",
+          "descricao": "PISO DUCALE HD 50 PISO EBANO HD 50",
+          "maiorLote": "6.840,00 0,00",
+          "A": "10.080,00 0,00",
+          "A2": "10.080,00 0,00",
           "B": ""
         },
         {
-          "produto": "8966 2026",
-          "descricao": "PISO EBANO HD 50",
-          "maiorLote": "0,00",
-          "A": "0,00",
-          "A2": "0,00",
+          "produto": "2026",
+          "descricao": "PISO EMPORIO HD 50",
+          "maiorLote": "14.040,00",
+          "A": "14.040,00",
+          "A2": "14.040,00",
           "B": ""
-        }
-      ]
-    },
-    {
-      "dimensions": "50X50",
-      "products": [
+        },
         {
           "produto": "1454",
           "descricao": "PISO ENDURO BEGE 50",
-          "maiorLote": "28.080,00",
-          "A": "28.080,00",
-          "A2": "28.080,00",
+          "maiorLote": "27.600,00",
+          "A": "27.600,00",
+          "A2": "27.600,00",
           "B": ""
         },
         {
           "produto": "1456",
           "descricao": "PISO ENDURO CINZA 50",
-          "maiorLote": "43.800,00",
-          "A": "47.760,00",
-          "A2": "47.760,00",
+          "maiorLote": "43.680,00",
+          "A": "46.920,00",
+          "A2": "46.920,00",
           "B": ""
         },
         {
           "produto": "1457",
           "descricao": "PISO ENDURO CREMA 50",
-          "maiorLote": "1.080,00",
-          "A": "1.080,00",
-          "A2": "1.080,00",
+          "maiorLote": "360,00",
+          "A": "360,00",
+          "A2": "360,00",
           "B": ""
         },
         {
@@ -3672,9 +3598,9 @@
         {
           "produto": "3378",
           "descricao": "PISO GANTE CZ 50",
-          "maiorLote": "16.440,00",
-          "A": "16.440,00",
-          "A2": "16.440,00",
+          "maiorLote": "16.200,00",
+          "A": "16.200,00",
+          "A2": "16.200,00",
           "B": ""
         },
         {
@@ -3694,17 +3620,17 @@
           "B": ""
         },
         {
-          "produto": "1863",
-          "descricao": "PISO GEOMETRIC HD 50",
-          "maiorLote": "",
+          "produto": "1863 1729",
+          "descricao": "PISO GEOMETRIC HD 50 PISO GIARDINO CL HD 50",
+          "maiorLote": "1.200,00 18.480,00",
           "A": "18.480,00",
-          "A2": "1.200,00 18.480,00",
+          "A2": "18.480,00",
           "B": ""
         },
         {
-          "produto": "1729 1728",
-          "descricao": "PISO GIARDINO CL HD 50 PISO GIARDINO MR HD 50",
-          "maiorLote": "18.480,00 0,00",
+          "produto": "1728",
+          "descricao": "PISO GIARDINO MR HD 50",
+          "maiorLote": "0,00",
           "A": "0,00",
           "A2": "0,00",
           "B": ""
@@ -3712,25 +3638,25 @@
         {
           "produto": "1821",
           "descricao": "PISO GIARDINO MR MATE HD 50",
-          "maiorLote": "6.240,00",
-          "A": "6.240,00",
-          "A2": "6.240,00",
+          "maiorLote": "6.000,00",
+          "A": "6.000,00",
+          "A2": "6.000,00",
           "B": ""
         },
         {
           "produto": "8973",
           "descricao": "PISO IMPERADOR HD 50",
-          "maiorLote": "10.320,00",
-          "A": "10.320,00",
-          "A2": "10.320,00",
+          "maiorLote": "8.160,00",
+          "A": "8.160,00",
+          "A2": "8.160,00",
           "B": ""
         },
         {
           "produto": "1871",
           "descricao": "PISO LAKA BR HD 50",
-          "maiorLote": "15.960,00",
-          "A": "15.960,00",
-          "A2": "15.960,00",
+          "maiorLote": "15.240,00",
+          "A": "15.240,00",
+          "A2": "15.240,00",
           "B": ""
         },
         {
@@ -3761,8 +3687,8 @@
           "produto": "5909",
           "descricao": "PISO LORD HD 50",
           "maiorLote": "8.520,00",
-          "A": "11.640,00",
-          "A2": "11.640,00",
+          "A": "10.920,00",
+          "A2": "10.920,00",
           "B": ""
         },
         {
@@ -3784,25 +3710,25 @@
         {
           "produto": "1822",
           "descricao": "PISO MADEIRO HD 50",
-          "maiorLote": "17.280,00",
-          "A": "17.280,00",
-          "A2": "17.280,00",
+          "maiorLote": "15.480,00",
+          "A": "15.480,00",
+          "A2": "15.480,00",
           "B": ""
         },
         {
           "produto": "5683",
           "descricao": "PISO MATTONE HD 50",
-          "maiorLote": "600,00",
-          "A": "600,00",
-          "A2": "600,00",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
           "produto": "3578",
           "descricao": "PISO MEDINA HD 50",
-          "maiorLote": "8.760,00",
-          "A": "8.760,00",
-          "A2": "8.760,00",
+          "maiorLote": "8.640,00",
+          "A": "8.640,00",
+          "A2": "8.640,00",
           "B": ""
         },
         {
@@ -3838,76 +3764,68 @@
           "B": ""
         },
         {
-          "produto": "8602",
-          "descricao": "PISO MIRAGE PR 50",
+          "produto": "8602 3382",
+          "descricao": "PISO MIRAGE PR 50 PISO MONT BEIGE 50",
+          "maiorLote": "5.760,00 2.040,00",
+          "A": "5.760,00 2.520,00",
+          "A2": "5.760,00 2.520,00",
+          "B": ""
+        },
+        {
+          "produto": "3376",
+          "descricao": "PISO MONT BLANC 50",
+          "maiorLote": "11.880,00",
+          "A": "11.880,00",
+          "A2": "11.880,00",
+          "B": ""
+        },
+        {
+          "produto": "8536",
+          "descricao": "PISO MORATTA ES HD 50",
           "maiorLote": "5.760,00",
           "A": "5.760,00",
           "A2": "5.760,00",
           "B": ""
         },
         {
-          "produto": "3382",
-          "descricao": "PISO MONT BEIGE 50",
-          "maiorLote": "2.040,00",
-          "A": "2.520,00",
-          "A2": "2.520,00",
-          "B": ""
-        },
-        {
-          "produto": "3376 8536",
-          "descricao": "PISO MONT BLANC 50 PISO MORATTA ES HD 50",
-          "maiorLote": "11.880,00",
-          "A": "11.880,00 5.760,00",
-          "A2": "11.880,00 5.760,00",
-          "B": ""
-        },
-        {
           "produto": "2111",
           "descricao": "",
-          "maiorLote": "5.760,00",
+          "maiorLote": "",
           "A": "19.680,00",
           "A2": "19.680,00",
           "B": ""
         },
         {
           "produto": "5815",
-          "descricao": "PISO MOZART GRAY HD 50X50",
+          "descricao": "PISO MOZART GRAY HD 50X50 PISO MURANO HD 50",
           "maiorLote": "17.640,00",
           "A": "",
           "A2": "",
           "B": ""
         },
         {
-          "produto": "1739",
-          "descricao": "PISO NATIVO HD 50",
-          "maiorLote": "19.800,00",
-          "A": "21.720,00",
-          "A2": "21.720,00",
+          "produto": "1739 1591",
+          "descricao": "PISO NATIVO HD 50 PISO NATURALE BG HD 50",
+          "maiorLote": "19.800,00 11.760,00",
+          "A": "21.480,00 19.080,00",
+          "A2": "21.480,00 19.080,00",
           "B": ""
         },
         {
-          "produto": "1591 1621",
-          "descricao": "PISO NATURALE BG HD 50 PISO NATURALE MR HD 50",
-          "maiorLote": "13.200,00",
-          "A": "20.520,00 3.000,00",
-          "A2": "20.520,00",
+          "produto": "1621",
+          "descricao": "PISO NATURALE MR HD 50",
+          "maiorLote": "2.400,00",
+          "A": "2.400,00",
+          "A2": "2.400,00",
           "B": ""
         },
         {
           "produto": "8596",
           "descricao": "PISO NIMBUS 50",
-          "maiorLote": "3.000,00 18.000,00",
+          "maiorLote": "18.000,00",
           "A": "18.000,00",
-          "A2": "3.000,00 18.000,00",
+          "A2": "18.000,00",
           "B": ""
-        },
-        {
-          "produto": "50X50 Tamanho:",
-          "descricao": "50X50 Tamanho:",
-          "maiorLote": "50X50 Tamanho:",
-          "A": "50X50 Tamanho:",
-          "A2": "50X50 Tamanho:",
-          "B": "50X50 Tamanho:"
         },
         {
           "produto": "5760",
@@ -3920,9 +3838,9 @@
         {
           "produto": "5860",
           "descricao": "PISO OSCAR BG HD 50",
-          "maiorLote": "8.640,00",
-          "A": "8.880,00",
-          "A2": "8.880,00",
+          "maiorLote": "7.920,00",
+          "A": "8.160,00",
+          "A2": "8.160,00",
           "B": ""
         },
         {
@@ -3952,25 +3870,25 @@
         {
           "produto": "1715",
           "descricao": "PISO PINHO CL HD 50",
-          "maiorLote": "5.400,00",
-          "A": "5.400,00",
-          "A2": "5.400,00",
+          "maiorLote": "4.920,00",
+          "A": "4.920,00",
+          "A2": "4.920,00",
           "B": ""
         },
         {
           "produto": "1716",
           "descricao": "PISO PINHO MR HD 50",
           "maiorLote": "12.840,00",
-          "A": "14.280,00",
-          "A2": "14.280,00",
+          "A": "13.800,00",
+          "A2": "13.800,00",
           "B": ""
         },
         {
           "produto": "1685",
           "descricao": "PISO PORCELAN HD 50",
-          "maiorLote": "1.680,00",
-          "A": "1.680,00",
-          "A2": "1.680,00",
+          "maiorLote": "720,00",
+          "A": "720,00",
+          "A2": "720,00",
           "B": ""
         },
         {
@@ -3984,33 +3902,33 @@
         {
           "produto": "1532",
           "descricao": "PISO PORCELLANAT CL 50",
-          "maiorLote": "9.240,00",
-          "A": "9.240,00",
+          "maiorLote": "",
+          "A": "12.840,00",
           "A2": "9.240,00",
           "B": ""
         },
         {
-          "produto": "1531",
-          "descricao": "",
-          "maiorLote": "2.640,00",
+          "produto": "1531 3282",
+          "descricao": "PISO PORCELLANAT MR 50 PISO ROYALE BR 50",
+          "maiorLote": "12.840,00 2.640,00",
           "A": "2.640,00",
-          "A2": "12.960,00",
+          "A2": "12.840,00 2.640,00",
           "B": ""
         },
         {
-          "produto": "3282 8756",
-          "descricao": "PISO ROYALE BR 50 PISO RUGO HD 50",
+          "produto": "8756",
+          "descricao": "PISO RUGO HD 50",
           "maiorLote": "9.720,00",
           "A": "9.720,00",
-          "A2": "2.640,00 9.720,00",
+          "A2": "9.720,00",
           "B": ""
         },
         {
           "produto": "1837",
           "descricao": "PISO SELVA HD 50",
-          "maiorLote": "2.880,00",
-          "A": "2.880,00",
-          "A2": "2.880,00",
+          "maiorLote": "2.040,00",
+          "A": "2.040,00",
+          "A2": "2.040,00",
           "B": ""
         },
         {
@@ -4040,17 +3958,17 @@
         {
           "produto": "8530",
           "descricao": "PISO SILICIO MR HD 50",
-          "maiorLote": "21.960,00",
-          "A": "22.920,00",
-          "A2": "22.920,00",
+          "maiorLote": "19.920,00",
+          "A": "20.880,00",
+          "A2": "20.880,00",
           "B": ""
         },
         {
           "produto": "2025",
           "descricao": "PISO SOLID HD 50",
-          "maiorLote": "17.400,00",
-          "A": "17.400,00",
-          "A2": "17.400,00",
+          "maiorLote": "16.680,00",
+          "A": "16.680,00",
+          "A2": "16.680,00",
           "B": ""
         },
         {
@@ -4064,25 +3982,25 @@
         {
           "produto": "1448",
           "descricao": "PISO STREET HD 50",
-          "maiorLote": "480,00",
-          "A": "480,00",
-          "A2": "480,00",
+          "maiorLote": "240,00",
+          "A": "240,00",
+          "A2": "240,00",
           "B": ""
         },
         {
           "produto": "8886",
           "descricao": "PISO TABLADO HD 50",
-          "maiorLote": "3.120,00",
-          "A": "3.120,00",
-          "A2": "3.120,00",
+          "maiorLote": "1.080,00",
+          "A": "1.080,00",
+          "A2": "1.080,00",
           "B": ""
         },
         {
           "produto": "1741",
           "descricao": "PISO TABOEIRO HD 50",
-          "maiorLote": "4.680,00",
-          "A": "4.680,00",
-          "A2": "4.680,00",
+          "maiorLote": "4.560,00",
+          "A": "4.560,00",
+          "A2": "4.560,00",
           "B": ""
         },
         {
@@ -4104,17 +4022,17 @@
         {
           "produto": "5739",
           "descricao": "PISO TRAFEGO 50",
-          "maiorLote": "12.840,00",
-          "A": "12.840,00",
-          "A2": "12.840,00",
+          "maiorLote": "12.720,00",
+          "A": "12.720,00",
+          "A2": "12.720,00",
           "B": ""
         },
         {
           "produto": "8553",
           "descricao": "PISO VALENCIA BG HD 50",
-          "maiorLote": "5.280,00",
-          "A": "5.280,00",
-          "A2": "5.280,00",
+          "maiorLote": "4.800,00",
+          "A": "4.800,00",
+          "A2": "4.800,00",
           "B": ""
         },
         {
@@ -4128,9 +4046,9 @@
         {
           "produto": "8551",
           "descricao": "PISO VERONA CZ HD 50",
-          "maiorLote": "1.440,00",
-          "A": "1.440,00",
-          "A2": "1.440,00",
+          "maiorLote": "840,00",
+          "A": "840,00",
+          "A2": "840,00",
           "B": ""
         },
         {
@@ -4140,15 +4058,12 @@
           "A": "10.080,00",
           "A2": "10.080,00",
           "B": ""
-        },
-        {
-          "produto": "57x57 Tamanho:",
-          "descricao": "57x57 Tamanho:",
-          "maiorLote": "57x57 Tamanho:",
-          "A": "57x57 Tamanho:",
-          "A2": "57x57 Tamanho:",
-          "B": "57x57 Tamanho:"
-        },
+        }
+      ]
+    },
+    {
+      "dimensions": "57x57",
+      "products": [
         {
           "produto": "50115",
           "descricao": "PISO FENICIA RT POLIDO 57X57",
@@ -4156,26 +4071,15 @@
           "A": "233,28",
           "A2": "233,28",
           "B": ""
-        },
-        {
-          "produto": "60x120 Tamanho:",
-          "descricao": "60x120 Tamanho:",
-          "maiorLote": "60x120 Tamanho:",
-          "A": "60x120 Tamanho:",
-          "A2": "60x120 Tamanho:",
-          "B": "60x120 Tamanho:"
-        },
+        }
+      ]
+    },
+    {
+      "dimensions": "60x120",
+      "products": [
         {
           "produto": "50167",
           "descricao": "PISO AGATA BEIGE RT POLIDO 60X120",
-          "maiorLote": "0,00",
-          "A": "0,00",
-          "A2": "0,00",
-          "B": ""
-        },
-        {
-          "produto": "50162",
-          "descricao": "PISO APULIA RT POLIDO 60X120",
           "maiorLote": "0,00",
           "A": "0,00",
           "A2": "0,00",
@@ -4208,18 +4112,10 @@
         {
           "produto": "50065",
           "descricao": "PISO BOSSA CZ GRANILHADO RT 60X120",
-          "maiorLote": "4.860,00",
-          "A": "4.860,00",
-          "A2": "4.860,00",
+          "maiorLote": "4.406,40",
+          "A": "4.406,40",
+          "A2": "4.406,40",
           "B": ""
-        },
-        {
-          "produto": "60x120 Tamanho:",
-          "descricao": "60x120 Tamanho:",
-          "maiorLote": "60x120 Tamanho:",
-          "A": "60x120 Tamanho:",
-          "A2": "60x120 Tamanho:",
-          "B": "60x120 Tamanho:"
         },
         {
           "produto": "50066",
@@ -4240,9 +4136,9 @@
         {
           "produto": "50026",
           "descricao": "PISO BRANCO MATE RT 60X120",
-          "maiorLote": "129,60",
-          "A": "129,60",
-          "A2": "129,60",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
@@ -4256,9 +4152,9 @@
         {
           "produto": "50064",
           "descricao": "PISO BRICK CZ RT 60X120",
-          "maiorLote": "1.360,80",
-          "A": "1.360,80",
-          "A2": "1.360,80",
+          "maiorLote": "1.296,00",
+          "A": "1.296,00",
+          "A2": "1.296,00",
           "B": ""
         },
         {
@@ -4272,49 +4168,49 @@
         {
           "produto": "50178",
           "descricao": "PISO CALACATA BEGE MATE RT 60X120",
-          "maiorLote": "1.360,80",
-          "A": "1.425,60",
-          "A2": "1.425,60",
+          "maiorLote": "972,00",
+          "A": "1.036,80",
+          "A2": "1.036,80",
           "B": ""
         },
         {
           "produto": "50050",
           "descricao": "PISO CAMBARA MATE RT 60X120",
-          "maiorLote": "1.360,80",
-          "A": "1.360,80",
-          "A2": "1.360,80",
+          "maiorLote": "1.296,00",
+          "A": "1.296,00",
+          "A2": "1.296,00",
           "B": ""
         },
         {
           "produto": "50252",
           "descricao": "PISO CONCRETO CL MATE RT 60X120",
-          "maiorLote": "3.499,20",
-          "A": "3.564,00",
-          "A2": "3.564,00",
+          "maiorLote": "3.304,80",
+          "A": "3.369,60",
+          "A2": "3.369,60",
           "B": ""
         },
         {
           "produto": "50025",
           "descricao": "PISO CONCRETO MATE RT 60X120",
-          "maiorLote": "907,20",
-          "A": "",
-          "A2": "",
+          "maiorLote": "583,20",
+          "A": "583,20",
+          "A2": "583,20",
           "B": ""
         },
         {
           "produto": "50166",
           "descricao": "PISO CONCRETO RT POLIDO 60X120",
-          "maiorLote": "129,60",
-          "A": "129,60",
-          "A2": "129,60",
+          "maiorLote": "0,00",
+          "A": "0,00 0,00",
+          "A2": "0,00 0,00",
           "B": ""
         },
         {
           "produto": "50091 50412",
           "descricao": "PISO CORTEN RUST RT 60X120 PISO GRAN ANDINO CZ MATE RT 60X120",
           "maiorLote": "0,00 194,40",
-          "A": "0,00 194,40",
-          "A2": "0,00 194,40",
+          "A": "194,40",
+          "A2": "194,40",
           "B": ""
         },
         {
@@ -4358,6 +4254,14 @@
           "B": ""
         },
         {
+          "produto": "60220",
+          "descricao": "PISO GRAN BRUXELAS NERO RT POLIDO 60X120",
+          "maiorLote": "388,80",
+          "A": "388,80",
+          "A2": "388,80",
+          "B": ""
+        },
+        {
           "produto": "50175",
           "descricao": "PISO GRAN CALACATA BLUE MATE RT 60X120",
           "maiorLote": "2.138,40",
@@ -4376,25 +4280,25 @@
         {
           "produto": "60089",
           "descricao": "PISO GRAN CARBONO RT POLIDO 60X120",
-          "maiorLote": "2.462,40",
-          "A": "2.462,40",
-          "A2": "2.462,40",
+          "maiorLote": "2.332,80",
+          "A": "2.332,80",
+          "A2": "2.332,80",
           "B": ""
         },
         {
           "produto": "50184",
           "descricao": "PISO GRAN CARVALHO NATURAL CL RT 60X120",
-          "maiorLote": "453,60",
-          "A": "453,60",
-          "A2": "453,60",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
           "produto": "50183",
           "descricao": "PISO GRAN CARVALHO NATURAL ES RT 60X120",
-          "maiorLote": "3.888,00",
-          "A": "3.888,00",
-          "A2": "3.888,00",
+          "maiorLote": "3.499,20",
+          "A": "3.499,20",
+          "A2": "3.499,20",
           "B": ""
         },
         {
@@ -4440,9 +4344,9 @@
         {
           "produto": "50278",
           "descricao": "PISO GRAN FREIJO RIPA MATE RT 60X120",
-          "maiorLote": "194,40",
-          "A": "194,40",
-          "A2": "194,40",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
@@ -4456,25 +4360,25 @@
         {
           "produto": "50157",
           "descricao": "PISO GRAN IMPERIUM DARK RT POLIDO 60X120",
-          "maiorLote": "1.749,60",
-          "A": "1.749,60",
-          "A2": "1.749,60",
+          "maiorLote": "1.425,60",
+          "A": "1.425,60",
+          "A2": "1.425,60",
           "B": ""
         },
         {
           "produto": "60179",
           "descricao": "PISO GRAN INTUICAO CZ RT POLIDO 60X120",
-          "maiorLote": "194,40",
-          "A": "194,40",
-          "A2": "194,40",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00 2.138,40",
           "B": ""
         },
         {
           "produto": "50173",
           "descricao": "PISO GRAN LUMINI MATE RT 60X120",
-          "maiorLote": "2.268,00",
-          "A": "2.268,00",
-          "A2": "2.268,00",
+          "maiorLote": "2.138,40",
+          "A": "2.138,40",
+          "A2": "",
           "B": ""
         },
         {
@@ -4488,9 +4392,9 @@
         {
           "produto": "50154",
           "descricao": "PISO GRAN MARMI DELUX RT POLIDO 60X120",
-          "maiorLote": "8.553,60",
-          "A": "8.553,60",
-          "A2": "8.553,60",
+          "maiorLote": "5.054,40",
+          "A": "5.054,40",
+          "A2": "5.054,40",
           "B": ""
         },
         {
@@ -4524,14 +4428,6 @@
           "A": "453,60",
           "A2": "453,60",
           "B": ""
-        },
-        {
-          "produto": "60x120 Tamanho:",
-          "descricao": "60x120 Tamanho:",
-          "maiorLote": "60x120 Tamanho:",
-          "A": "60x120 Tamanho:",
-          "A2": "60x120 Tamanho:",
-          "B": "60x120 Tamanho:"
         },
         {
           "produto": "50411",
@@ -4585,22 +4481,22 @@
           "produto": "60097",
           "descricao": "PISO GRAN SOBERANO BLACK RT POLIDO 60X120",
           "maiorLote": "64,80",
-          "A": "129,60",
-          "A2": "129,60",
+          "A": "64,80",
+          "A2": "64,80",
           "B": ""
         },
         {
           "produto": "60096",
           "descricao": "PISO GRAN SOBERANO GRAY RT POLIDO 60X120",
-          "maiorLote": "1.360,80",
-          "A": "1.360,80",
-          "A2": "1.360,80",
+          "maiorLote": "1.231,20",
+          "A": "1.231,20",
+          "A2": "1.231,20",
           "B": ""
         },
         {
           "produto": "50148",
-          "descricao": "PISO GRAN SOLID RT POLIDO 60X120",
-          "maiorLote": "64,80",
+          "descricao": " PISO GRAN SOLID RT POLIDO 60X120",
+          "maiorLote": "",
           "A": "64,80",
           "A2": "64,80",
           "B": ""
@@ -4608,33 +4504,25 @@
         {
           "produto": "50176",
           "descricao": "PISO GRAN STATUARIO MATE RT 60X120",
-          "maiorLote": "5.184,00",
-          "A": "5.184,00",
-          "A2": "5.184,00",
+          "maiorLote": "3.952,80",
+          "A": "8.812,80",
+          "A2": "3.952,80",
           "B": ""
         },
         {
-          "produto": "50152",
-          "descricao": "PISO GRAN STATUARIO RT POLIDO 60X120",
-          "maiorLote": "259,20",
+          "produto": "50152 50418",
+          "descricao": "PISO GRAN STATUARIO RT POLIDO 60X120 PISO GRAN SUPERIORE SILVER MATE RT 60X120",
+          "maiorLote": "8.812,80 259,20",
           "A": "259,20",
-          "A2": "259,20",
+          "A2": "8.812,80 259,20",
           "B": ""
         },
         {
-          "produto": "50418 60465",
-          "descricao": "PISO GRAN SUPERIORE SILVER MATE RT 60X120",
-          "maiorLote": "PISO GRAN TITANIUM BLUE RT POLIDO 60X120 7.192,80",
-          "A": "7.192,80",
-          "A2": "7.192,80",
-          "B": ""
-        },
-        {
-          "produto": "50283",
-          "descricao": "PISO GRAN TRANCOSO MATE RT 60X120",
-          "maiorLote": "64,80",
-          "A": "64,80",
-          "A2": "64,80",
+          "produto": "60465",
+          "descricao": "PISO GRAN TITANIUM BLUE RT POLIDO 60X120",
+          "maiorLote": "7.128,00",
+          "A": "7.128,00",
+          "A2": "7.128,00",
           "B": ""
         },
         {
@@ -4656,9 +4544,9 @@
         {
           "produto": "50029",
           "descricao": "PISO NAVARRO MATE RT 60X120",
-          "maiorLote": "907,20",
-          "A": "907,20",
-          "A2": "907,20",
+          "maiorLote": "518,40",
+          "A": "518,40",
+          "A2": "518,40",
           "B": ""
         },
         {
@@ -4679,28 +4567,25 @@
         },
         {
           "produto": "60078",
-          "descricao": "PISO PERSA CINZA RT POLIDO 60X120",
-          "maiorLote": "3.045,60",
-          "A": "3.045,60",
-          "A2": "3.045,60",
+          "descricao": "PISO PERSA CINZA RT POLIDO 60X120 PISO SAN PIETRO BLACK MATE RT 60X120",
+          "maiorLote": "2.980,80",
+          "A": "2.980,80",
+          "A2": "2.980,80",
           "B": ""
         },
         {
           "produto": "50301",
-          "descricao": "PISO SAN PIETRO BLACK MATE RT 60X120",
-          "maiorLote": "4.536,00",
-          "A": "4.536,00",
-          "A2": "4.536,00",
+          "descricao": "",
+          "maiorLote": "",
+          "A": "4.341,60",
+          "A2": "4.341,60",
           "B": ""
-        },
-        {
-          "produto": "60X60 Tamanho:",
-          "descricao": "60X60 Tamanho:",
-          "maiorLote": "60X60 Tamanho:",
-          "A": "60X60 Tamanho:",
-          "A2": "60X60 Tamanho:",
-          "B": "60X60 Tamanho:"
-        },
+        }
+      ]
+    },
+    {
+      "dimensions": "60X60",
+      "products": [
         {
           "produto": "2049",
           "descricao": "AMOSTRAS FORMIGRES 60X60",
@@ -4720,9 +4605,9 @@
         {
           "produto": "2016",
           "descricao": "PISO BEGE RETIFICADO 60X60",
-          "maiorLote": "2.167,20",
-          "A": "2.167,20",
-          "A2": "2.167,20",
+          "maiorLote": "851,40",
+          "A": "851,40",
+          "A2": "851,40",
           "B": ""
         },
         {
@@ -4752,142 +4637,129 @@
         {
           "produto": "2004",
           "descricao": "PISO BRANCO ACT RETIFICADO 60X60",
-          "maiorLote": "2.863,80",
-          "A": "2.863,80",
-          "A2": "2.863,80",
+          "maiorLote": "2.089,80",
+          "A": "2.089,80",
+          "A2": "2.089,80",
           "B": ""
         },
         {
           "produto": "2003",
           "descricao": "PISO BRANCO RETIFICADO 60X60",
-          "maiorLote": "11.764,80",
-          "A": "11.764,80",
-          "A2": "11.764,80",
+          "maiorLote": "8.359,20",
+          "A": "8.359,20",
+          "A2": "8.359,20",
           "B": ""
         },
         {
           "produto": "60376",
           "descricao": "PISO BRANCO RT POLIDO 60X60",
-          "maiorLote": "619,20",
-          "A": "619,20",
-          "A2": "619,20",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
           "produto": "2094",
           "descricao": "PISO CORONHA MR RETIFICADO 60X60",
           "maiorLote": "34.056,00",
-          "A": "38.545,20",
-          "A2": "38.545,20",
+          "A": "38.313,00",
+          "A2": "38.313,00",
           "B": ""
         },
         {
           "produto": "2096",
           "descricao": "PISO DARWIN CZ EXT RETIFICADO 60X60",
-          "maiorLote": "7.740,00",
-          "A": "7.740,00",
-          "A2": "7.740,00",
+          "maiorLote": "5.031,00",
+          "A": "5.031,00",
+          "A2": "5.031,00",
           "B": ""
         },
         {
           "produto": "2065",
           "descricao": "PISO FINALLE RETIFICADO 60X60",
-          "maiorLote": "232,20",
-          "A": "232,20",
-          "A2": "232,20",
+          "maiorLote": "6.579,00",
+          "A": "6.733,80",
+          "A2": "6.733,80 1.702,80",
           "B": ""
         },
         {
           "produto": "60387",
           "descricao": "PISO FINESSE BG RT POLIDO 60X60",
-          "maiorLote": "1.935,00",
-          "A": "1.935,00",
-          "A2": "1.935,00",
+          "maiorLote": "1.702,80",
+          "A": "1.702,80",
+          "A2": "",
           "B": ""
         },
         {
           "produto": "60388",
-          "descricao": "",
-          "maiorLote": "1.780,20",
-          "A": "1.780,20",
-          "A2": "1.780,20",
+          "descricao": "PISO FINESSE CZ RT POLIDO 60X60",
+          "maiorLote": "1.548,00",
+          "A": "1.548,00",
+          "A2": "1.548,00",
           "B": ""
         },
         {
           "produto": "60386",
-          "descricao": "PISO FINESSE CZ RT POLIDO 60X60",
+          "descricao": "PISO FRANCY RT POLIDO 60X60",
           "maiorLote": "1.006,20",
           "A": "1.006,20",
           "A2": "1.006,20",
           "B": ""
         },
         {
-          "produto": "2075",
-          "descricao": "PISO FRANCY RT POLIDO 60X60",
-          "maiorLote": "PISO GRAFFIATO BG EXT RETIFICADO 60X60 10.913,40",
-          "A": "10.913,40",
-          "A2": "10.913,40",
+          "produto": "2075 2076",
+          "descricao": "PISO GRAFFIATO BG EXT RETIFICADO 60X60 PISO GRAFFIATO BG MATE RETIFICADO 60X60",
+          "maiorLote": "10.216,80 13.003,20",
+          "A": "10.216,80 13.003,20",
+          "A2": "10.216,80 13.003,20",
           "B": ""
         },
         {
-          "produto": "2076",
-          "descricao": "PISO GRAFFIATO BG MATE RETIFICADO 60X60",
-          "maiorLote": "14.086,80",
-          "A": "14.086,80",
-          "A2": "14.086,80",
-          "B": ""
-        }
-      ]
-    },
-    {
-      "dimensions": "60X60",
-      "products": [
-        {
           "produto": "2067",
           "descricao": "PISO GRAFFIATO CZ EXT RETIFICADO 60X60",
-          "maiorLote": "17.802,00",
-          "A": "17.802,00",
-          "A2": "17.802,00",
+          "maiorLote": "15.867,00",
+          "A": "15.867,00",
+          "A2": "15.867,00",
           "B": ""
         },
         {
           "produto": "2068",
           "descricao": "PISO GRAFFIATO CZ MATE RETIFICADO 60X60",
-          "maiorLote": "20.511,00",
-          "A": "28.560,60",
-          "A2": "28.560,60",
+          "maiorLote": "18.576,00",
+          "A": "25.077,60",
+          "A2": "25.077,60",
           "B": ""
         },
         {
           "produto": "2078",
           "descricao": "PISO HOUSE COLOR BG RETIFICADO 60X60",
-          "maiorLote": "6.888,60",
-          "A": "6.888,60",
-          "A2": "6.888,60",
+          "maiorLote": "6.346,80",
+          "A": "6.346,80",
+          "A2": "6.346,80",
           "B": ""
         },
         {
           "produto": "2077",
           "descricao": "PISO HOUSE COLOR CZ RETIFICADO 60X60",
-          "maiorLote": "17.337,60",
-          "A": "37.461,60",
-          "A2": "37.461,60",
+          "maiorLote": "16.099,20",
+          "A": "28.328,40",
+          "A2": "28.328,40",
           "B": ""
         },
         {
           "produto": "2097",
           "descricao": "PISO LAREDO RETIFICADO 60X60",
-          "maiorLote": "18.266,40",
-          "A": "25.155,00",
-          "A2": "25.155,00",
+          "maiorLote": "17.802,00",
+          "A": "24.613,20",
+          "A2": "24.613,20",
           "B": ""
         },
         {
           "produto": "60381",
           "descricao": "PISO LEGACY RT POLIDO 60X60",
-          "maiorLote": "2.322,00",
-          "A": "2.322,00",
-          "A2": "2.322,00",
+          "maiorLote": "2.786,40",
+          "A": "2.786,40",
+          "A2": "2.786,40",
           "B": ""
         },
         {
@@ -4909,7 +4781,7 @@
         {
           "produto": "3635",
           "descricao": "PISO MONT BLANC ACT RETIFICADO 60X60",
-          "maiorLote": "12.384,00",
+          "maiorLote": "",
           "A": "17.415,00",
           "A2": "17.415,00",
           "B": ""
@@ -4917,25 +4789,25 @@
         {
           "produto": "2095",
           "descricao": "PISO NAIROBI RETIFICADO 60X60",
-          "maiorLote": "13.854,60 0,00",
-          "A": "0,00",
-          "A2": "0,00",
+          "maiorLote": "12.461,40",
+          "A": "12.461,40",
+          "A2": "12.461,40",
           "B": ""
         },
         {
           "produto": "60377",
           "descricao": "PISO P.E 60X60 POLIDO",
-          "maiorLote": "",
-          "A": "7.120,80",
-          "A2": "7.120,80",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
           "produto": "2099 2100",
           "descricao": "PISO PALERMO MR RETIFICADO 60X60 PISO PALMA MR RETIFICADO 60X60",
-          "maiorLote": "7.120,80 1.780,20",
-          "A": "1.780,20",
-          "A2": "1.780,20",
+          "maiorLote": "6.656,40 1.161,00",
+          "A": "6.656,40 1.161,00",
+          "A2": "6.656,40 1.161,00",
           "B": ""
         },
         {
@@ -4957,62 +4829,46 @@
         {
           "produto": "2080",
           "descricao": "PISO PURE BG BRILHO RETIFICADO 60X60",
-          "maiorLote": "14.628,60",
-          "A": "14.628,60",
-          "A2": "14.628,60",
+          "maiorLote": "13.003,20",
+          "A": "13.003,20",
+          "A2": "13.003,20",
           "B": ""
         },
         {
           "produto": "2081",
           "descricao": "PISO PURE CZ BRILHO RETIFICADO 60X60",
-          "maiorLote": "8.436,60",
-          "A": "8.436,60",
-          "A2": "8.436,60",
+          "maiorLote": "5.882,40",
+          "A": "5.959,80",
+          "A2": "5.959,80",
           "B": ""
         },
         {
           "produto": "2082",
           "descricao": "PISO SONATTA BG BRILHO RETIFICADO 60X60",
-          "maiorLote": "4.566,60",
-          "A": "4.566,60",
-          "A2": "4.566,60",
+          "maiorLote": "4.179,60",
+          "A": "4.179,60",
+          "A2": "4.179,60",
           "B": ""
         },
         {
           "produto": "2083",
           "descricao": "PISO SONATTA CZ BRILHO RETIFICADO 60X60",
-          "maiorLote": "8.978,40",
-          "A": "8.978,40",
-          "A2": "8.978,40",
+          "maiorLote": "6.733,80",
+          "A": "6.733,80",
+          "A2": "6.733,80",
           "B": ""
         },
         {
-          "produto": "61x121 Tamanho:",
-          "descricao": "61x121 Tamanho:",
-          "maiorLote": "61x121 Tamanho:",
-          "A": "61x121 Tamanho:",
-          "A2": "61x121 Tamanho:",
-          "B": "61x121 Tamanho:"
-        },
-        {
-          "produto": "50232",
-          "descricao": "PISO A GRANEL 61X121",
-          "maiorLote": "193.224,36",
-          "A": "198.545,32",
-          "A2": "198.545,32",
+          "produto": "Tamanho: 50232",
+          "descricao": "61x121 PISO A GRANEL 61X121",
+          "maiorLote": "196.646,88",
+          "A": "201.967,84",
+          "A2": "201.967,84",
           "B": ""
         },
         {
-          "produto": "61X61 Tamanho:",
-          "descricao": "61X61 Tamanho:",
-          "maiorLote": "",
-          "A": "",
-          "A2": "",
-          "B": ""
-        },
-        {
-          "produto": "1892",
-          "descricao": "PISO ALAMEDA BG HD 61",
+          "produto": "Tamanho: 1892",
+          "descricao": "61X61 PISO ALAMEDA BG HD 61",
           "maiorLote": "22.799,52",
           "A": "36.527,40",
           "A2": "36.527,40",
@@ -5021,9 +4877,9 @@
         {
           "produto": "1893",
           "descricao": "PISO ALAMEDA MR HD 61",
-          "maiorLote": "21.033,36",
-          "A": "21.033,36",
-          "A2": "21.033,36",
+          "maiorLote": "20.712,24",
+          "A": "20.712,24",
+          "A2": "20.712,24",
           "B": ""
         },
         {
@@ -5038,16 +4894,16 @@
           "produto": "3475",
           "descricao": "PISO ANTARES BG HD 61",
           "maiorLote": "80,28",
-          "A": "80,28",
-          "A2": "80,28",
+          "A": "",
+          "A2": "",
           "B": ""
         },
         {
           "produto": "5904",
           "descricao": "PISO APOLO EXT HD 61",
           "maiorLote": "15.654,60",
-          "A": "20.391,12",
-          "A2": "20.391,12",
+          "A": "80,28 19.508,04",
+          "A2": "80,28 19.508,04",
           "B": ""
         },
         {
@@ -5077,9 +4933,9 @@
         {
           "produto": "8790",
           "descricao": "PISO ASSOALHO HD 61",
-          "maiorLote": "2.007,00",
-          "A": "2.007,00",
-          "A2": "2.007,00",
+          "maiorLote": "1.605,60",
+          "A": "1.605,60",
+          "A2": "1.605,60",
           "B": ""
         },
         {
@@ -5093,9 +4949,9 @@
         {
           "produto": "5791",
           "descricao": "PISO AVENIDA HD 61",
-          "maiorLote": "18.624,96",
-          "A": "18.624,96",
-          "A2": "18.624,96",
+          "maiorLote": "18.464,40",
+          "A": "18.464,40",
+          "A2": "18.464,40",
           "B": ""
         },
         {
@@ -5125,41 +4981,38 @@
         {
           "produto": "1651",
           "descricao": "PISO BRANCO 61",
-          "maiorLote": "9.312,48",
-          "A": "16.377,12",
-          "A2": "16.377,12",
+          "maiorLote": "9.071,64",
+          "A": "16.136,28",
+          "A2": "16.136,28",
           "B": ""
         },
         {
           "produto": "1899",
           "descricao": "PISO BRANCO ACETINADO 61",
           "maiorLote": "15.092,64",
-          "A": "34.145,76",
-          "A2": "34.145,76",
+          "A": "33.985,20",
+          "A2": "33.985,20",
           "B": ""
         },
         {
           "produto": "5788",
           "descricao": "PISO CALACATTA HD 61",
-          "maiorLote": "4.736,52",
-          "A": "5.057,64",
-          "A2": "5.057,64",
+          "maiorLote": "3.933,72",
+          "A": "4.254,84",
+          "A2": "4.254,84",
           "B": ""
-        },
-        {
-          "produto": "61X61 Tamanho:",
-          "descricao": "61X61 Tamanho:",
-          "maiorLote": "61X61 Tamanho:",
-          "A": "61X61 Tamanho:",
-          "A2": "61X61 Tamanho:",
-          "B": "61X61 Tamanho:"
-        },
+        }
+      ]
+    },
+    {
+      "dimensions": "61X61",
+      "products": [
         {
           "produto": "5831",
           "descricao": "PISO CAMBRIDJE BG EXT HD 61",
-          "maiorLote": "20.631,96",
-          "A": "20.631,96",
-          "A2": "20.631,96",
+          "maiorLote": "20.310,84",
+          "A": "20.310,84",
+          "A2": "20.310,84",
           "B": ""
         },
         {
@@ -5181,9 +5034,9 @@
         {
           "produto": "5830",
           "descricao": "PISO CAMBRIDJE CZ HD 61",
-          "maiorLote": "17.982,72",
-          "A": "17.982,72",
-          "A2": "17.982,72",
+          "maiorLote": "17.340,48",
+          "A": "17.340,48",
+          "A2": "17.340,48",
           "B": ""
         },
         {
@@ -5205,17 +5058,17 @@
         {
           "produto": "1646",
           "descricao": "PISO CARRARA CZ HD 61",
-          "maiorLote": "26.813,52",
-          "A": "26.813,52",
-          "A2": "26.813,52",
+          "maiorLote": "26.331,84",
+          "A": "26.331,84",
+          "A2": "26.331,84",
           "B": ""
         },
         {
           "produto": "5783",
           "descricao": "PISO CARRARA HD 61",
-          "maiorLote": "16.698,24",
-          "A": "18.624,96",
-          "A2": "18.624,96",
+          "maiorLote": "16.537,68",
+          "A": "18.464,40",
+          "A2": "18.464,40",
           "B": ""
         },
         {
@@ -5237,9 +5090,9 @@
         {
           "produto": "1894",
           "descricao": "PISO CIMENTCOLOR BG HD 61",
-          "maiorLote": "55.553,76",
-          "A": "55.553,76",
-          "A2": "55.553,76",
+          "maiorLote": "54.750,96",
+          "A": "54.750,96",
+          "A2": "54.750,96",
           "B": ""
         },
         {
@@ -5278,8 +5131,8 @@
           "produto": "1888",
           "descricao": "PISO ECOLOGIC MR HD 61",
           "maiorLote": "51.138,36",
-          "A": "64.464,84",
-          "A2": "64.464,84",
+          "A": "60.049,44",
+          "A2": "60.049,44",
           "B": ""
         },
         {
@@ -5294,24 +5147,24 @@
           "produto": "1886",
           "descricao": "PISO ECONATURE MR HD 61",
           "maiorLote": "30.747,24",
-          "A": "34.921,80",
-          "A2": "34.921,80",
+          "A": "34.440,12",
+          "A2": "34.440,12",
           "B": ""
         },
         {
           "produto": "1668",
           "descricao": "PISO ESSENZA BG HD 61",
           "maiorLote": "19.989,72",
-          "A": "26.974,08",
-          "A2": "26.974,08",
+          "A": "26.893,80",
+          "A2": "26.893,80",
           "B": ""
         },
         {
           "produto": "1669",
           "descricao": "PISO ESSENZA CZ HD 61",
           "maiorLote": "8.108,28",
-          "A": "12.202,56",
-          "A2": "12.202,56",
+          "A": "11.961,72",
+          "A2": "11.961,72",
           "B": ""
         },
         {
@@ -5325,17 +5178,17 @@
         {
           "produto": "1682",
           "descricao": "PISO EVIDENCE BG HD 61",
-          "maiorLote": "22.960,08",
-          "A": "22.960,08",
-          "A2": "22.960,08",
+          "maiorLote": "22.478,40",
+          "A": "22.478,40",
+          "A2": "22.478,40",
           "B": ""
         },
         {
           "produto": "1678",
           "descricao": "PISO EVIDENCE CZ HD 61",
-          "maiorLote": "9.071,64",
-          "A": "9.071,64",
-          "A2": "9.071,64",
+          "maiorLote": "8.509,68",
+          "A": "8.509,68",
+          "A2": "8.509,68",
           "B": ""
         },
         {
@@ -5358,8 +5211,8 @@
           "produto": "3587",
           "descricao": "PISO FERRETE HD 61",
           "maiorLote": "23.762,88",
-          "A": "28.178,28",
-          "A2": "28.178,28",
+          "A": "26.251,56",
+          "A2": "26.251,56",
           "B": ""
         },
         {
@@ -5382,8 +5235,8 @@
           "produto": "6019",
           "descricao": "PISO GALES HD 61",
           "maiorLote": "24.886,80",
-          "A": "33.878,16",
-          "A2": "33.878,16",
+          "A": "33.797,88",
+          "A2": "33.797,88",
           "B": ""
         },
         {
@@ -5398,24 +5251,24 @@
           "produto": "9019 5833",
           "descricao": "PISO IMPACTO HD 61 PISO IORQUE BG HD 61",
           "maiorLote": "802,80",
-          "A": "802,80 8.188,56",
-          "A2": "802,80 8.188,56",
+          "A": "802,80 7.546,32",
+          "A2": "802,80 7.546,32",
           "B": ""
         },
         {
           "produto": "5834",
           "descricao": "",
-          "maiorLote": "8.188,56",
+          "maiorLote": "7.546,32",
           "A": "10.275,84",
           "A2": "10.275,84",
           "B": ""
         },
         {
           "produto": "1642",
-          "descricao": "PISO IORQUE CZ HD 61",
+          "descricao": "PISO IORQUE CZ HD 61 PISO ITAUBA BG HD 61",
           "maiorLote": "10.275,84",
-          "A": "10.677,24",
-          "A2": "10.677,24",
+          "A": "10.436,40",
+          "A2": "",
           "B": ""
         },
         {
@@ -5427,28 +5280,20 @@
           "B": ""
         },
         {
-          "produto": "8999 8791",
-          "descricao": "PISO LAMINATA HD 61 PISO LONDON HD 61",
+          "produto": "8999",
+          "descricao": "PISO LAMINATA HD 61",
           "maiorLote": "2.970,36",
-          "A": "4.174,56 1.445,04",
+          "A": "4.174,56",
           "A2": "4.174,56",
           "B": ""
         },
         {
-          "produto": "5855",
-          "descricao": "PISO LONDRES ES HD 61",
-          "maiorLote": "883,08 1.364,76",
-          "A": "1.364,76",
-          "A2": "1.445,04 1.364,76",
+          "produto": "8791 5855",
+          "descricao": "PISO LONDON HD 61 PISO LONDRES ES HD 61",
+          "maiorLote": "883,08 1.204,20",
+          "A": "1.445,04 1.204,20",
+          "A2": "1.445,04 1.204,20",
           "B": ""
-        },
-        {
-          "produto": "61X61 Tamanho:",
-          "descricao": "61X61 Tamanho:",
-          "maiorLote": "61X61 Tamanho:",
-          "A": "61X61 Tamanho:",
-          "A2": "61X61 Tamanho:",
-          "B": "61X61 Tamanho:"
         },
         {
           "produto": "1663",
@@ -5461,25 +5306,25 @@
         {
           "produto": "1683",
           "descricao": "PISO MADRI CZ HD 61",
-          "maiorLote": "6.422,40",
-          "A": "6.422,40",
-          "A2": "6.422,40",
+          "maiorLote": "6.261,84",
+          "A": "6.261,84",
+          "A2": "6.261,84",
           "B": ""
         },
         {
           "produto": "1677",
           "descricao": "PISO MALTA BG HD 61",
-          "maiorLote": "25.930,44",
-          "A": "26.813,52",
-          "A2": "26.813,52",
+          "maiorLote": "25.689,60",
+          "A": "25.689,60",
+          "A2": "25.689,60",
           "B": ""
         },
         {
           "produto": "1676",
           "descricao": "PISO MALTA CZ HD 61",
-          "maiorLote": "2.328,12",
-          "A": "2.328,12",
-          "A2": "2.328,12",
+          "maiorLote": "2.247,84",
+          "A": "2.247,84",
+          "A2": "2.247,84",
           "B": ""
         },
         {
@@ -5509,9 +5354,9 @@
         {
           "produto": "3457",
           "descricao": "PISO MAZAR CZ HD 61",
-          "maiorLote": "9.954,72",
-          "A": "9.954,72",
-          "A2": "9.954,72",
+          "maiorLote": "8.911,08",
+          "A": "8.911,08",
+          "A2": "8.911,08",
           "B": ""
         },
         {
@@ -5535,15 +5380,15 @@
           "descricao": "PISO MORANA CL HD 61",
           "maiorLote": "19.668,60",
           "A": "24.405,12",
-          "A2": "16.698,24 24.405,12",
+          "A2": "16.457,40 24.405,12",
           "B": ""
         },
         {
           "produto": "3463 3588",
           "descricao": "PISO MORANA ES HD 61 PISO MOSCONI HD 61",
           "maiorLote": "14.771,52",
-          "A": "15.092,64",
-          "A2": "15.092,64",
+          "A": "14.932,08",
+          "A2": "14.932,08",
           "B": ""
         },
         {
@@ -5557,9 +5402,9 @@
         {
           "produto": "5774",
           "descricao": "PISO NAPOLE HD 61",
-          "maiorLote": "16.377,12",
-          "A": "18.865,80",
-          "A2": "18.865,80",
+          "maiorLote": "15.895,44",
+          "A": "18.384,12",
+          "A2": "18.384,12",
           "B": ""
         },
         {
@@ -5581,9 +5426,9 @@
         {
           "produto": "1896",
           "descricao": "PISO PLENO HD 61",
-          "maiorLote": "22.799,52",
-          "A": "22.799,52",
-          "A2": "22.799,52",
+          "maiorLote": "22.077,00",
+          "A": "22.077,00",
+          "A2": "22.077,00",
           "B": ""
         },
         {
@@ -5638,16 +5483,16 @@
           "produto": "1890",
           "descricao": "PISO TAVOLA BG HD 61",
           "maiorLote": "25.609,32",
-          "A": "56.517,12",
-          "A2": "56.517,12",
+          "A": "56.196,00",
+          "A2": "56.196,00",
           "B": ""
         },
         {
           "produto": "1889",
           "descricao": "PISO TAVOLA MR HD 61",
           "maiorLote": "22.237,56",
-          "A": "38.052,72",
-          "A2": "38.052,72",
+          "A": "37.811,88",
+          "A2": "37.811,88",
           "B": ""
         },
         {
@@ -5662,8 +5507,8 @@
           "produto": "8675",
           "descricao": "PISO VILLA REAL HD 61",
           "maiorLote": "16.216,56",
-          "A": "28.338,84",
-          "A2": "28.338,84",
+          "A": "28.098,00",
+          "A2": "28.098,00",
           "B": ""
         },
         {
@@ -5678,18 +5523,15 @@
           "produto": "3460",
           "descricao": "PISO VULCANO HD 61",
           "maiorLote": "7.385,76",
-          "A": "9.794,16",
-          "A2": "9.794,16",
+          "A": "9.633,60",
+          "A2": "9.633,60",
           "B": ""
-        },
-        {
-          "produto": "66x66 Tamanho:",
-          "descricao": "66x66 Tamanho:",
-          "maiorLote": "66x66 Tamanho:",
-          "A": "66x66 Tamanho:",
-          "A2": "66x66 Tamanho:",
-          "B": "66x66 Tamanho:"
-        },
+        }
+      ]
+    },
+    {
+      "dimensions": "66x66",
+      "products": [
         {
           "produto": "50221",
           "descricao": "AMOSTRAS FORMIGRES PREMIUM 66X66",
@@ -5717,33 +5559,33 @@
         {
           "produto": "50215",
           "descricao": "PISO ARIES CZ MATE RT 66X66",
-          "maiorLote": "2.118,96",
-          "A": "2.118,96",
-          "A2": "2.118,96",
+          "maiorLote": "1.569,60",
+          "A": "1.569,60",
+          "A2": "1.569,60",
           "B": ""
         },
         {
           "produto": "60013",
           "descricao": "PISO AVOLIO CINZA RT POLIDO 66X66",
-          "maiorLote": "2.040,48",
-          "A": "2.040,48",
-          "A2": "2.040,48",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
           "produto": "60007",
           "descricao": "PISO AVOLIO RT POLIDO 66X66",
-          "maiorLote": "1.148,86",
-          "A": "1.148,86",
-          "A2": "1.148,86",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
           "produto": "60042",
           "descricao": "PISO BELLINGHAM RT POLIDO 66X66",
-          "maiorLote": "549,36",
-          "A": "549,36",
-          "A2": "549,36",
+          "maiorLote": "392,40",
+          "A": "392,40",
+          "A2": "392,40",
           "B": ""
         },
         {
@@ -5755,51 +5597,43 @@
           "B": ""
         },
         {
-          "produto": "66x66 Tamanho:",
-          "descricao": "66x66 Tamanho:",
-          "maiorLote": "66x66 Tamanho:",
-          "A": "66x66 Tamanho:",
-          "A2": "66x66 Tamanho:",
-          "B": "66x66 Tamanho:"
-        },
-        {
           "produto": "50235",
           "descricao": "PISO BRAGA MATE RT 66X66",
-          "maiorLote": "4.080,96",
-          "A": "4.080,96",
-          "A2": "4.080,96",
+          "maiorLote": "3.924,00",
+          "A": "3.924,00",
+          "A2": "3.924,00",
           "B": ""
         },
         {
           "produto": "60000",
           "descricao": "PISO BRANCO RT POLIDO 66X66",
-          "maiorLote": "9.025,20",
-          "A": "9.025,20",
-          "A2": "9.025,20",
+          "maiorLote": "5.258,16",
+          "A": "5.258,16",
+          "A2": "5.258,16",
           "B": ""
         },
         {
           "produto": "60018",
           "descricao": "PISO CACAU RT POLIDO 66X66",
-          "maiorLote": "1.726,56",
-          "A": "1.726,56",
-          "A2": "1.726,56",
+          "maiorLote": "549,36",
+          "A": "549,36",
+          "A2": "549,36",
           "B": ""
         },
         {
           "produto": "60047",
           "descricao": "PISO CALACATA BLUE RT POLIDO 66X66",
-          "maiorLote": "706,32",
-          "A": "706,32",
-          "A2": "706,32",
+          "maiorLote": "78,48",
+          "A": "78,48",
+          "A2": "78,48",
           "B": ""
         },
         {
           "produto": "60015",
           "descricao": "PISO CALACATA RT POLIDO 66X66",
-          "maiorLote": "22.523,76",
-          "A": "22.523,76",
-          "A2": "22.523,76",
+          "maiorLote": "19.933,92",
+          "A": "19.933,92",
+          "A2": "19.933,92",
           "B": ""
         },
         {
@@ -5815,45 +5649,45 @@
           "descricao": "PISO CLEAN RT POLIDO 66X66",
           "maiorLote": "0,00",
           "A": "0,00",
-          "A2": "0,00",
+          "A2": "",
           "B": ""
         },
         {
           "produto": "50311",
           "descricao": "PISO CORTONA CZ MATE RT 66X66",
-          "maiorLote": "78,48",
-          "A": "78,48",
-          "A2": "78,48",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00 0,00",
           "B": ""
         },
         {
           "produto": "50201",
           "descricao": "PISO DETROIT MATE RT 66X66",
-          "maiorLote": "3.374,64",
-          "A": "5.179,68",
-          "A2": "5.179,68",
+          "maiorLote": "1.491,12",
+          "A": "2.825,28",
+          "A2": "2.825,28",
           "B": ""
         },
         {
           "produto": "50342",
-          "descricao": "",
-          "maiorLote": "627,84",
-          "A": "941,76",
-          "A2": "941,76",
+          "descricao": "PISO FUSION CINZA RT 66X66",
+          "maiorLote": "627,84 0,00",
+          "A": "0,00",
+          "A2": "",
           "B": ""
         },
         {
           "produto": "60009",
           "descricao": "PISO GOLD RT POLIDO 66X66",
-          "maiorLote": "235,44",
+          "maiorLote": "0,00",
           "A": "0,00",
-          "A2": "0,00",
+          "A2": "0,00 0,00",
           "B": ""
         },
         {
           "produto": "50200 60011",
           "descricao": "PISO GRAFITE MATE RT 66X66 PISO GRAFITE RT POLIDO 66X66",
-          "maiorLote": "0,00 78,48",
+          "maiorLote": "78,48",
           "A": "78,48",
           "A2": "78,48",
           "B": ""
@@ -5869,17 +5703,17 @@
         {
           "produto": "60019",
           "descricao": "PISO INTENSY AZUL RT POLIDO 66X66",
-          "maiorLote": "3.610,08",
-          "A": "3.610,08",
-          "A2": "3.610,08",
+          "maiorLote": "3.374,64",
+          "A": "3.374,64",
+          "A2": "3.374,64",
           "B": ""
         },
         {
           "produto": "60020",
           "descricao": "PISO INTENSY VERDE RT POLIDO 66X66",
-          "maiorLote": "6.984,72",
-          "A": "6.984,72",
-          "A2": "6.984,72",
+          "maiorLote": "6.749,28",
+          "A": "6.749,28",
+          "A2": "6.749,28",
           "B": ""
         },
         {
@@ -5893,25 +5727,25 @@
         {
           "produto": "60050",
           "descricao": "PISO JAGUAR BLACK RT POLIDO 66X66",
-          "maiorLote": "1.648,08",
-          "A": "1.648,08",
-          "A2": "1.648,08",
+          "maiorLote": "1.255,68",
+          "A": "1.255,68",
+          "A2": "1.255,68",
           "B": ""
         },
         {
           "produto": "60008",
           "descricao": "PISO LUMINI RT POLIDO 66X66",
-          "maiorLote": "1.962,00",
-          "A": "1.962,00",
-          "A2": "1.962,00",
+          "maiorLote": "1.569,60",
+          "A": "1.569,60",
+          "A2": "1.569,60",
           "B": ""
         },
         {
           "produto": "60001",
           "descricao": "PISO LUNAR RT POLIDO 66X66",
-          "maiorLote": "784,80",
-          "A": "784,80",
-          "A2": "784,80",
+          "maiorLote": "392,40",
+          "A": "392,40",
+          "A2": "392,40",
           "B": ""
         },
         {
@@ -5925,9 +5759,17 @@
         {
           "produto": "60023",
           "descricao": "PISO MARMI DELUX RT POLIDO 66X66",
-          "maiorLote": "14.126,40",
-          "A": "27.389,52",
-          "A2": "27.389,52",
+          "maiorLote": "13.655,52",
+          "A": "23.857,92",
+          "A2": "23.857,92",
+          "B": ""
+        },
+        {
+          "produto": "50209",
+          "descricao": "PISO MILANO CZ BRILHO RT 66X66",
+          "maiorLote": "78,48",
+          "A": "78,48",
+          "A2": "78,48",
           "B": ""
         },
         {
@@ -5941,17 +5783,9 @@
         {
           "produto": "50203",
           "descricao": "PISO MILANO CZ MATE RT 66X66",
-          "maiorLote": "0,00",
-          "A": "0,00",
-          "A2": "0,00",
-          "B": ""
-        },
-        {
-          "produto": "60004",
-          "descricao": "PISO MILANO CZ RT POLIDO 66X66",
-          "maiorLote": "0,00",
-          "A": "0,00",
-          "A2": "0,00",
+          "maiorLote": "2.354,40",
+          "A": "2.511,36",
+          "A2": "2.511,36",
           "B": ""
         },
         {
@@ -6005,25 +5839,25 @@
         {
           "produto": "60046",
           "descricao": "PISO PERLADO RT POLIDO 66X66",
-          "maiorLote": "3.060,72",
-          "A": "3.060,72",
-          "A2": "3.060,72",
+          "maiorLote": "2.746,80",
+          "A": "2.746,80",
+          "A2": "2.746,80",
           "B": ""
         },
         {
           "produto": "50230",
           "descricao": "PISO ROBLE MATE RT 66X66",
-          "maiorLote": "1.726,56",
-          "A": "2.432,88",
-          "A2": "2.432,88 1.569,60",
+          "maiorLote": "941,76",
+          "A": "1.491,12",
+          "A2": "1.491,12",
           "B": ""
         },
         {
           "produto": "50199",
           "descricao": "PISO SALOON MATE RT 66X66",
-          "maiorLote": "1.569,60",
-          "A": "1.569,60",
-          "A2": "",
+          "maiorLote": "1.098,72",
+          "A": "1.098,72",
+          "A2": "1.098,72",
           "B": ""
         },
         {
@@ -6045,24 +5879,19 @@
         {
           "produto": "50227",
           "descricao": "PISO STATUARIO MATE RT 66X66",
-          "maiorLote": "627,84",
-          "A": "627,84",
-          "A2": "627,84",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
           "produto": "60024 50310",
           "descricao": "PISO STATUARIO RT POLIDO 66X66 PISO STONE BG MATE RT 66X66",
-          "maiorLote": "15.225,12 4.080,96",
-          "A": "15.225,12 4.080,96",
-          "A2": "15.225,12 4.080,96",
+          "maiorLote": "12.321,36",
+          "A": "12.321,36",
+          "A2": "12.321,36",
           "B": ""
-        }
-      ]
-    },
-    {
-      "dimensions": "66x66",
-      "products": [
+        },
         {
           "produto": "60048",
           "descricao": "PISO TUNDRA BEIGE RT POLIDO 66X66",
@@ -6082,9 +5911,9 @@
         {
           "produto": "60010",
           "descricao": "PISO VECHIA RT POLIDO 66X66",
-          "maiorLote": "3.531,60",
-          "A": "3.531,60",
-          "A2": "3.531,60",
+          "maiorLote": "3.217,68",
+          "A": "3.217,68",
+          "A2": "3.217,68",
           "B": ""
         },
         {
@@ -6103,9 +5932,9 @@
         {
           "produto": "50198",
           "descricao": "PISO A GRANEL 67X67",
-          "maiorLote": "454.842,62",
-          "A": "459.851,26",
-          "A2": "459.851,26",
+          "maiorLote": "469.199,68",
+          "A": "474.266,56",
+          "A2": "474.266,56",
           "B": ""
         }
       ]
@@ -6124,9 +5953,9 @@
         {
           "produto": "80017",
           "descricao": "PISO ACAPULCO SILVER GRANILHADO RT 81X81",
-          "maiorLote": "5.378,10",
-          "A": "5.516,00",
-          "A2": "5.516,00",
+          "maiorLote": "6.205,50",
+          "A": "6.412,35",
+          "A2": "6.412,35",
           "B": ""
         },
         {
@@ -6164,33 +5993,49 @@
         {
           "produto": "80012",
           "descricao": "PISO ATENAS CZ MATE RT 81X81",
-          "maiorLote": "965,30",
-          "A": "965,30",
-          "A2": "965,30",
+          "maiorLote": "413,70",
+          "A": "413,70",
+          "A2": "413,70",
+          "B": ""
+        },
+        {
+          "produto": "90031",
+          "descricao": "PISO AVOLIO RT POLIDO 81X81",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
           "produto": "80026",
           "descricao": "PISO BRANCO MATE RT 81X81",
-          "maiorLote": "600,85",
-          "A": "669,80",
-          "A2": "669,80",
+          "maiorLote": "325,05",
+          "A": "394,00",
+          "A2": "394,00",
           "B": ""
         },
         {
           "produto": "90019",
           "descricao": "PISO BRANCO RT POLIDO 81X81",
-          "maiorLote": "206,85",
-          "A": "344,75",
-          "A2": "344,75",
+          "maiorLote": "137,90",
+          "A": "275,80",
+          "A2": "275,80",
+          "B": ""
+        },
+        {
+          "produto": "80028",
+          "descricao": "PISO CALACATA BIANCO MATE RT 81X81",
+          "maiorLote": "2.895,90",
+          "A": "2.895,90",
+          "A2": "2.895,90",
           "B": ""
         },
         {
           "produto": "90020",
           "descricao": "PISO CALACATA BIANCO RT POLIDO 81X81",
-          "maiorLote": "6.343,40",
-          "A": "6.550,25",
-          "A2": "6.550,25",
+          "maiorLote": "5.929,70",
+          "A": "6.136,55",
+          "A2": "6.136,55",
           "B": ""
         },
         {
@@ -6212,41 +6057,33 @@
         {
           "produto": "80039",
           "descricao": "PISO CANELA ES MATE RT 81X81",
-          "maiorLote": "3.723,30",
-          "A": "3.861,20",
-          "A2": "3.861,20",
+          "maiorLote": "3.585,40",
+          "A": "3.723,30",
+          "A2": "3.723,30",
           "B": ""
         },
         {
           "produto": "80038",
           "descricao": "PISO CANELA MR MATE RT 81X81",
-          "maiorLote": "6.067,60",
-          "A": "6.412,35",
-          "A2": "6.412,35",
+          "maiorLote": "275,80",
+          "A": "275,80",
+          "A2": "275,80",
           "B": ""
         },
         {
-          "produto": "80001",
-          "descricao": "PISO CLEANTEC GREY MATE RT 81X81",
-          "maiorLote": "68,95",
-          "A": "68,95",
-          "A2": "68,95",
-          "B": ""
-        },
-        {
-          "produto": "80022",
-          "descricao": "PISO CLEANTEC SILVER GRANILHADO RT 81X81",
-          "maiorLote": "1.999,55",
-          "A": "2.206,40",
-          "A2": "2.206,40",
+          "produto": "80001 80022",
+          "descricao": "PISO CLEANTEC GREY MATE RT 81X81 PISO CLEANTEC SILVER GRANILHADO RT 81X81",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
           "produto": "80002",
           "descricao": "PISO CLEANTEC SILVER MATE RT 81X81",
-          "maiorLote": "413,70",
-          "A": "413,70",
-          "A2": "413,70",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
@@ -6260,106 +6097,98 @@
         {
           "produto": "90018",
           "descricao": "PISO CLEANTEC WHITE RT POLIDO 81X81",
-          "maiorLote": "137,90",
-          "A": "206,85",
-          "A2": "206,85",
+          "maiorLote": "2.620,10",
+          "A": "3.861,20",
+          "A2": "3.861,20",
           "B": ""
         },
         {
           "produto": "80046",
           "descricao": "PISO DALLAS MATE RT 81X81",
-          "maiorLote": "2.413,25",
-          "A": "2.482,20",
-          "A2": "2.482,20",
+          "maiorLote": "1.241,10",
+          "A": "1.241,10",
+          "A2": "1.241,10",
           "B": ""
         },
         {
-          "produto": "90014",
-          "descricao": "PISO DALLAS RT POLIDO 81X81",
-          "maiorLote": "1.516,90",
-          "A": "1.654,80",
-          "A2": "1.654,80",
+          "produto": "90014 80003",
+          "descricao": "PISO DALLAS RT POLIDO 81X81 PISO GOLDEN LUX MATE RT 81X81",
+          "maiorLote": "758,45 344,75",
+          "A": "827,40 344,75",
+          "A2": "827,40 344,75",
           "B": ""
         },
         {
-          "produto": "80003",
-          "descricao": "PISO GOLDEN LUX MATE RT 81X81",
-          "maiorLote": "1.723,75",
-          "A": "1.723,75",
-          "A2": "1.723,75",
-          "B": ""
-        },
-        {
-          "produto": "90001 80004",
+          "produto": "90001",
           "descricao": "PISO GOLDEN LUX RT POLIDO 81X81",
           "maiorLote": "16.272,20",
-          "A": "16.272,20 3.999,10",
-          "A2": "16.272,20 3.999,10",
+          "A": "16.272,20",
+          "A2": "16.272,20",
+          "B": ""
+        },
+        {
+          "produto": "80004",
+          "descricao": "PISO GOLDEN ORO RT MATE 81X81",
+          "maiorLote": "3.102,75",
+          "A": "3.102,75",
+          "A2": "3.102,75",
           "B": ""
         },
         {
           "produto": "90002",
-          "descricao": "PISO GOLDEN ORO RT MATE 81X81 PISO GOLDEN ORO RT POLIDO 81X81",
-          "maiorLote": "3.999,10 1.379,00",
-          "A": "1.379,00",
-          "A2": "1.379,00",
+          "descricao": "PISO GOLDEN ORO RT POLIDO 81X81",
+          "maiorLote": "1.241,10",
+          "A": "1.241,10",
+          "A2": "1.241,10",
           "B": ""
         },
         {
           "produto": "80010",
           "descricao": "PISO ILUMINATO MATE RT 81X81",
-          "maiorLote": "5.102,30",
-          "A": "5.102,30",
-          "A2": "5.102,30",
+          "maiorLote": "5.033,35",
+          "A": "5.033,35",
+          "A2": "5.033,35",
           "B": ""
         },
         {
           "produto": "90005",
-          "descricao": "PISO ILUMINATO RT POLIDO 81X81",
-          "maiorLote": "0,00",
-          "A": "0,00",
-          "A2": "0,00",
-          "B": ""
-        },
-        {
-          "produto": "80019",
-          "descricao": "PISO LOMBARDIA BEGE MATE RT 81X81",
-          "maiorLote": "0,00",
-          "A": "0,00",
-          "A2": "0,00",
-          "B": ""
-        },
-        {
-          "produto": "80044",
-          "descricao": "",
+          "descricao": " PISO ILUMINATO RT POLIDO 81X81",
           "maiorLote": "",
           "A": "",
           "A2": "",
           "B": ""
         },
         {
-          "produto": "80018 80015",
-          "descricao": "PISO LOMBARDIA CINZA MATE RT 81X81 PISO MALI BG MATE RT 81X81",
-          "maiorLote": "0,00 68,95",
-          "A": "0,00 68,95",
-          "A2": "0,00 68,95",
+          "produto": "80019 80044",
+          "descricao": "PISO LOMBARDIA BEGE MATE RT 81X81 PISO LOMBARDIA BRANCO MATE RT 81X81",
+          "maiorLote": "0,00 965,30",
+          "A": "0,00 965,30",
+          "A2": "0,00 965,30",
+          "B": ""
+        },
+        {
+          "produto": "80018",
+          "descricao": "PISO LOMBARDIA CINZA MATE RT 81X81",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
+          "B": ""
+        },
+        {
+          "produto": "80015",
+          "descricao": "PISO MALI BG MATE RT 81X81",
+          "maiorLote": "68,95",
+          "A": "68,95",
+          "A2": "68,95",
           "B": ""
         },
         {
           "produto": "90008",
           "descricao": "PISO MALI CINZA RT POLIDO 81X81",
-          "maiorLote": "4.895,45",
-          "A": "4.964,40",
-          "A2": "4.964,40",
+          "maiorLote": "4.757,55",
+          "A": "4.826,50",
+          "A2": "4.826,50",
           "B": ""
-        },
-        {
-          "produto": "81x81 Tamanho:",
-          "descricao": "81x81 Tamanho:",
-          "maiorLote": "81x81 Tamanho:",
-          "A": "81x81 Tamanho:",
-          "A2": "81x81 Tamanho:",
-          "B": "81x81 Tamanho:"
         },
         {
           "produto": "80014",
@@ -6388,17 +6217,17 @@
         {
           "produto": "80036",
           "descricao": "PISO MIAMI BG MATE RT 81X81",
-          "maiorLote": "1.516,90",
-          "A": "1.516,90",
-          "A2": "1.516,90",
+          "maiorLote": "1.241,10",
+          "A": "1.241,10",
+          "A2": "1.241,10",
           "B": ""
         },
         {
           "produto": "80007",
           "descricao": "PISO MICHIGAN CLARO EXT RT 81X81",
-          "maiorLote": "137,90",
-          "A": "137,90",
-          "A2": "137,90",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
@@ -6412,9 +6241,9 @@
         {
           "produto": "80006",
           "descricao": "PISO ONIX CRISTAL MATE RT 81X81",
-          "maiorLote": "7.515,55",
-          "A": "7.515,55",
-          "A2": "7.515,55",
+          "maiorLote": "6.136,55",
+          "A": "6.136,55",
+          "A2": "6.136,55",
           "B": ""
         },
         {
@@ -6422,31 +6251,23 @@
           "descricao": "PISO ONIX CRISTAL RT POLIDO 81X81",
           "maiorLote": "0,00",
           "A": "0,00",
-          "A2": "",
+          "A2": "0,00",
           "B": ""
         },
         {
           "produto": "90006",
-          "descricao": "",
+          "descricao": "PISO P.E 81X81 POLIDO",
           "maiorLote": "",
-          "A": "",
-          "A2": "0,00",
+          "A": "0,00",
+          "A2": "59,10",
           "B": ""
         },
         {
-          "produto": "80009",
-          "descricao": "PISO P.E 81X81 RETIFICADO",
-          "maiorLote": "0,00",
+          "produto": "80009 80020",
+          "descricao": "PISO P.E 81X81 RETIFICADO PISO PAMPULHA MATE RT 81X81",
+          "maiorLote": "0,00 0,00",
           "A": "0,00",
-          "A2": "0,00",
-          "B": ""
-        },
-        {
-          "produto": "80020",
-          "descricao": "PISO PAMPULHA MATE RT 81X81",
-          "maiorLote": "0,00",
-          "A": "0,00",
-          "A2": "0,00",
+          "A2": "0,00 0,00",
           "B": ""
         },
         {
@@ -6458,27 +6279,35 @@
           "B": ""
         },
         {
-          "produto": "90003 90012",
-          "descricao": "PISO PLACE BR RT POLIDO 81X81 PISO PRIMUS RT POLIDO 81X81",
-          "maiorLote": "5.033,35 15.375,85",
-          "A": "5.033,35 15.375,85",
-          "A2": "5.033,35 15.375,85",
+          "produto": "90003",
+          "descricao": "PISO PLACE BR RT POLIDO 81X81",
+          "maiorLote": "3.861,20",
+          "A": "3.861,20",
+          "A2": "3.861,20",
+          "B": ""
+        },
+        {
+          "produto": "90012",
+          "descricao": "PISO PRIMUS RT POLIDO 81X81",
+          "maiorLote": "7.032,90",
+          "A": "7.032,90",
+          "A2": "7.032,90",
           "B": ""
         },
         {
           "produto": "90041",
           "descricao": "PISO REALEZA GOLD RT POLIDO 81X81",
-          "maiorLote": "68,95",
-          "A": "68,95",
-          "A2": "68,95",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
           "produto": "80045",
           "descricao": "PISO SELENE GREY MATE RT 81X81",
-          "maiorLote": "413,70",
-          "A": "413,70",
-          "A2": "413,70",
+          "maiorLote": "137,90",
+          "A": "137,90",
+          "A2": "137,90",
           "B": ""
         },
         {
@@ -6500,59 +6329,37 @@
         {
           "produto": "90042",
           "descricao": "PISO VITÓRIA RÉGIA RT POLIDO 81X81",
-          "maiorLote": "1.034,25",
-          "A": "1.034,25",
-          "A2": "1.034,25",
+          "maiorLote": "",
+          "A": "",
+          "A2": "",
           "B": ""
-        },
-        {
-          "produto": "83x83 Tamanho:",
-          "descricao": "83x83 Tamanho:",
-          "maiorLote": "83x83 Tamanho:",
-          "A": "83x83 Tamanho:",
-          "A2": "83x83 Tamanho:",
-          "B": "83x83 Tamanho:"
-        },
+        }
+      ]
+    },
+    {
+      "dimensions": "83x83",
+      "products": [
         {
           "produto": "50294",
           "descricao": "PISO A GRANEL 83x83",
-          "maiorLote": "331.111,38",
-          "A": "332.212,62",
-          "A2": "332.212,62",
+          "maiorLote": "321.222,01",
+          "A": "322.381,21",
+          "A2": "322.381,21",
           "B": ""
         },
         {
-          "produto": "87x87 Tamanho:",
-          "descricao": "87x87 Tamanho:",
-          "maiorLote": "87x87 Tamanho:",
-          "A": "87x87 Tamanho:",
-          "A2": "87x87 Tamanho:",
-          "B": "87x87 Tamanho:"
-        },
-        {
-          "produto": "50247",
-          "descricao": "PISO BRANCO MATE RT 87X87",
-          "maiorLote": "81,72",
-          "A": "81,72",
-          "A2": "81,72",
+          "produto": "Tamanho: 50247 60056",
+          "descricao": "87x87 PISO BRANCO MATE RT 87X87 PISO P.E 87X87 POLIDO",
+          "maiorLote": "81,72 0,00",
+          "A": "81,72 0,00",
+          "A2": "81,72 0,00",
           "B": ""
-        },
-        {
-          "produto": "60056",
-          "descricao": "PISO P.E 87X87 POLIDO",
-          "maiorLote": "0,00",
-          "A": "0,00",
-          "A2": "0,00",
-          "B": ""
-        },
-        {
-          "produto": "88x88 Tamanho:",
-          "descricao": "88x88 Tamanho:",
-          "maiorLote": "88x88 Tamanho:",
-          "A": "88x88 Tamanho:",
-          "A2": "88x88 Tamanho:",
-          "B": "88x88 Tamanho:"
-        },
+        }
+      ]
+    },
+    {
+      "dimensions": "88x88",
+      "products": [
         {
           "produto": "50340",
           "descricao": "AMOSTRAS FORMIGRES PREMIUM 88X88",
@@ -6596,9 +6403,9 @@
         {
           "produto": "60324",
           "descricao": "PISO APUANE RT POLIDO 88X88",
-          "maiorLote": "3.257,28",
-          "A": "3.257,28",
-          "A2": "3.257,28",
+          "maiorLote": "1.753,92",
+          "A": "1.753,92",
+          "A2": "1.753,92",
           "B": ""
         },
         {
@@ -6628,9 +6435,9 @@
         {
           "produto": "60348",
           "descricao": "PISO ARDOSIA RT POLIDO 88X88",
-          "maiorLote": "2.756,16",
-          "A": "2.756,16",
-          "A2": "2.756,16",
+          "maiorLote": "2.505,60",
+          "A": "2.505,60",
+          "A2": "2.505,60",
           "B": ""
         },
         {
@@ -6645,7 +6452,7 @@
           "produto": "50331",
           "descricao": "PISO ARENITO CZ MATE RT 88X88",
           "maiorLote": "0,00",
-          "A": "0,00",
+          "A": "",
           "A2": "0,00",
           "B": ""
         },
@@ -6659,19 +6466,11 @@
         },
         {
           "produto": "60322",
-          "descricao": "",
-          "maiorLote": "",
-          "A": "",
-          "A2": "",
+          "descricao": "PISO AVOLIO CZ RT POLIDO 88X88",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
-        },
-        {
-          "produto": "88x88 Tamanho:",
-          "descricao": "88x88 Tamanho:",
-          "maiorLote": "88x88 Tamanho:",
-          "A": "88x88 Tamanho:",
-          "A2": "88x88 Tamanho:",
-          "B": "88x88 Tamanho:"
         },
         {
           "produto": "60332",
@@ -6684,17 +6483,17 @@
         {
           "produto": "60343",
           "descricao": "PISO CALACATA ORO RT POLIDO 88X88",
-          "maiorLote": "1.002,24",
-          "A": "1.002,24",
-          "A2": "1.002,24",
+          "maiorLote": "1.169,28",
+          "A": "1.169,28",
+          "A2": "1.169,28",
           "B": ""
         },
         {
           "produto": "60342",
           "descricao": "PISO CARBONO BLACK RT POLIDO 88X88",
-          "maiorLote": "1.670,40",
-          "A": "1.670,40",
-          "A2": "1.670,40",
+          "maiorLote": "1.586,88",
+          "A": "1.586,88",
+          "A2": "1.586,88",
           "B": ""
         },
         {
@@ -6718,53 +6517,53 @@
           "descricao": "PISO CEMENT GRIGIO MATE RT 88X88",
           "maiorLote": "0,00",
           "A": "0,00",
-          "A2": "0,00",
+          "A2": "",
           "B": ""
         },
         {
           "produto": "60338",
           "descricao": "PISO CLASSIC CZ RT POLIDO 88X88",
-          "maiorLote": "3.758,40",
+          "maiorLote": "",
           "A": "6.264,00",
-          "A2": "6.264,00",
+          "A2": "0,00 6.264,00",
           "B": ""
         },
         {
           "produto": "50321",
-          "descricao": "PISO DUNAS MATE RT 88X88",
-          "maiorLote": "250,56",
+          "descricao": "PISO DUNAS MATE RT 88X88 PISO DUNAS RT POLIDO 88X88",
+          "maiorLote": "3.758,40 250,56",
           "A": "751,68",
           "A2": "751,68",
           "B": ""
         },
         {
           "produto": "60334",
-          "descricao": "PISO DUNAS RT POLIDO 88X88",
-          "maiorLote": "3.841,92",
-          "A": "3.841,92",
-          "A2": "3.841,92",
-          "B": ""
-        },
-        {
-          "produto": "60339",
-          "descricao": "PISO ELEGANCE CZ RT POLIDO 88X88",
+          "descricao": "",
           "maiorLote": "6.180,48",
           "A": "6.180,48",
           "A2": "6.180,48",
           "B": ""
         },
         {
-          "produto": "50327",
-          "descricao": "",
-          "maiorLote": "",
+          "produto": "60339 50327",
+          "descricao": "PISO ELEGANCE CZ RT POLIDO 88X88 PISO ESSENCIAL CZ MATE RT 88X88",
+          "maiorLote": "501,12",
+          "A": "501,12",
+          "A2": "501,12",
+          "B": ""
+        },
+        {
+          "produto": "60353",
+          "descricao": "PISO ESSENCIAL CZ RT POLIDO 88X88",
+          "maiorLote": "751,68",
           "A": "751,68",
           "A2": "751,68",
           "B": ""
         },
         {
-          "produto": "60353 60397",
-          "descricao": "PISO ESSENCIAL CZ RT POLIDO 88X88 PISO FIORE RT POLIDO 88X88",
-          "maiorLote": "751,68 83,52",
+          "produto": "60397",
+          "descricao": "PISO FIORE RT POLIDO 88X88",
+          "maiorLote": "83,52",
           "A": "83,52",
           "A2": "83,52",
           "B": ""
@@ -6812,9 +6611,9 @@
         {
           "produto": "60355",
           "descricao": "PISO INTUICAO CZ RT POLIDO 88X88",
-          "maiorLote": "417,60",
-          "A": "417,60",
-          "A2": "417,60",
+          "maiorLote": "250,56",
+          "A": "250,56",
+          "A2": "250,56",
           "B": ""
         },
         {
@@ -6868,25 +6667,25 @@
         {
           "produto": "50318",
           "descricao": "PISO PERSA BEGE MATE RT 88X88",
-          "maiorLote": "167,04",
-          "A": "167,04",
-          "A2": "167,04",
-          "B": ""
-        },
-        {
-          "produto": "60326",
-          "descricao": "PISO PERSA BEGE RT POLIDO 88X88",
           "maiorLote": "0,00",
           "A": "0,00",
           "A2": "0,00",
           "B": ""
         },
         {
+          "produto": "60326",
+          "descricao": "PISO PERSA BEGE RT POLIDO 88X88",
+          "maiorLote": "83,52",
+          "A": "83,52",
+          "A2": "83,52",
+          "B": ""
+        },
+        {
           "produto": "60327",
           "descricao": "PISO PERSA CINZA RT POLIDO 88X88",
-          "maiorLote": "167,04",
-          "A": "167,04",
-          "A2": "167,04",
+          "maiorLote": "0,00",
+          "A": "0,00",
+          "A2": "0,00",
           "B": ""
         },
         {
@@ -6910,15 +6709,15 @@
           "descricao": "PISO SANTORINI RT POLIDO 88X88",
           "maiorLote": "417,60",
           "A": "417,60",
-          "A2": "417,60",
+          "A2": "417,60 1.503,36",
           "B": ""
         },
         {
           "produto": "60361",
           "descricao": "PISO SOBERANO BROWN RT POLIDO 88X88",
-          "maiorLote": "1.753,92",
-          "A": "1.753,92",
-          "A2": "1.753,92",
+          "maiorLote": "1.503,36",
+          "A": "1.503,36",
+          "A2": "",
           "B": ""
         },
         {
@@ -6938,29 +6737,18 @@
           "B": ""
         },
         {
-          "produto": "50338",
-          "descricao": "PISO TRAVERTINO BG MATE RT 88X88",
-          "maiorLote": "918,72",
-          "A": "918,72",
-          "A2": "918,72",
+          "produto": "50338 50356",
+          "descricao": "PISO TRAVERTINO BG MATE RT 88X88 PISO TRAVERTINO CZ MATE RT 88X88",
+          "maiorLote": "334,08 2.255,04",
+          "A": "334,08 2.255,04",
+          "A2": "334,08 2.255,04",
           "B": ""
-        },
-        {
-          "produto": "50356",
-          "descricao": "PISO TRAVERTINO CZ MATE RT 88X88",
-          "maiorLote": "2.255,04",
-          "A": "2.255,04",
-          "A2": "2.255,04",
-          "B": ""
-        },
-        {
-          "produto": "89X89 Tamanho:",
-          "descricao": "89X89 Tamanho:",
-          "maiorLote": "89X89 Tamanho:",
-          "A": "89X89 Tamanho:",
-          "A2": "89X89 Tamanho:",
-          "B": "89X89 Tamanho:"
-        },
+        }
+      ]
+    },
+    {
+      "dimensions": "89X89",
+      "products": [
         {
           "produto": "50314",
           "descricao": "PISO A GRANEL 89x89",
@@ -6968,18 +6756,15 @@
           "A": "39.839,23",
           "A2": "39.839,23",
           "B": ""
-        },
-        {
-          "produto": "FL 4X35 Tamanho:",
-          "descricao": "FL 4X35 Tamanho:",
-          "maiorLote": "",
-          "A": "",
-          "A2": "",
-          "B": ""
-        },
+        }
+      ]
+    },
+    {
+      "dimensions": "FL 4X35",
+      "products": [
         {
           "produto": "8005",
-          "descricao": "FILETE MACA DE VIDRO",
+          "descricao": "FILETE MACA DE VIDRO 06222321 MANJERONA MD",
           "maiorLote": "14,00",
           "A": "14,00",
           "A2": "14,00",
@@ -7000,23 +6785,12 @@
           "A": "26,00",
           "A2": "26,00",
           "B": ""
-        },
-        {
-          "produto": "FX 10x35 Tamanho:",
-          "descricao": "FX 10x35 Tamanho:",
-          "maiorLote": "",
-          "A": "",
-          "A2": "",
-          "B": ""
-        },
-        {
-          "produto": "000037762ARRUELA LANTERNEIRO 5/8",
-          "descricao": "000037762ARRUELA LANTERNEIRO 5/8",
-          "maiorLote": "8,00",
-          "A": "8,00",
-          "A2": "8,00",
-          "B": ""
-        },
+        }
+      ]
+    },
+    {
+      "dimensions": "FX 10x35",
+      "products": [
         {
           "produto": "8010",
           "descricao": "FAIXA BOTAO DE ROSA",
@@ -7034,29 +6808,30 @@
           "B": ""
         },
         {
+          "produto": "000022616SUPORTE DOS MANCAIS DA ESTEIRA DE PILHA DO WRAP \"V-60\"14,00",
+          "descricao": "000022616SUPORTE DOS MANCAIS DA ESTEIRA DE PILHA DO WRAP \"V-60\"14,00",
+          "maiorLote": "14,00",
+          "A": "",
+          "A2": "14,00",
+          "B": ""
+        },
+        {
           "produto": "8015",
           "descricao": "Z BBB",
           "maiorLote": "5,00",
           "A": "5,00",
           "A2": "5,00",
           "B": ""
-        },
-        {
-          "produto": "Indefinido Tamanho:",
-          "descricao": "Indefinido Tamanho:",
-          "maiorLote": "",
-          "A": "",
-          "A2": "",
-          "B": ""
-        },
-        {
-          "produto": "KIT 35X57 Tamanho:",
-          "descricao": "KIT 35X57 Tamanho:",
-          "maiorLote": "",
-          "A": "",
-          "A2": "",
-          "B": ""
-        },
+        }
+      ]
+    },
+    {
+      "dimensions": "Indefinido",
+      "products": []
+    },
+    {
+      "dimensions": "KIT 35X57",
+      "products": [
         {
           "produto": "8020",
           "descricao": "KIT BORBOLETA",
