@@ -27,7 +27,7 @@ export default function handler(req, res) {
     } else {
       return res
         .status(404)
-        .json({ error: `Produto "${produtoBuscado}" não encontrado.` });
+        .json({ error: `Produto não encontrado.` });
     }
   } catch (error) {
     console.error("Erro na API:", error);

@@ -15,11 +15,11 @@ export default function handler(req, res) {
      * @type {{codigo: string, produto: string, A: string, A2: string, B: string, dimensions?: string}[]}
      */
     const data = JSON.parse(fileContent);
-    const produtoBuscado = decodeURIComponent(produto ?? "").trim();
+    const produtoBuscado = decodeURIComponent(produto ?? "").trim().toLowerCase();
 
-    // Busca por nome parcial ou por código exato
+    // Busca EXATA por nome (produto) ou código
     const produtoEncontrado = data.find(p =>
-      p.produto.toLowerCase().includes(produtoBuscado.toLowerCase()) ||
+      p.produto.toLowerCase() === produtoBuscado ||
       p.codigo === produtoBuscado
     );
 
@@ -30,7 +30,7 @@ export default function handler(req, res) {
       });
     } else {
       return res.status(404).json({
-        error: `Produto "${produtoBuscado}" não encontrado.`
+        error: `Produto não encontrado.`
       });
     }
 

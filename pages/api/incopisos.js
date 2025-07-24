@@ -14,11 +14,11 @@ export default function handler(req, res) {
      * @type {{produto: string, saldo: string, LD: string, dimensions: string, previsao: string}[]}
      */
     const data = JSON.parse(fileContent);
-    const produtoBuscado = decodeURIComponent(produto ?? "").trim();
+    const produtoBuscado = decodeURIComponent(produto ?? "").trim().toLowerCase();
 
-    // Busca parcial e case-insensitive
+    // Busca EXATA e case-insensitive
     const produtoEncontrado = data.find(p =>
-      p.produto.toLowerCase().includes(produtoBuscado.toLowerCase())
+      p.produto.toLowerCase() === produtoBuscado
     );
 
     if (produtoEncontrado) {
@@ -28,7 +28,7 @@ export default function handler(req, res) {
     } else {
       return res
         .status(404)
-        .json({ error: `Produto "${produtoBuscado}" não encontrado.` });
+        .json({ error: `Produto "${produto}" não encontrado.` });
     }
 
   } catch (error) {
