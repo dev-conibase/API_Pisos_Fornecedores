@@ -1,25 +1,20 @@
 const fs = require('fs');
 const path = require('path');
-
 const customLastUpdated = "24/07/2025";
-
 export default function handler(req, res) {
   const { produto } = req.query;
   const filePath = path.join(process.cwd(), 'data_incopisos.json');
-
   try {
     const fileContent = fs.readFileSync(filePath, 'utf8');
-
     /**
      * @type {{produto: string, saldo: string, LD: string, dimensions: string, previsao: string}[]}
      */
     const data = JSON.parse(fileContent);
-
     const produtoBuscado = decodeURIComponent(produto ?? "");
-
     // Corrigido para buscar pela chave "produto"
-    const encontrado = data.find(item => item.produto === produtoBuscado);
-
+    const produtoEncontrado = data.find(p =>
+      p.produto.toLowerCase().includes(produtoBuscado.toLowerCase().trim())
+    );
     if (encontrado) {
       return res
         .status(200)
