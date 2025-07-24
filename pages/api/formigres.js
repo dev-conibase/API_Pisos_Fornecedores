@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-// Defina a data customizada
+// Data da última atualização
 const customLastUpdated = "23/07/2025";
 
 export default function handler(req, res) {
@@ -11,18 +11,18 @@ export default function handler(req, res) {
   try {
     const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
 
-    const produtoBuscado = decodeURIComponent(produto);
+    const produtoBuscado = decodeURIComponent(produto ?? "");
 
-    const produtoEncontrado = data.estoque
-      .flatMap(item => item.products)
-      .find(p => p.produto === produtoBuscado);
+    // Busca exata pelo nome do produto
+    const produtoEncontrado = data.find(p => p.produto === produtoBuscado);
 
     if (produtoEncontrado) {
       res.status(200).json({ ...produtoEncontrado, lastUpdated: customLastUpdated });
     } else {
-      res.status(404).json({ error: `Produto ${produtoBuscado} não encontrado.` });
+      res.status(404).json({ error: `Produto "${produtoBuscado}" não encontrado.` });
     }
   } catch (error) {
+    console.error("Erro ao processar o arquivo JSON:", error);
     res.status(500).json({ error: 'Erro ao processar o arquivo JSON.' });
   }
 };

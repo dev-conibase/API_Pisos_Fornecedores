@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const customLastUpdated = "22/07/2025";
+const customLastUpdated = "24/07/2025";
 
 export default function handler(req, res) {
   const { produto } = req.query;
@@ -11,14 +11,14 @@ export default function handler(req, res) {
     const fileContent = fs.readFileSync(filePath, 'utf8');
 
     /**
-     * @type {{Produto: string, Saldo: string, "Previsão": string}[]}
+     * @type {{produto: string, saldo: string, LD: string, dimensions: string, previsao: string}[]}
      */
     const data = JSON.parse(fileContent);
 
     const produtoBuscado = decodeURIComponent(produto ?? "");
 
-    // Corrigido para buscar pela chave "Produto" com correspondência exata
-    const encontrado = data.find(item => item.Produto === produtoBuscado);
+    // Corrigido para buscar pela chave "produto"
+    const encontrado = data.find(item => item.produto === produtoBuscado);
 
     if (encontrado) {
       return res

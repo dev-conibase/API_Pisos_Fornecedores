@@ -1,24 +1,24 @@
 const fs = require('fs');
 const path = require('path');
 
-const customLastUpdated = "23/07/2025";
+const customLastUpdated = "24/07/2025";
 
 export default function handler(req, res) {
   const { produto } = req.query;
-  const filePath = path.join(process.cwd(), 'data_helena.json');
+  const filePath = path.join(process.cwd(), 'data_helena.json'); // ou 'data_formigres.json', etc
 
   try {
     const fileContent = fs.readFileSync(filePath, 'utf8');
 
     /**
-     * @type {{Produto: string, Saldo: string, "Previsão": string}[]}
+     * @type {{produto: string, saldo: string, dimensions: string}[]}
      */
     const data = JSON.parse(fileContent);
 
     const produtoBuscado = decodeURIComponent(produto ?? "");
 
-    // Corrigido para buscar pela chave "Produto" com correspondência exata
-    const encontrado = data.find(item => item.Produto === produtoBuscado);
+    // Busca exata (case-sensitive)
+    const encontrado = data.find(item => item.produto === produtoBuscado);
 
     if (encontrado) {
       return res
@@ -30,7 +30,7 @@ export default function handler(req, res) {
         .json({ error: `Produto "${produtoBuscado}" não encontrado.` });
     }
   } catch (error) {
-    console.error("Erro na API /api/incopisos:", error);
+    console.error("Erro na API:", error);
     return res
       .status(500)
       .json({ error: 'Erro ao processar o arquivo JSON.' });
