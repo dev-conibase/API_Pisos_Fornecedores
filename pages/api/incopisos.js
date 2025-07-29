@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const customLastUpdated = "24/07/2025";
+const customLastUpdated = "29/07/2025";
 
 export default function handler(req, res) {
   const { produto } = req.query;
@@ -28,7 +28,7 @@ export default function handler(req, res) {
     } else {
       return res
         .status(404)
-        .json({ error: `Produto "${produto}" não encontrado.` });
+        .json({ error: `Produto não encontrado.` });
     }
 
   } catch (error) {

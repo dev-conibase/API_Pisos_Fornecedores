@@ -26,7 +26,7 @@ REM Git
 echo.
 echo 🟢 Adicionando todas as alterações ao Git...
 git add .
-git commit -m "Atualização automática dos JSONs e datas customLastUpdated"
+git commit -m "Atualizacao automatica dos JSONs e datas customLastUpdated"
 git push
 
 echo.
