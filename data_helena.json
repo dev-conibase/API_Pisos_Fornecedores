@@ -46,37 +46,22 @@
   },
   {
     "dimensions": "121x121",
-    "produto": "DETROIT GRAY HAC240006",
-    "saldo": "Sim"
-  },
-  {
-    "dimensions": "121x121",
     "produto": "DETROIT GRIGIO HAC240153",
     "saldo": "Sim"
   },
   {
     "dimensions": "121x121",
     "produto": "LOFT CHUMBO HAC240141",
-    "saldo": "Sim"
+    "saldo": "Não"
   },
   {
     "dimensions": "121x121",
-    "produto": "LOFT GRAY HAC240140",
+    "produto": "30 Dias LOFT GRAY HAC240140",
     "saldo": "Sim"
   },
   {
     "dimensions": "121x121",
     "produto": "MANHATAN GRIS HAC240070",
-    "saldo": "Sim"
-  },
-  {
-    "dimensions": "121x121",
-    "produto": "MANHATAN SMOKY HAC240074",
-    "saldo": "108,41"
-  },
-  {
-    "dimensions": "121x121",
-    "produto": "MANHATAN SMOKY HRU240074",
     "saldo": "Sim"
   },
   {
@@ -167,16 +152,16 @@
   {
     "dimensions": "20x121",
     "produto": "LEGNO MONACO HRV200056",
-    "saldo": "Sim"
+    "saldo": "247,47"
   },
   {
     "dimensions": "20x121",
     "produto": "LEGNO OAK HRV200055",
-    "saldo": "2,19"
+    "saldo": "Não"
   },
   {
     "dimensions": "20x121",
-    "produto": "NATIVE AMENDOA HRU200030",
+    "produto": "30 Dias NATIVE AMENDOA HRU200030",
     "saldo": "Sim"
   },
   {
@@ -232,12 +217,13 @@
   {
     "dimensions": "61x120",
     "produto": "ACROPOLE MIX HPO120023",
-    "saldo": "Sim"
+    "saldo": "2.976,60"
   },
   {
     "dimensions": "61x120",
-    "produto": "AFLORA HPO120097",
-    "saldo": "Sim"
+    "produto": "Linha AFLORA HPO120097",
+    "saldo": "Sim",
+    "previsao": "Fora de"
   },
   {
     "dimensions": "61x120",
@@ -427,12 +413,13 @@
   {
     "dimensions": "62x121",
     "produto": "ALLURE HRV120028",
-    "saldo": "Sim"
+    "saldo": "947,25"
   },
   {
     "dimensions": "62x121",
-    "produto": "APORIA BEGE HDK120179",
-    "saldo": "Sim"
+    "produto": "Linha APORIA BEGE HDK120179",
+    "saldo": "Sim",
+    "previsao": "Fora de"
   },
   {
     "dimensions": "62x121",
@@ -443,12 +430,13 @@
   {
     "dimensions": "62x121",
     "produto": "ATACAMA DECOR HAG120068",
-    "saldo": "Sim"
+    "saldo": "2.268,00"
   },
   {
     "dimensions": "62x121",
-    "produto": "AURORA GREIGE HAC120149",
-    "saldo": "Sim"
+    "produto": "Linha AURORA GREIGE HAC120149",
+    "saldo": "Sim",
+    "previsao": "Fora de"
   },
   {
     "dimensions": "62x121",
