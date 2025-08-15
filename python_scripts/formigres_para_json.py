@@ -53,9 +53,9 @@ def process_table_data(data_list):
             "codigo": codigo,
             "produto": produto_name,
             "dimensions": dimensions,
-            "Maior Lote": float(maior_lote_str.replace('.', '').replace(',', '.')),
-            "Saldo A": float(saldo_a_str.replace('.', '').replace(',', '.')),
-            "Saldo B": float(saldo_b_str.replace('.', '').replace(',', '.')),
+            "maior_lote": float(maior_lote_str.replace('.', '').replace(',', '.')),
+            "saldo_A": float(saldo_a_str.replace('.', '').replace(',', '.')),
+            "saldo_B": float(saldo_b_str.replace('.', '').replace(',', '.')),
         }
         result.append(item)
 
