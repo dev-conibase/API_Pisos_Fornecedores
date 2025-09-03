@@ -96,11 +96,6 @@
   },
   {
     "dimensions": "121x121",
-    "produto": "MIRAGE ARENNA HAC240162",
-    "saldo": "Sim"
-  },
-  {
-    "dimensions": "121x121",
     "produto": "PASSIONE HAC240131",
     "saldo": "Sim"
   },
@@ -132,7 +127,7 @@
   {
     "dimensions": "121x121",
     "produto": "URBAN HAC240118",
-    "saldo": "87,90"
+    "saldo": "35,16"
   },
   {
     "dimensions": "121x121",
@@ -307,7 +302,7 @@
   {
     "dimensions": "61x120",
     "produto": "JAGUAR PORTORO HPO120106",
-    "saldo": "51,75"
+    "saldo": "24,75"
   },
   {
     "dimensions": "61x120",
@@ -387,7 +382,7 @@
   {
     "dimensions": "61x120",
     "produto": "VIVALDI GRIGIO HPO120084",
-    "saldo": "202,50"
+    "saldo": "198,00"
   },
   {
     "dimensions": "61x120",
@@ -836,8 +831,14 @@
   },
   {
     "dimensions": "83x83",
-    "produto": "DETROIT CREMA HAC830007",
+    "produto": "DETROIT ARGENTO HAC830180",
     "saldo": "Sim"
+  },
+  {
+    "dimensions": "83x83",
+    "produto": "DETROIT CREMA HAC830007",
+    "saldo": "Sim",
+    "previsao": "Lançamento"
   },
   {
     "dimensions": "83x83",
