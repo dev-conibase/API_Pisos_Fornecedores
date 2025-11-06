@@ -940,6 +940,12 @@
   },
   {
     "dimensions": "83x83",
+    "produto": "GEOMA GRAY HAC830190",
+    "saldo": "Não",
+    "previsao": "Lançamento"
+  },
+  {
+    "dimensions": "83x83",
     "produto": "GEOMA GRAY HNT830190",
     "saldo": "Sim",
     "previsao": "Lançamento"
@@ -987,8 +993,14 @@
   },
   {
     "dimensions": "83x83",
+    "produto": "NEBULA GRAFITE HNT830185",
+    "saldo": "Não"
+  },
+  {
+    "dimensions": "83x83",
     "produto": "NEBULA GRAFITE HRU830185",
-    "saldo": "Sim"
+    "saldo": "Sim",
+    "previsao": "Lançamento"
   },
   {
     "dimensions": "83x83",

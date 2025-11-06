@@ -1,19 +1,11 @@
 [
   {
-    "codigo": "50143",
-    "produto": "- PISO CARVALHO NATURAL CL RT HD 20X120",
+    "codigo": "50141",
+    "produto": "- PISO CARVALHO NATURAL ES RT HD 20X120",
     "dimensions": "20x120",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 141.12
-  },
-  {
-    "codigo": "50142",
-    "produto": "- PISO CARVALHO NATURAL RT HD 20X120",
-    "dimensions": "20x120",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 352.8
+    "maior_lote": 211.68,
+    "saldo_A": 211.68,
+    "saldo_B": 0.0
   },
   {
     "codigo": "50041",
@@ -35,17 +27,17 @@
     "codigo": "50031",
     "produto": "- PISO PATAGONIA RT HD 20X120",
     "dimensions": "20x120",
-    "maior_lote": 846.72,
-    "saldo_A": 846.72,
+    "maior_lote": 705.6,
+    "saldo_A": 705.6,
     "saldo_B": 0.0
   },
   {
     "codigo": "50038",
     "produto": "- PISO PIEMONT RT HD 20X120",
     "dimensions": "20x120",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 70.56
+    "maior_lote": 5715.36,
+    "saldo_A": 5715.36,
+    "saldo_B": 282.24
   },
   {
     "codigo": "50039",
@@ -155,24 +147,24 @@
     "codigo": "1257",
     "produto": "- PISO ANGRA 32",
     "dimensions": null,
-    "maior_lote": 1008.0,
-    "saldo_A": 1008.0,
+    "maior_lote": 864.0,
+    "saldo_A": 864.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "1261",
     "produto": "- PISO ANTIK CAFE 32",
     "dimensions": null,
-    "maior_lote": 15696.0,
-    "saldo_A": 15696.0,
+    "maior_lote": 15408.0,
+    "saldo_A": 15408.0,
     "saldo_B": 144.0
   },
   {
     "codigo": "1264",
     "produto": "- PISO BABU 32",
     "dimensions": null,
-    "maior_lote": 11376.0,
-    "saldo_A": 17568.0,
+    "maior_lote": 11232.0,
+    "saldo_A": 17424.0,
     "saldo_B": 0.0
   },
   {
@@ -195,16 +187,16 @@
     "codigo": "1441",
     "produto": "- PISO BISOTADO BR 32",
     "dimensions": null,
-    "maior_lote": 10368.0,
-    "saldo_A": 10368.0,
+    "maior_lote": 10080.0,
+    "saldo_A": 10080.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "1418",
     "produto": "- PISO BRANCO 32",
     "dimensions": null,
-    "maior_lote": 39024.0,
-    "saldo_A": 39024.0,
+    "maior_lote": 38448.0,
+    "saldo_A": 38448.0,
     "saldo_B": 0.0
   },
   {
@@ -283,9 +275,9 @@
     "codigo": "1403",
     "produto": "- PISO DHAMA AZUL 32",
     "dimensions": null,
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 144.0
+    "maior_lote": 12096.0,
+    "saldo_A": 15120.0,
+    "saldo_B": 240.0
   },
   {
     "codigo": "1404",
@@ -379,8 +371,8 @@
     "codigo": "1280",
     "produto": "- PISO LUZ 32",
     "dimensions": null,
-    "maior_lote": 864.0,
-    "saldo_A": 864.0,
+    "maior_lote": 720.0,
+    "saldo_A": 720.0,
     "saldo_B": 0.0
   },
   {
@@ -396,7 +388,7 @@
     "produto": "- PISO MONT BLANC 32",
     "dimensions": null,
     "maior_lote": 15696.0,
-    "saldo_A": 15840.0,
+    "saldo_A": 15696.0,
     "saldo_B": 144.0
   },
   {
@@ -531,8 +523,8 @@
     "codigo": "2050",
     "produto": "- AMOSTRAS FORMIGRES 33X59",
     "dimensions": "33x59",
-    "maior_lote": 197.96,
-    "saldo_A": 197.96,
+    "maior_lote": 193.92,
+    "saldo_A": 193.92,
     "saldo_B": 0.0
   },
   {
@@ -548,24 +540,16 @@
     "produto": "- PISO BRANCO ACT RETIFICADO 33X59",
     "dimensions": "33x59",
     "maior_lote": 2763.36,
-    "saldo_A": 3345.12,
-    "saldo_B": 727.2
+    "saldo_A": 3199.68,
+    "saldo_B": 145.44
   },
   {
     "codigo": "2002",
     "produto": "- PISO BRANCO RETIFICADO 33X59",
     "dimensions": "33x59",
-    "maior_lote": 4654.08,
-    "saldo_A": 5235.84,
-    "saldo_B": 448.44
-  },
-  {
-    "codigo": "2101",
-    "produto": "- PISO DECORA BR RETIFICADO 33X59",
-    "dimensions": "33x59",
-    "maior_lote": 145.44,
-    "saldo_A": 145.44,
-    "saldo_B": 0.0
+    "maior_lote": 72.72,
+    "saldo_A": 72.72,
+    "saldo_B": 40.4
   },
   {
     "codigo": "2066",
@@ -576,27 +560,19 @@
     "saldo_B": 1454.4
   },
   {
-    "codigo": "3633",
-    "produto": "- PISO MONT BLANC RETIFICADO 33X59",
-    "dimensions": "33x59",
-    "maior_lote": 145.44,
-    "saldo_A": 145.44,
-    "saldo_B": 0.0
-  },
-  {
     "codigo": "2105",
     "produto": "- PISO NAIROBI RETIFICADO 33X59",
     "dimensions": "33x59",
-    "maior_lote": 1163.52,
-    "saldo_A": 1163.52,
+    "maior_lote": 872.64,
+    "saldo_A": 872.64,
     "saldo_B": 727.2
   },
   {
     "codigo": "2070",
     "produto": "- PISO TAIKO BG RETIFICADO 33X59",
     "dimensions": "33x59",
-    "maior_lote": 12216.96,
-    "saldo_A": 12362.4,
+    "maior_lote": 12071.52,
+    "saldo_A": 12071.52,
     "saldo_B": 290.88
   },
   {
@@ -613,14 +589,14 @@
     "dimensions": "33x59",
     "maior_lote": 13816.8,
     "saldo_A": 15852.96,
-    "saldo_B": 92.92
+    "saldo_B": 0.0
   },
   {
     "codigo": "2069",
     "produto": "- PISO TAIKO MR RETIFICADO 33X59",
     "dimensions": "33x59",
-    "maior_lote": 18034.56,
-    "saldo_A": 18034.56,
+    "maior_lote": 17889.12,
+    "saldo_A": 17889.12,
     "saldo_B": 436.32
   },
   {
@@ -660,7 +636,7 @@
     "produto": "- PISO ANDES CZ HD 34X60",
     "dimensions": "34x60",
     "maior_lote": 5594.4,
-    "saldo_A": 5745.6,
+    "saldo_A": 5594.4,
     "saldo_B": 0.0
   },
   {
@@ -683,8 +659,8 @@
     "codigo": "1959",
     "produto": "- PISO AQUARELA MR HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 15724.8,
-    "saldo_A": 15724.8,
+    "maior_lote": 15120.0,
+    "saldo_A": 15120.0,
     "saldo_B": 0.0
   },
   {
@@ -716,31 +692,31 @@
     "produto": "- PISO AVILA BG HD 34X60",
     "dimensions": "34x60",
     "maior_lote": 28879.2,
-    "saldo_A": 35380.8,
+    "saldo_A": 34020.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "1933",
     "produto": "- PISO AVILA BR HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 6350.4,
-    "saldo_A": 6350.4,
+    "maior_lote": 5745.6,
+    "saldo_A": 5745.6,
     "saldo_B": 0.0
   },
   {
     "codigo": "1916",
     "produto": "- PISO AVILA CZ HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 907.2,
-    "saldo_A": 907.2,
+    "maior_lote": 604.8,
+    "saldo_A": 604.8,
     "saldo_B": 0.0
   },
   {
     "codigo": "2031",
     "produto": "- PISO AVILA ESC HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 11340.0,
-    "saldo_A": 11340.0,
+    "maior_lote": 10886.4,
+    "saldo_A": 10886.4,
     "saldo_B": 0.0
   },
   {
@@ -764,7 +740,7 @@
     "produto": "- PISO AZULEJO BR HD 34X60",
     "dimensions": "34x60",
     "maior_lote": 36741.6,
-    "saldo_A": 48232.8,
+    "saldo_A": 47779.2,
     "saldo_B": 0.0
   },
   {
@@ -772,15 +748,15 @@
     "produto": "- PISO AZULEJO PT HD 34X60",
     "dimensions": "34x60",
     "maior_lote": 5594.4,
-    "saldo_A": 5896.8,
-    "saldo_B": 21.0
+    "saldo_A": 5745.6,
+    "saldo_B": 0.0
   },
   {
     "codigo": "3624",
     "produto": "- PISO BAMBU HD 34X60",
     "dimensions": "34x60",
     "maior_lote": 19051.2,
-    "saldo_A": 27669.6,
+    "saldo_A": 27064.8,
     "saldo_B": 0.0
   },
   {
@@ -788,7 +764,7 @@
     "produto": "- PISO BIANCO 34X60",
     "dimensions": "34x60",
     "maior_lote": 6804.0,
-    "saldo_A": 11491.2,
+    "saldo_A": 8467.2,
     "saldo_B": 0.0
   },
   {
@@ -811,8 +787,8 @@
     "codigo": "1967",
     "produto": "- PISO BISOTADO BR 34X60",
     "dimensions": "34x60",
-    "maior_lote": 5292.0,
-    "saldo_A": 5292.0,
+    "maior_lote": 4687.2,
+    "saldo_A": 4687.2,
     "saldo_B": 0.0
   },
   {
@@ -827,9 +803,9 @@
     "codigo": "1936",
     "produto": "- PISO BRANCO 34X60",
     "dimensions": "34x60",
-    "maior_lote": 6501.6,
-    "saldo_A": 6501.6,
-    "saldo_B": 0.0
+    "maior_lote": 1360.8,
+    "saldo_A": 1360.8,
+    "saldo_B": 151.2
   },
   {
     "codigo": "2006",
@@ -875,8 +851,8 @@
     "codigo": "1972",
     "produto": "- PISO CATAVENTO BRANCO HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 10886.4,
-    "saldo_A": 10886.4,
+    "maior_lote": 10584.0,
+    "saldo_A": 10584.0,
     "saldo_B": 0.0
   },
   {
@@ -884,15 +860,15 @@
     "produto": "- PISO CATAVENTO CL HD 34X60",
     "dimensions": "34x60",
     "maior_lote": 18144.0,
-    "saldo_A": 23284.8,
+    "saldo_A": 23133.6,
     "saldo_B": 0.0
   },
   {
     "codigo": "1992",
     "produto": "- PISO CATAVENTO MR HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 15120.0,
-    "saldo_A": 15120.0,
+    "maior_lote": 14968.8,
+    "saldo_A": 14968.8,
     "saldo_B": 0.0
   },
   {
@@ -907,8 +883,8 @@
     "codigo": "1939",
     "produto": "- PISO COLORAL BG HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 4384.8,
-    "saldo_A": 4384.8,
+    "maior_lote": 4233.6,
+    "saldo_A": 4233.6,
     "saldo_B": 0.0
   },
   {
@@ -932,7 +908,7 @@
     "produto": "- PISO CREARE HD 34X60",
     "dimensions": "34x60",
     "maior_lote": 34473.6,
-    "saldo_A": 38253.6,
+    "saldo_A": 37497.6,
     "saldo_B": 0.0
   },
   {
@@ -1012,7 +988,7 @@
     "produto": "- PISO ELITE CZ HD 34X60",
     "dimensions": "34x60",
     "maior_lote": 15724.8,
-    "saldo_A": 23738.4,
+    "saldo_A": 23587.2,
     "saldo_B": 0.0
   },
   {
@@ -1035,8 +1011,8 @@
     "codigo": "5959",
     "produto": "- PISO FILETE 57 HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 31298.4,
-    "saldo_A": 53222.4,
+    "maior_lote": 29786.4,
+    "saldo_A": 51105.6,
     "saldo_B": 0.0
   },
   {
@@ -1051,8 +1027,8 @@
     "codigo": "5960",
     "produto": "- PISO FILETE 59 HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 9979.2,
-    "saldo_A": 9979.2,
+    "maior_lote": 8467.2,
+    "saldo_A": 8467.2,
     "saldo_B": 0.0
   },
   {
@@ -1075,8 +1051,8 @@
     "codigo": "1960",
     "produto": "- PISO FIORENTINA HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 7408.8,
-    "saldo_A": 7408.8,
+    "maior_lote": 7257.6,
+    "saldo_A": 7257.6,
     "saldo_B": 0.0
   },
   {
@@ -1132,7 +1108,7 @@
     "produto": "- PISO GRACE AZ HD 34X60",
     "dimensions": "34x60",
     "maior_lote": 4536.0,
-    "saldo_A": 4838.4,
+    "saldo_A": 4687.2,
     "saldo_B": 0.0
   },
   {
@@ -1147,8 +1123,8 @@
     "codigo": "1911",
     "produto": "- PISO GRACE BP HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 1209.6,
-    "saldo_A": 1209.6,
+    "maior_lote": 907.2,
+    "saldo_A": 907.2,
     "saldo_B": 0.0
   },
   {
@@ -1203,16 +1179,16 @@
     "codigo": "1956",
     "produto": "- PISO HIDRA HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 7711.2,
-    "saldo_A": 7711.2,
+    "maior_lote": 6955.2,
+    "saldo_A": 6955.2,
     "saldo_B": 0.0
   },
   {
     "codigo": "2024",
     "produto": "- PISO ILLUSION HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 17236.8,
-    "saldo_A": 17236.8,
+    "maior_lote": 17085.6,
+    "saldo_A": 17085.6,
     "saldo_B": 0.0
   },
   {
@@ -1243,24 +1219,24 @@
     "codigo": "1952",
     "produto": "- PISO JARDINS HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 16329.6,
-    "saldo_A": 16329.6,
+    "maior_lote": 15422.4,
+    "saldo_A": 15422.4,
     "saldo_B": 0.0
   },
   {
     "codigo": "1991",
     "produto": "- PISO JASMIM HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 10130.4,
-    "saldo_A": 11642.4,
+    "maior_lote": 8316.0,
+    "saldo_A": 9828.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "3604",
     "produto": "- PISO LADRILHO HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 12852.0,
-    "saldo_A": 12852.0,
+    "maior_lote": 12398.4,
+    "saldo_A": 12398.4,
     "saldo_B": 0.0
   },
   {
@@ -1268,7 +1244,7 @@
     "produto": "- PISO LAKA BR HD 34X60",
     "dimensions": "34x60",
     "maior_lote": 16480.8,
-    "saldo_A": 26460.0,
+    "saldo_A": 26308.8,
     "saldo_B": 0.0
   },
   {
@@ -1307,32 +1283,32 @@
     "codigo": "8971",
     "produto": "- PISO MARMORE BG HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 23587.2,
-    "saldo_A": 23587.2,
+    "maior_lote": 23436.0,
+    "saldo_A": 23436.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "8956",
     "produto": "- PISO MARMORE BR HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 16480.8,
-    "saldo_A": 16480.8,
+    "maior_lote": 15271.2,
+    "saldo_A": 15271.2,
     "saldo_B": 0.0
   },
   {
     "codigo": "8957",
     "produto": "- PISO MARMORE CZ HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 8164.8,
-    "saldo_A": 13154.4,
-    "saldo_B": 126.0
+    "maior_lote": 7106.4,
+    "saldo_A": 12096.0,
+    "saldo_B": 151.2
   },
   {
     "codigo": "5953",
     "produto": "- PISO MELODIA BEGE 34X60",
     "dimensions": "34x60",
     "maior_lote": 11188.8,
-    "saldo_A": 16783.2,
+    "saldo_A": 16632.0,
     "saldo_B": 0.0
   },
   {
@@ -1347,8 +1323,8 @@
     "codigo": "3589",
     "produto": "- PISO MONT BLANC 34X60",
     "dimensions": "34x60",
-    "maior_lote": 11188.8,
-    "saldo_A": 11188.8,
+    "maior_lote": 10735.2,
+    "saldo_A": 10735.2,
     "saldo_B": 0.0
   },
   {
@@ -1380,7 +1356,7 @@
     "produto": "- PISO MOSAICO 61 34X60",
     "dimensions": "34x60",
     "maior_lote": 6955.2,
-    "saldo_A": 7862.4,
+    "saldo_A": 7711.2,
     "saldo_B": 0.0
   },
   {
@@ -1420,7 +1396,7 @@
     "produto": "- PISO NIAGARA CZ HD 34X60",
     "dimensions": "34x60",
     "maior_lote": 2721.6,
-    "saldo_A": 5443.2,
+    "saldo_A": 5292.0,
     "saldo_B": 0.0
   },
   {
@@ -1443,8 +1419,8 @@
     "codigo": "8954",
     "produto": "- PISO PANDORA ES HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 21924.0,
-    "saldo_A": 21924.0,
+    "maior_lote": 20865.6,
+    "saldo_A": 20865.6,
     "saldo_B": 0.0
   },
   {
@@ -1475,8 +1451,8 @@
     "codigo": "3622",
     "produto": "- PISO PLATTA BR HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 8013.6,
-    "saldo_A": 8013.6,
+    "maior_lote": 7711.2,
+    "saldo_A": 7711.2,
     "saldo_B": 0.0
   },
   {
@@ -1499,24 +1475,24 @@
     "codigo": "1968",
     "produto": "- PISO PORCELLANAT CZ 34X60",
     "dimensions": "34x60",
-    "maior_lote": 5896.8,
-    "saldo_A": 5896.8,
+    "maior_lote": 5594.4,
+    "saldo_A": 5594.4,
     "saldo_B": 0.0
   },
   {
     "codigo": "1986",
     "produto": "- PISO PORCELLANAT MR 34X60",
     "dimensions": "34x60",
-    "maior_lote": 1512.0,
-    "saldo_A": 1512.0,
+    "maior_lote": 1360.8,
+    "saldo_A": 1360.8,
     "saldo_B": 0.0
   },
   {
     "codigo": "3570",
     "produto": "- PISO PRISCO HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 2570.4,
-    "saldo_A": 4989.6,
+    "maior_lote": 1965.6,
+    "saldo_A": 3931.2,
     "saldo_B": 0.0
   },
   {
@@ -1540,15 +1516,15 @@
     "produto": "- PISO SAHARA HD 34X60",
     "dimensions": "34x60",
     "maior_lote": 3628.8,
-    "saldo_A": 8467.2,
-    "saldo_B": 88.2
+    "saldo_A": 8316.0,
+    "saldo_B": 151.2
   },
   {
     "codigo": "1954",
     "produto": "- PISO SENSE HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 24948.0,
-    "saldo_A": 24948.0,
+    "maior_lote": 24796.8,
+    "saldo_A": 24796.8,
     "saldo_B": 0.0
   },
   {
@@ -1563,8 +1539,8 @@
     "codigo": "3590",
     "produto": "- PISO SPRING HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 6955.2,
-    "saldo_A": 6955.2,
+    "maior_lote": 6652.8,
+    "saldo_A": 6652.8,
     "saldo_B": 0.0
   },
   {
@@ -1588,23 +1564,23 @@
     "produto": "- PISO TIJOLINHO HD 34X60",
     "dimensions": "34x60",
     "maior_lote": 13759.2,
-    "saldo_A": 18900.0,
+    "saldo_A": 18748.8,
     "saldo_B": 0.0
   },
   {
     "codigo": "5955",
     "produto": "- PISO TIJOLO 57 HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 8013.6,
-    "saldo_A": 8013.6,
+    "maior_lote": 6350.4,
+    "saldo_A": 6350.4,
     "saldo_B": 0.0
   },
   {
     "codigo": "6000",
     "produto": "- PISO TIJOLO 59 HD 34X60",
     "dimensions": "34x60",
-    "maior_lote": 13759.2,
-    "saldo_A": 13759.2,
+    "maior_lote": 13608.0,
+    "saldo_A": 13608.0,
     "saldo_B": 0.0
   },
   {
@@ -1707,8 +1683,8 @@
     "codigo": "50420",
     "produto": "- AMOSTRA FORMIGRES PREMIUM 40X81",
     "dimensions": "40x81",
-    "maior_lote": 201.14,
-    "saldo_A": 201.14,
+    "maior_lote": 196.62,
+    "saldo_A": 196.62,
     "saldo_B": 0.0
   },
   {
@@ -1718,14 +1694,6 @@
     "maior_lote": 81.36,
     "saldo_A": 81.36,
     "saldo_B": 0.0
-  },
-  {
-    "codigo": "50409",
-    "produto": "- PISO BRANCO MATE RT 40X81",
-    "dimensions": "40x81",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 1627.2
   },
   {
     "codigo": "60520",
@@ -1750,14 +1718,6 @@
     "maior_lote": 0.0,
     "saldo_A": 0.0,
     "saldo_B": 99.89
-  },
-  {
-    "codigo": "50408",
-    "produto": "- PISO PLACE BR MATE RT 40X81",
-    "dimensions": "40x81",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 813.6
   },
   {
     "codigo": "50421",
@@ -1819,8 +1779,8 @@
     "codigo": "9028",
     "produto": "- PISO ABDULHA HD 45",
     "dimensions": null,
-    "maior_lote": 6272.0,
-    "saldo_A": 11904.0,
+    "maior_lote": 4096.0,
+    "saldo_A": 9728.0,
     "saldo_B": 256.0
   },
   {
@@ -1844,7 +1804,7 @@
     "produto": "- PISO ADERE CZ HD 45",
     "dimensions": null,
     "maior_lote": 19584.0,
-    "saldo_A": 29056.0,
+    "saldo_A": 28928.0,
     "saldo_B": 384.0
   },
   {
@@ -1883,24 +1843,16 @@
     "codigo": "3494",
     "produto": "- PISO ALLURE BR HD 45",
     "dimensions": null,
-    "maior_lote": 9088.0,
-    "saldo_A": 13568.0,
-    "saldo_B": 0.0
-  },
-  {
-    "codigo": "3495",
-    "produto": "- PISO ALLURE PT HD 45",
-    "dimensions": null,
-    "maior_lote": 896.0,
-    "saldo_A": 896.0,
+    "maior_lote": 7808.0,
+    "saldo_A": 12288.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "1201",
     "produto": "- PISO AMENDOA 45",
     "dimensions": null,
-    "maior_lote": 1920.0,
-    "saldo_A": 1920.0,
+    "maior_lote": 1536.0,
+    "saldo_A": 1536.0,
     "saldo_B": 0.0
   },
   {
@@ -1939,32 +1891,32 @@
     "codigo": "1206",
     "produto": "- PISO ASTECA BEGE 45",
     "dimensions": null,
-    "maior_lote": 1408.0,
-    "saldo_A": 1408.0,
+    "maior_lote": 1280.0,
+    "saldo_A": 1280.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "3427",
     "produto": "- PISO ASTRA BG 45",
     "dimensions": null,
-    "maior_lote": 13952.0,
-    "saldo_A": 13952.0,
+    "maior_lote": 13568.0,
+    "saldo_A": 13568.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "3428",
     "produto": "- PISO ASTRA CZ 45",
     "dimensions": null,
-    "maior_lote": 13056.0,
-    "saldo_A": 13056.0,
+    "maior_lote": 12672.0,
+    "saldo_A": 12672.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "3536",
     "produto": "- PISO AURORA BP HD 45",
     "dimensions": null,
-    "maior_lote": 1152.0,
-    "saldo_A": 1152.0,
+    "maior_lote": 1024.0,
+    "saldo_A": 1024.0,
     "saldo_B": 0.0
   },
   {
@@ -1979,8 +1931,8 @@
     "codigo": "3537",
     "produto": "- PISO AURORA VD HD 45",
     "dimensions": null,
-    "maior_lote": 7424.0,
-    "saldo_A": 7424.0,
+    "maior_lote": 7296.0,
+    "saldo_A": 7296.0,
     "saldo_B": 0.0
   },
   {
@@ -2004,7 +1956,7 @@
     "produto": "- PISO BARCELONA 45",
     "dimensions": null,
     "maior_lote": 640.0,
-    "saldo_A": 1024.0,
+    "saldo_A": 640.0,
     "saldo_B": 0.0
   },
   {
@@ -2012,15 +1964,15 @@
     "produto": "- PISO BARILOCHE 45",
     "dimensions": null,
     "maior_lote": 7296.0,
-    "saldo_A": 12672.0,
+    "saldo_A": 12416.0,
     "saldo_B": 512.0
   },
   {
     "codigo": "1212",
     "produto": "- PISO BASALTO 45",
     "dimensions": null,
-    "maior_lote": 5760.0,
-    "saldo_A": 5760.0,
+    "maior_lote": 5248.0,
+    "saldo_A": 5248.0,
     "saldo_B": 0.0
   },
   {
@@ -2028,15 +1980,15 @@
     "produto": "- PISO BAUXITA 45",
     "dimensions": null,
     "maior_lote": 4480.0,
-    "saldo_A": 8704.0,
+    "saldo_A": 8576.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "1714",
     "produto": "- PISO BEGE 45",
     "dimensions": null,
-    "maior_lote": 4608.0,
-    "saldo_A": 4608.0,
+    "maior_lote": 4480.0,
+    "saldo_A": 4480.0,
     "saldo_B": 0.0
   },
   {
@@ -2051,9 +2003,9 @@
     "codigo": "5505",
     "produto": "- PISO BIANCO 45",
     "dimensions": null,
-    "maior_lote": 1024.0,
-    "saldo_A": 1024.0,
-    "saldo_B": 0.0
+    "maior_lote": 15232.0,
+    "saldo_A": 21248.0,
+    "saldo_B": 212.0
   },
   {
     "codigo": "5752",
@@ -2067,9 +2019,9 @@
     "codigo": "1713",
     "produto": "- PISO BRANCO 45",
     "dimensions": null,
-    "maior_lote": 7296.0,
-    "saldo_A": 7298.0,
-    "saldo_B": 256.0
+    "maior_lote": 5760.0,
+    "saldo_A": 5762.0,
+    "saldo_B": 408.0
   },
   {
     "codigo": "2079",
@@ -2091,16 +2043,16 @@
     "codigo": "3220",
     "produto": "- PISO CALU 45",
     "dimensions": null,
-    "maior_lote": 17536.0,
-    "saldo_A": 17536.0,
+    "maior_lote": 17152.0,
+    "saldo_A": 17152.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "1219",
     "produto": "- PISO CARVALHO 45",
     "dimensions": null,
-    "maior_lote": 12160.0,
-    "saldo_A": 12160.0,
+    "maior_lote": 11776.0,
+    "saldo_A": 11776.0,
     "saldo_B": 0.0
   },
   {
@@ -2155,8 +2107,8 @@
     "codigo": "1223",
     "produto": "- PISO CREMA 45",
     "dimensions": null,
-    "maior_lote": 3200.0,
-    "saldo_A": 3200.0,
+    "maior_lote": 3072.0,
+    "saldo_A": 3072.0,
     "saldo_B": 0.0
   },
   {
@@ -2179,8 +2131,8 @@
     "codigo": "3430",
     "produto": "- PISO CROSS BR 45",
     "dimensions": null,
-    "maior_lote": 10240.0,
-    "saldo_A": 11264.0,
+    "maior_lote": 9984.0,
+    "saldo_A": 10752.0,
     "saldo_B": 128.0
   },
   {
@@ -2211,8 +2163,8 @@
     "codigo": "1226",
     "produto": "- PISO DECK 45",
     "dimensions": null,
-    "maior_lote": 1024.0,
-    "saldo_A": 1024.0,
+    "maior_lote": 768.0,
+    "saldo_A": 768.0,
     "saldo_B": 0.0
   },
   {
@@ -2251,8 +2203,8 @@
     "codigo": "3362",
     "produto": "- PISO DUOMO MR 45",
     "dimensions": null,
-    "maior_lote": 12928.0,
-    "saldo_A": 15616.0,
+    "maior_lote": 12800.0,
+    "saldo_A": 15488.0,
     "saldo_B": 128.0
   },
   {
@@ -2299,8 +2251,8 @@
     "codigo": "5677",
     "produto": "- PISO EVORA CL 45",
     "dimensions": null,
-    "maior_lote": 256.0,
-    "saldo_A": 256.0,
+    "maior_lote": 128.0,
+    "saldo_A": 128.0,
     "saldo_B": 0.0
   },
   {
@@ -2308,16 +2260,16 @@
     "produto": "- PISO EVORA M 45",
     "dimensions": null,
     "maior_lote": 4352.0,
-    "saldo_A": 5504.0,
+    "saldo_A": 5376.0,
     "saldo_B": 128.0
   },
   {
     "codigo": "2063",
     "produto": "- PISO FLORENCIA AZUL HD 45",
     "dimensions": null,
-    "maior_lote": 13696.0,
-    "saldo_A": 15488.0,
-    "saldo_B": 60.0
+    "maior_lote": 12416.0,
+    "saldo_A": 13568.0,
+    "saldo_B": 116.0
   },
   {
     "codigo": "1467",
@@ -2339,8 +2291,8 @@
     "codigo": "1402",
     "produto": "- PISO GARDEN 45",
     "dimensions": null,
-    "maior_lote": 3584.0,
-    "saldo_A": 3584.0,
+    "maior_lote": 3456.0,
+    "saldo_A": 3456.0,
     "saldo_B": 128.0
   },
   {
@@ -2355,8 +2307,8 @@
     "codigo": "8710",
     "produto": "- PISO GLACIAL BR 45",
     "dimensions": null,
-    "maior_lote": 14080.0,
-    "saldo_A": 14080.0,
+    "maior_lote": 13952.0,
+    "saldo_A": 13952.0,
     "saldo_B": 384.0
   },
   {
@@ -2379,8 +2331,8 @@
     "codigo": "1237",
     "produto": "- PISO GRIS 45",
     "dimensions": null,
-    "maior_lote": 1664.0,
-    "saldo_A": 1664.0,
+    "maior_lote": 1536.0,
+    "saldo_A": 1536.0,
     "saldo_B": 0.0
   },
   {
@@ -2395,8 +2347,8 @@
     "codigo": "1355",
     "produto": "- PISO IMBUIA CL 45",
     "dimensions": null,
-    "maior_lote": 22656.0,
-    "saldo_A": 22656.0,
+    "maior_lote": 22272.0,
+    "saldo_A": 22272.0,
     "saldo_B": 0.0
   },
   {
@@ -2445,7 +2397,7 @@
     "dimensions": null,
     "maior_lote": 12800.0,
     "saldo_A": 16768.0,
-    "saldo_B": 28.0
+    "saldo_B": 140.0
   },
   {
     "codigo": "5518",
@@ -2459,8 +2411,8 @@
     "codigo": "5519",
     "produto": "- PISO JAVA BEGE 45",
     "dimensions": null,
-    "maior_lote": 2176.0,
-    "saldo_A": 2176.0,
+    "maior_lote": 1920.0,
+    "saldo_A": 1920.0,
     "saldo_B": 0.0
   },
   {
@@ -2475,40 +2427,40 @@
     "codigo": "5521",
     "produto": "- PISO JAVA VERDE 45",
     "dimensions": null,
-    "maior_lote": 9088.0,
-    "saldo_A": 9216.0,
+    "maior_lote": 8960.0,
+    "saldo_A": 9088.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "1725",
     "produto": "- PISO KINGSTON HD 45",
     "dimensions": null,
-    "maior_lote": 2560.0,
-    "saldo_A": 2560.0,
+    "maior_lote": 2432.0,
+    "saldo_A": 2432.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "3201",
     "produto": "- PISO LAJEADO 45",
     "dimensions": null,
-    "maior_lote": 1664.0,
-    "saldo_A": 1664.0,
+    "maior_lote": 1536.0,
+    "saldo_A": 1536.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "5891",
     "produto": "- PISO LAPA HD 45",
     "dimensions": null,
-    "maior_lote": 5248.0,
-    "saldo_A": 5248.0,
+    "maior_lote": 4864.0,
+    "saldo_A": 4864.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "1367",
     "produto": "- PISO LEBLON 45",
     "dimensions": null,
-    "maior_lote": 4224.0,
-    "saldo_A": 4224.0,
+    "maior_lote": 4096.0,
+    "saldo_A": 4096.0,
     "saldo_B": 0.0
   },
   {
@@ -2556,7 +2508,7 @@
     "produto": "- PISO MACO HD 45",
     "dimensions": null,
     "maior_lote": 18688.0,
-    "saldo_A": 25728.0,
+    "saldo_A": 25472.0,
     "saldo_B": 256.0
   },
   {
@@ -2564,7 +2516,7 @@
     "produto": "- PISO MAGNETITE 45",
     "dimensions": null,
     "maior_lote": 3328.0,
-    "saldo_A": 4352.0,
+    "saldo_A": 4224.0,
     "saldo_B": 128.0
   },
   {
@@ -2588,7 +2540,7 @@
     "produto": "- PISO MELODIA BEGE 45",
     "dimensions": null,
     "maior_lote": 7552.0,
-    "saldo_A": 10112.0,
+    "saldo_A": 9856.0,
     "saldo_B": 128.0
   },
   {
@@ -2612,7 +2564,7 @@
     "produto": "- PISO MIMAS BR HD 45",
     "dimensions": null,
     "maior_lote": 3840.0,
-    "saldo_A": 6912.0,
+    "saldo_A": 6784.0,
     "saldo_B": 0.0
   },
   {
@@ -2635,16 +2587,16 @@
     "codigo": "8730",
     "produto": "- PISO MINERALE HD 45",
     "dimensions": null,
-    "maior_lote": 3840.0,
-    "saldo_A": 3840.0,
+    "maior_lote": 3712.0,
+    "saldo_A": 3712.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "8858",
     "produto": "- PISO MINERALE MR HD 45",
     "dimensions": null,
-    "maior_lote": 14336.0,
-    "saldo_A": 18176.0,
+    "maior_lote": 12288.0,
+    "saldo_A": 16128.0,
     "saldo_B": 256.0
   },
   {
@@ -2652,15 +2604,15 @@
     "produto": "- PISO MIRACEMA 45",
     "dimensions": null,
     "maior_lote": 20096.0,
-    "saldo_A": 24448.0,
+    "saldo_A": 24320.0,
     "saldo_B": 256.0
   },
   {
     "codigo": "1358",
     "produto": "- PISO MOGNO 45",
     "dimensions": null,
-    "maior_lote": 10624.0,
-    "saldo_A": 10624.0,
+    "maior_lote": 10496.0,
+    "saldo_A": 10496.0,
     "saldo_B": 0.0
   },
   {
@@ -2716,7 +2668,7 @@
     "produto": "- PISO MONTANHES 45",
     "dimensions": null,
     "maior_lote": 20096.0,
-    "saldo_A": 31488.0,
+    "saldo_A": 27520.0,
     "saldo_B": 0.0
   },
   {
@@ -2732,7 +2684,7 @@
     "produto": "- PISO NEVE 45",
     "dimensions": null,
     "maior_lote": 14848.0,
-    "saldo_A": 24832.0,
+    "saldo_A": 24704.0,
     "saldo_B": 256.0
   },
   {
@@ -2747,8 +2699,8 @@
     "codigo": "3216",
     "produto": "- PISO OLIVA GREEN 45",
     "dimensions": null,
-    "maior_lote": 10880.0,
-    "saldo_A": 10880.0,
+    "maior_lote": 10624.0,
+    "saldo_A": 10624.0,
     "saldo_B": 128.0
   },
   {
@@ -2756,7 +2708,7 @@
     "produto": "- PISO OLIVA RED 45",
     "dimensions": null,
     "maior_lote": 1280.0,
-    "saldo_A": 3456.0,
+    "saldo_A": 3328.0,
     "saldo_B": 256.0
   },
   {
@@ -2779,8 +2731,8 @@
     "codigo": "1360",
     "produto": "- PISO OREGON 45",
     "dimensions": null,
-    "maior_lote": 9344.0,
-    "saldo_A": 9344.0,
+    "maior_lote": 9088.0,
+    "saldo_A": 9088.0,
     "saldo_B": 512.0
   },
   {
@@ -2867,8 +2819,8 @@
     "codigo": "3250",
     "produto": "- PISO RATTAN 45",
     "dimensions": null,
-    "maior_lote": 10880.0,
-    "saldo_A": 10880.0,
+    "maior_lote": 10752.0,
+    "saldo_A": 10752.0,
     "saldo_B": 0.0
   },
   {
@@ -2952,19 +2904,11 @@
     "saldo_B": 0.0
   },
   {
-    "codigo": "8855",
-    "produto": "- PISO SAN LORENZO BG HD 45",
-    "dimensions": null,
-    "maior_lote": 2304.0,
-    "saldo_A": 2304.0,
-    "saldo_B": 0.0
-  },
-  {
     "codigo": "8854",
     "produto": "- PISO SAN LORENZO CZ HD 45",
     "dimensions": null,
-    "maior_lote": 7936.0,
-    "saldo_A": 7936.0,
+    "maior_lote": 5888.0,
+    "saldo_A": 5888.0,
     "saldo_B": 0.0
   },
   {
@@ -2981,14 +2925,14 @@
     "dimensions": null,
     "maior_lote": 3968.0,
     "saldo_A": 5248.0,
-    "saldo_B": 152.0
+    "saldo_B": 128.0
   },
   {
     "codigo": "9025",
     "produto": "- PISO SAUDI MADERA HD 45",
     "dimensions": null,
-    "maior_lote": 10880.0,
-    "saldo_A": 11008.0,
+    "maior_lote": 9856.0,
+    "saldo_A": 9984.0,
     "saldo_B": 384.0
   },
   {
@@ -3019,8 +2963,8 @@
     "codigo": "5539",
     "produto": "- PISO SHANGAI BEGE 45",
     "dimensions": null,
-    "maior_lote": 10368.0,
-    "saldo_A": 10368.0,
+    "maior_lote": 10112.0,
+    "saldo_A": 10112.0,
     "saldo_B": 128.0
   },
   {
@@ -3044,7 +2988,7 @@
     "produto": "- PISO STONE 45",
     "dimensions": null,
     "maior_lote": 4608.0,
-    "saldo_A": 7168.0,
+    "saldo_A": 6656.0,
     "saldo_B": 256.0
   },
   {
@@ -3083,8 +3027,8 @@
     "codigo": "1324",
     "produto": "- PISO TITANIO 45",
     "dimensions": null,
-    "maior_lote": 16512.0,
-    "saldo_A": 16512.0,
+    "maior_lote": 16384.0,
+    "saldo_A": 16384.0,
     "saldo_B": 0.0
   },
   {
@@ -3092,7 +3036,7 @@
     "produto": "- PISO TRAFEGO 45",
     "dimensions": null,
     "maior_lote": 13312.0,
-    "saldo_A": 23168.0,
+    "saldo_A": 21248.0,
     "saldo_B": 256.0
   },
   {
@@ -3123,8 +3067,8 @@
     "codigo": "1321",
     "produto": "- PISO TROIA 45",
     "dimensions": null,
-    "maior_lote": 9600.0,
-    "saldo_A": 9600.0,
+    "maior_lote": 8704.0,
+    "saldo_A": 8704.0,
     "saldo_B": 0.0
   },
   {
@@ -3139,16 +3083,16 @@
     "codigo": "5559",
     "produto": "- PISO TURIM WHITE 45",
     "dimensions": null,
-    "maior_lote": 2048.0,
-    "saldo_A": 2432.0,
+    "maior_lote": 256.0,
+    "saldo_A": 256.0,
     "saldo_B": 128.0
   },
   {
     "codigo": "5895",
     "produto": "- PISO UNIQUE BG HD 45",
     "dimensions": null,
-    "maior_lote": 10752.0,
-    "saldo_A": 10752.0,
+    "maior_lote": 10624.0,
+    "saldo_A": 10624.0,
     "saldo_B": 256.0
   },
   {
@@ -3156,7 +3100,7 @@
     "produto": "- PISO UNIQUE HD 45",
     "dimensions": null,
     "maior_lote": 11776.0,
-    "saldo_A": 17024.0,
+    "saldo_A": 16640.0,
     "saldo_B": 0.0
   },
   {
@@ -3211,8 +3155,8 @@
     "codigo": "3449",
     "produto": "- PISO VILAGIO HD 45",
     "dimensions": null,
-    "maior_lote": 640.0,
-    "saldo_A": 640.0,
+    "maior_lote": 512.0,
+    "saldo_A": 512.0,
     "saldo_B": 0.0
   },
   {
@@ -3236,15 +3180,15 @@
     "produto": "- PISO YPE 45",
     "dimensions": null,
     "maior_lote": 896.0,
-    "saldo_A": 2432.0,
+    "saldo_A": 2176.0,
     "saldo_B": 128.0
   },
   {
     "codigo": "1254",
     "produto": "- PISO YPE MARROM 45",
     "dimensions": null,
-    "maior_lote": 4096.0,
-    "saldo_A": 5632.0,
+    "maior_lote": 2944.0,
+    "saldo_A": 4352.0,
     "saldo_B": 384.0
   },
   {
@@ -3267,9 +3211,9 @@
     "codigo": "1686",
     "produto": "- PISO ADERENTE CZ HD 50",
     "dimensions": null,
-    "maior_lote": 21480.0,
-    "saldo_A": 27960.0,
-    "saldo_B": 65.0
+    "maior_lote": 23520.0,
+    "saldo_A": 30600.0,
+    "saldo_B": 92.5
   },
   {
     "codigo": "8789",
@@ -3283,8 +3227,8 @@
     "codigo": "8788",
     "produto": "- PISO AGATA HD 50",
     "dimensions": null,
-    "maior_lote": 44280.0,
-    "saldo_A": 44280.0,
+    "maior_lote": 43920.0,
+    "saldo_A": 43920.0,
     "saldo_B": 0.0
   },
   {
@@ -3292,7 +3236,7 @@
     "produto": "- PISO ALLEGRO HD 50",
     "dimensions": null,
     "maior_lote": 5040.0,
-    "saldo_A": 6960.0,
+    "saldo_A": 7200.0,
     "saldo_B": 0.0
   },
   {
@@ -3308,23 +3252,23 @@
     "produto": "- PISO AMAZONAS BG HD 50",
     "dimensions": null,
     "maior_lote": 9840.0,
-    "saldo_A": 17520.0,
+    "saldo_A": 16800.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "3499",
     "produto": "- PISO AMAZONAS MR HD 50",
     "dimensions": null,
-    "maior_lote": 9360.0,
-    "saldo_A": 16080.0,
+    "maior_lote": 9240.0,
+    "saldo_A": 14880.0,
     "saldo_B": 120.0
   },
   {
     "codigo": "1434",
     "produto": "- PISO ANDARAI BEGE 50",
     "dimensions": null,
-    "maior_lote": 16200.0,
-    "saldo_A": 16200.0,
+    "maior_lote": 15960.0,
+    "saldo_A": 15960.0,
     "saldo_B": 0.0
   },
   {
@@ -3332,7 +3276,7 @@
     "produto": "- PISO ANDARAI CINZA 50",
     "dimensions": null,
     "maior_lote": 9840.0,
-    "saldo_A": 14880.0,
+    "saldo_A": 14760.0,
     "saldo_B": 120.0
   },
   {
@@ -3368,14 +3312,6 @@
     "saldo_B": 0.0
   },
   {
-    "codigo": "5700",
-    "produto": "- PISO AREIA 50",
-    "dimensions": null,
-    "maior_lote": 120.0,
-    "saldo_A": 120.0,
-    "saldo_B": 0.0
-  },
-  {
     "codigo": "5819",
     "produto": "- PISO ARTICO HD 50",
     "dimensions": null,
@@ -3387,9 +3323,9 @@
     "codigo": "1493",
     "produto": "- PISO BEGE 50",
     "dimensions": null,
-    "maior_lote": 11160.0,
-    "saldo_A": 19800.0,
-    "saldo_B": 0.0
+    "maior_lote": 17640.0,
+    "saldo_A": 42600.0,
+    "saldo_B": 380.0
   },
   {
     "codigo": "5693",
@@ -3412,15 +3348,15 @@
     "produto": "- PISO BILBAO CZ HD 50",
     "dimensions": null,
     "maior_lote": 14760.0,
-    "saldo_A": 16680.0,
+    "saldo_A": 16320.0,
     "saldo_B": 120.0
   },
   {
     "codigo": "1527",
     "produto": "- PISO BRANCO 50",
     "dimensions": null,
-    "maior_lote": 17400.0,
-    "saldo_A": 17400.0,
+    "maior_lote": 16680.0,
+    "saldo_A": 16680.0,
     "saldo_B": 3960.0
   },
   {
@@ -3436,7 +3372,7 @@
     "produto": "- PISO CALÇADA HD 50",
     "dimensions": null,
     "maior_lote": 16680.0,
-    "saldo_A": 19440.0,
+    "saldo_A": 19080.0,
     "saldo_B": 0.0
   },
   {
@@ -3460,7 +3396,7 @@
     "produto": "- PISO CASTANO HD 50",
     "dimensions": null,
     "maior_lote": 14880.0,
-    "saldo_A": 17640.0,
+    "saldo_A": 17520.0,
     "saldo_B": 0.0
   },
   {
@@ -3499,8 +3435,8 @@
     "codigo": "1620",
     "produto": "- PISO COLINAS HD 50",
     "dimensions": null,
-    "maior_lote": 8040.0,
-    "saldo_A": 8040.0,
+    "maior_lote": 6720.0,
+    "saldo_A": 6720.0,
     "saldo_B": 0.0
   },
   {
@@ -3508,16 +3444,8 @@
     "produto": "- PISO COLISEU HD 50",
     "dimensions": null,
     "maior_lote": 40200.0,
-    "saldo_A": 43320.0,
+    "saldo_A": 42480.0,
     "saldo_B": 120.0
-  },
-  {
-    "codigo": "5740",
-    "produto": "- PISO COLONIAL HD 50",
-    "dimensions": null,
-    "maior_lote": 120.0,
-    "saldo_A": 120.0,
-    "saldo_B": 0.0
   },
   {
     "codigo": "1659",
@@ -3620,7 +3548,7 @@
     "produto": "- PISO ELEGANZA BG HD 50",
     "dimensions": null,
     "maior_lote": 9240.0,
-    "saldo_A": 9600.0,
+    "saldo_A": 9480.0,
     "saldo_B": 120.0
   },
   {
@@ -3644,7 +3572,7 @@
     "produto": "- PISO ENDURO BEGE 50",
     "dimensions": null,
     "maior_lote": 15480.0,
-    "saldo_A": 25440.0,
+    "saldo_A": 25200.0,
     "saldo_B": 120.0
   },
   {
@@ -3652,7 +3580,7 @@
     "produto": "- PISO ENDURO CINZA 50",
     "dimensions": null,
     "maior_lote": 14040.0,
-    "saldo_A": 43080.0,
+    "saldo_A": 42840.0,
     "saldo_B": 0.0
   },
   {
@@ -3660,7 +3588,7 @@
     "produto": "- PISO ENDURO CREMA 50",
     "dimensions": null,
     "maior_lote": 16920.0,
-    "saldo_A": 27720.0,
+    "saldo_A": 27360.0,
     "saldo_B": 120.0
   },
   {
@@ -3691,8 +3619,8 @@
     "codigo": "3290",
     "produto": "- PISO GALAXY HD 50",
     "dimensions": null,
-    "maior_lote": 7680.0,
-    "saldo_A": 7800.0,
+    "maior_lote": 7440.0,
+    "saldo_A": 7560.0,
     "saldo_B": 0.0
   },
   {
@@ -3700,7 +3628,7 @@
     "produto": "- PISO GANTE BG 50",
     "dimensions": null,
     "maior_lote": 12720.0,
-    "saldo_A": 14640.0,
+    "saldo_A": 14400.0,
     "saldo_B": 0.0
   },
   {
@@ -3709,7 +3637,7 @@
     "dimensions": null,
     "maior_lote": 9840.0,
     "saldo_A": 13920.0,
-    "saldo_B": 120.0
+    "saldo_B": 240.0
   },
   {
     "codigo": "3377",
@@ -3732,7 +3660,7 @@
     "produto": "- PISO GIARDINO CL HD 50",
     "dimensions": null,
     "maior_lote": 25200.0,
-    "saldo_A": 33120.0,
+    "saldo_A": 32400.0,
     "saldo_B": 120.0
   },
   {
@@ -3763,8 +3691,8 @@
     "codigo": "8973",
     "produto": "- PISO IMPERADOR HD 50",
     "dimensions": null,
-    "maior_lote": 4320.0,
-    "saldo_A": 4320.0,
+    "maior_lote": 4200.0,
+    "saldo_A": 4200.0,
     "saldo_B": 0.0
   },
   {
@@ -3772,7 +3700,7 @@
     "produto": "- PISO LAKA BR HD 50",
     "dimensions": null,
     "maior_lote": 21720.0,
-    "saldo_A": 32880.0,
+    "saldo_A": 32520.0,
     "saldo_B": 360.0
   },
   {
@@ -3805,22 +3733,22 @@
     "dimensions": null,
     "maior_lote": 5040.0,
     "saldo_A": 15960.0,
-    "saldo_B": 240.0
+    "saldo_B": 250.0
   },
   {
     "codigo": "1825",
     "produto": "- PISO MADEIRADO HD 50",
     "dimensions": null,
-    "maior_lote": 22320.0,
-    "saldo_A": 22320.0,
+    "maior_lote": 20160.0,
+    "saldo_A": 20160.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "1822",
     "produto": "- PISO MADEIRO HD 50",
     "dimensions": null,
-    "maior_lote": 16080.0,
-    "saldo_A": 16080.0,
+    "maior_lote": 15720.0,
+    "saldo_A": 15720.0,
     "saldo_B": 0.0
   },
   {
@@ -3843,8 +3771,8 @@
     "codigo": "3578",
     "produto": "- PISO MEDINA HD 50",
     "dimensions": null,
-    "maior_lote": 2640.0,
-    "saldo_A": 2640.0,
+    "maior_lote": 2520.0,
+    "saldo_A": 2520.0,
     "saldo_B": 0.0
   },
   {
@@ -3891,8 +3819,8 @@
     "codigo": "3376",
     "produto": "- PISO MONT BLANC 50",
     "dimensions": null,
-    "maior_lote": 4080.0,
-    "saldo_A": 4080.0,
+    "maior_lote": 3840.0,
+    "saldo_A": 3840.0,
     "saldo_B": 120.0
   },
   {
@@ -3924,8 +3852,8 @@
     "produto": "- PISO MURANO HD 50",
     "dimensions": null,
     "maior_lote": 18120.0,
-    "saldo_A": 21120.0,
-    "saldo_B": 137.5
+    "saldo_A": 20640.0,
+    "saldo_B": 120.0
   },
   {
     "codigo": "1739",
@@ -3939,8 +3867,8 @@
     "codigo": "1591",
     "produto": "- PISO NATURALE BG HD 50",
     "dimensions": null,
-    "maior_lote": 12960.0,
-    "saldo_A": 12960.0,
+    "maior_lote": 12240.0,
+    "saldo_A": 12240.0,
     "saldo_B": 0.0
   },
   {
@@ -3949,14 +3877,14 @@
     "dimensions": null,
     "maior_lote": 4920.0,
     "saldo_A": 7560.0,
-    "saldo_B": 120.0
+    "saldo_B": 240.0
   },
   {
     "codigo": "1621",
     "produto": "- PISO NATURALE MR HD 50",
     "dimensions": null,
-    "maior_lote": 11280.0,
-    "saldo_A": 11280.0,
+    "maior_lote": 10680.0,
+    "saldo_A": 10680.0,
     "saldo_B": 0.0
   },
   {
@@ -3979,8 +3907,8 @@
     "codigo": "5860",
     "produto": "- PISO OSCAR BG HD 50",
     "dimensions": null,
-    "maior_lote": 6000.0,
-    "saldo_A": 6000.0,
+    "maior_lote": 5760.0,
+    "saldo_A": 5760.0,
     "saldo_B": 0.0
   },
   {
@@ -4043,8 +3971,8 @@
     "codigo": "1529",
     "produto": "- PISO PORCELLANAT BG 50",
     "dimensions": null,
-    "maior_lote": 5640.0,
-    "saldo_A": 5640.0,
+    "maior_lote": 5400.0,
+    "saldo_A": 5400.0,
     "saldo_B": 0.0
   },
   {
@@ -4052,7 +3980,7 @@
     "produto": "- PISO PORCELLANAT CL 50",
     "dimensions": null,
     "maior_lote": 2880.0,
-    "saldo_A": 8760.0,
+    "saldo_A": 8640.0,
     "saldo_B": 0.0
   },
   {
@@ -4060,7 +3988,7 @@
     "produto": "- PISO PORCELLANAT CZ 50",
     "dimensions": null,
     "maior_lote": 14040.0,
-    "saldo_A": 17880.0,
+    "saldo_A": 17760.0,
     "saldo_B": 240.0
   },
   {
@@ -4068,15 +3996,15 @@
     "produto": "- PISO PORCELLANAT MR 50",
     "dimensions": null,
     "maior_lote": 8760.0,
-    "saldo_A": 11280.0,
+    "saldo_A": 10680.0,
     "saldo_B": 120.0
   },
   {
     "codigo": "1907",
     "produto": "- PISO RAVEL CL HD 50",
     "dimensions": null,
-    "maior_lote": 960.0,
-    "saldo_A": 1080.0,
+    "maior_lote": 840.0,
+    "saldo_A": 840.0,
     "saldo_B": 0.0
   },
   {
@@ -4091,8 +4019,8 @@
     "codigo": "3282",
     "produto": "- PISO ROYALE BR 50",
     "dimensions": null,
-    "maior_lote": 11040.0,
-    "saldo_A": 11040.0,
+    "maior_lote": 10680.0,
+    "saldo_A": 10680.0,
     "saldo_B": 120.0
   },
   {
@@ -4107,8 +4035,8 @@
     "codigo": "8955",
     "produto": "- PISO SAHARA HD 50",
     "dimensions": null,
-    "maior_lote": 9240.0,
-    "saldo_A": 9240.0,
+    "maior_lote": 8040.0,
+    "saldo_A": 8040.0,
     "saldo_B": 0.0
   },
   {
@@ -4116,7 +4044,7 @@
     "produto": "- PISO SELVA HD 50",
     "dimensions": null,
     "maior_lote": 15840.0,
-    "saldo_A": 25320.0,
+    "saldo_A": 25200.0,
     "saldo_B": 360.0
   },
   {
@@ -4124,15 +4052,15 @@
     "produto": "- PISO SEQUOIA 50",
     "dimensions": null,
     "maior_lote": 25920.0,
-    "saldo_A": 27000.0,
+    "saldo_A": 26760.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "8531",
     "produto": "- PISO SILICIO BG HD 50",
     "dimensions": null,
-    "maior_lote": 7440.0,
-    "saldo_A": 7440.0,
+    "maior_lote": 6840.0,
+    "saldo_A": 6840.0,
     "saldo_B": 0.0
   },
   {
@@ -4148,8 +4076,8 @@
     "produto": "- PISO SOLID HD 50",
     "dimensions": null,
     "maior_lote": 14160.0,
-    "saldo_A": 16560.0,
-    "saldo_B": 0.0
+    "saldo_A": 16080.0,
+    "saldo_B": 120.0
   },
   {
     "codigo": "5940",
@@ -4163,8 +4091,8 @@
     "codigo": "5941",
     "produto": "- PISO SPARTA CZ HD 50",
     "dimensions": null,
-    "maior_lote": 3240.0,
-    "saldo_A": 3480.0,
+    "maior_lote": 3840.0,
+    "saldo_A": 4080.0,
     "saldo_B": 840.0
   },
   {
@@ -4219,16 +4147,16 @@
     "codigo": "5739",
     "produto": "- PISO TRAFEGO 50",
     "dimensions": null,
-    "maior_lote": 2400.0,
-    "saldo_A": 2400.0,
+    "maior_lote": 1920.0,
+    "saldo_A": 1920.0,
     "saldo_B": 245.0
   },
   {
     "codigo": "8553",
     "produto": "- PISO VALENCIA BG HD 50",
     "dimensions": null,
-    "maior_lote": 14760.0,
-    "saldo_A": 14760.0,
+    "maior_lote": 14400.0,
+    "saldo_A": 14400.0,
     "saldo_B": 0.0
   },
   {
@@ -4243,24 +4171,24 @@
     "codigo": "8551",
     "produto": "- PISO VERONA CZ HD 50",
     "dimensions": null,
-    "maior_lote": 23880.0,
-    "saldo_A": 23880.0,
+    "maior_lote": 23640.0,
+    "saldo_A": 23640.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "5802",
     "produto": "- PISO WOOD HD 50",
     "dimensions": null,
-    "maior_lote": 2040.0,
-    "saldo_A": 2040.0,
+    "maior_lote": 1560.0,
+    "saldo_A": 1560.0,
     "saldo_B": 0.0
   },
   {
     "codigo": "50167",
     "produto": "- PISO AGATA BEIGE RT POLIDO 60X120",
     "dimensions": "60x120",
-    "maior_lote": 1620.0,
-    "saldo_A": 1620.0,
+    "maior_lote": 1360.8,
+    "saldo_A": 1360.8,
     "saldo_B": 0.0
   },
   {
@@ -4275,9 +4203,9 @@
     "codigo": "50028",
     "produto": "- PISO AVELA MATE RT 60X120",
     "dimensions": "60x120",
-    "maior_lote": 5508.0,
-    "saldo_A": 5508.0,
-    "saldo_B": 194.4
+    "maior_lote": 6480.0,
+    "saldo_A": 6480.0,
+    "saldo_B": 345.6
   },
   {
     "codigo": "50066",
@@ -4299,9 +4227,9 @@
     "codigo": "50156",
     "produto": "- PISO BRANCO RT POLIDO 60X120",
     "dimensions": "60x120",
-    "maior_lote": 10497.6,
-    "saldo_A": 10692.0,
-    "saldo_B": 8.64
+    "maior_lote": 8488.8,
+    "saldo_A": 8683.2,
+    "saldo_B": 0.0
   },
   {
     "codigo": "50159",
@@ -4323,9 +4251,9 @@
     "codigo": "50091",
     "produto": "- PISO CORTEN RUST RT 60X120",
     "dimensions": "60x120",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 194.4
+    "maior_lote": 6933.6,
+    "saldo_A": 6933.6,
+    "saldo_B": 129.6
   },
   {
     "codigo": "50412",
@@ -4339,17 +4267,17 @@
     "codigo": "60441",
     "produto": "- PISO GRAN BALTIC BLUE RT POLIDO 60X120",
     "dimensions": "60x120",
-    "maior_lote": 64.8,
-    "saldo_A": 64.8,
-    "saldo_B": 0.0
+    "maior_lote": 259.2,
+    "saldo_A": 259.2,
+    "saldo_B": 64.8
   },
   {
     "codigo": "50175",
     "produto": "- PISO GRAN CALACATA BLUE MATE RT 60X120",
     "dimensions": "60x120",
-    "maior_lote": 453.6,
-    "saldo_A": 453.6,
-    "saldo_B": 453.6
+    "maior_lote": 194.4,
+    "saldo_A": 194.4,
+    "saldo_B": 324.0
   },
   {
     "codigo": "60481",
@@ -4360,11 +4288,19 @@
     "saldo_B": 0.0
   },
   {
+    "codigo": "60479",
+    "produto": "- PISO GRAN CRISTAL ROSE RT POLIDO 60X120",
+    "dimensions": "60x120",
+    "maior_lote": 972.0,
+    "saldo_A": 972.0,
+    "saldo_B": 0.0
+  },
+  {
     "codigo": "60448",
     "produto": "- PISO GRAN FIORE RT POLIDO 60X120",
     "dimensions": "60x120",
-    "maior_lote": 648.0,
-    "saldo_A": 648.0,
+    "maior_lote": 712.8,
+    "saldo_A": 712.8,
     "saldo_B": 0.0
   },
   {
@@ -4376,20 +4312,12 @@
     "saldo_B": 0.0
   },
   {
-    "codigo": "50417",
-    "produto": "- PISO GRAN GIALLO CZ MATE RT 60X120",
-    "dimensions": "60x120",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 129.6
-  },
-  {
     "codigo": "60305",
     "produto": "- PISO GRAN LIEGE BLACK RT POLIDO 60X120",
     "dimensions": "60x120",
-    "maior_lote": 8683.2,
-    "saldo_A": 8683.2,
-    "saldo_B": 151.2
+    "maior_lote": 6285.6,
+    "saldo_A": 6285.6,
+    "saldo_B": 0.0
   },
   {
     "codigo": "50173",
@@ -4403,8 +4331,16 @@
     "codigo": "50154",
     "produto": "- PISO GRAN MARMI DELUX RT POLIDO 60X120",
     "dimensions": "60x120",
-    "maior_lote": 1360.8,
-    "saldo_A": 1360.8,
+    "maior_lote": 194.4,
+    "saldo_A": 194.4,
+    "saldo_B": 0.0
+  },
+  {
+    "codigo": "60456",
+    "produto": "- PISO GRAN MARMI ROSE RT POLIDO 60X120",
+    "dimensions": "60x120",
+    "maior_lote": 1296.0,
+    "saldo_A": 1296.0,
     "saldo_B": 0.0
   },
   {
@@ -4427,33 +4363,33 @@
     "codigo": "50153",
     "produto": "- PISO GRAN SIRIUS GRAY RT POLIDO 60X120",
     "dimensions": "60x120",
+    "maior_lote": 1296.0,
+    "saldo_A": 1296.0,
+    "saldo_B": 0.0
+  },
+  {
+    "codigo": "60092",
+    "produto": "- PISO GRAN STAR RT POLIDO 60X120",
+    "dimensions": "60x120",
     "maior_lote": 2332.8,
     "saldo_A": 2332.8,
-    "saldo_B": 64.8
+    "saldo_B": 108.0
   },
   {
     "codigo": "50152",
     "produto": "- PISO GRAN STATUARIO RT POLIDO 60X120",
     "dimensions": "60x120",
-    "maior_lote": 2203.2,
-    "saldo_A": 2203.2,
+    "maior_lote": 583.2,
+    "saldo_A": 583.2,
     "saldo_B": 0.0
-  },
-  {
-    "codigo": "50418",
-    "produto": "- PISO GRAN SUPERIORE SILVER MATE RT 60X120",
-    "dimensions": "60x120",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 129.6
   },
   {
     "codigo": "50283",
     "produto": "- PISO GRAN TRANCOSO MATE RT 60X120",
     "dimensions": "60x120",
-    "maior_lote": 194.4,
-    "saldo_A": 194.4,
-    "saldo_B": 30.24
+    "maior_lote": 129.6,
+    "saldo_A": 129.6,
+    "saldo_B": 64.8
   },
   {
     "codigo": "60457",
@@ -4464,11 +4400,19 @@
     "saldo_B": 0.0
   },
   {
+    "codigo": "60476",
+    "produto": "- PISO GRAN VENATO BG RT POLIDO 60X120",
+    "dimensions": "60x120",
+    "maior_lote": 2527.2,
+    "saldo_A": 2527.2,
+    "saldo_B": 151.2
+  },
+  {
     "codigo": "60477",
     "produto": "- PISO GRAN VENATO CZ RT POLIDO 60X120",
     "dimensions": "60x120",
-    "maior_lote": 518.4,
-    "saldo_A": 518.4,
+    "maior_lote": 453.6,
+    "saldo_A": 453.6,
     "saldo_B": 0.0
   },
   {
@@ -4485,7 +4429,7 @@
     "dimensions": "60x120",
     "maior_lote": 0.0,
     "saldo_A": 0.0,
-    "saldo_B": 6975.96
+    "saldo_B": 6617.4
   },
   {
     "codigo": "2049",
@@ -4540,8 +4484,8 @@
     "produto": "- PISO BRANCO RETIFICADO 60X60",
     "dimensions": "60x60",
     "maior_lote": 77.4,
-    "saldo_A": 232.2,
-    "saldo_B": 5805.0
+    "saldo_A": 77.4,
+    "saldo_B": 5959.8
   },
   {
     "codigo": "60380",
@@ -4555,17 +4499,17 @@
     "codigo": "2094",
     "produto": "- PISO CORONHA MR RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 16254.0,
-    "saldo_A": 16254.0,
-    "saldo_B": 503.1
+    "maior_lote": 15170.4,
+    "saldo_A": 15170.4,
+    "saldo_B": 541.8
   },
   {
     "codigo": "2096",
     "produto": "- PISO DARWIN CZ EXT RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 15867.0,
-    "saldo_A": 15867.0,
-    "saldo_B": 754.65
+    "maior_lote": 15557.4,
+    "saldo_A": 15557.4,
+    "saldo_B": 774.0
   },
   {
     "codigo": "2065",
@@ -4579,56 +4523,56 @@
     "codigo": "2075",
     "produto": "- PISO GRAFFIATO BG EXT RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 4334.4,
-    "saldo_A": 4334.4,
+    "maior_lote": 4102.2,
+    "saldo_A": 4102.2,
     "saldo_B": 464.4
   },
   {
     "codigo": "2076",
     "produto": "- PISO GRAFFIATO BG MATE RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 13003.2,
-    "saldo_A": 13080.6,
+    "maior_lote": 12461.4,
+    "saldo_A": 12538.8,
     "saldo_B": 619.2
   },
   {
     "codigo": "2067",
     "produto": "- PISO GRAFFIATO CZ EXT RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 8204.4,
-    "saldo_A": 8204.4,
+    "maior_lote": 6424.2,
+    "saldo_A": 6424.2,
     "saldo_B": 1083.6
   },
   {
     "codigo": "2068",
     "produto": "- PISO GRAFFIATO CZ MATE RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 38235.6,
-    "saldo_A": 38467.8,
+    "maior_lote": 36532.8,
+    "saldo_A": 36532.8,
     "saldo_B": 2244.6
   },
   {
     "codigo": "2078",
     "produto": "- PISO HOUSE COLOR BG RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
+    "maior_lote": 154.8,
+    "saldo_A": 154.8,
     "saldo_B": 541.8
   },
   {
     "codigo": "2077",
     "produto": "- PISO HOUSE COLOR CZ RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 2631.6,
-    "saldo_A": 3018.6,
+    "maior_lote": 2012.4,
+    "saldo_A": 2089.8,
     "saldo_B": 3096.0
   },
   {
     "codigo": "2097",
     "produto": "- PISO LAREDO RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 10294.2,
-    "saldo_A": 10294.2,
+    "maior_lote": 9752.4,
+    "saldo_A": 9752.4,
     "saldo_B": 774.0
   },
   {
@@ -4643,8 +4587,8 @@
     "codigo": "2093",
     "produto": "- PISO LENHO RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 8668.8,
-    "saldo_A": 8668.8,
+    "maior_lote": 8281.8,
+    "saldo_A": 8281.8,
     "saldo_B": 464.4
   },
   {
@@ -4661,7 +4605,7 @@
     "dimensions": "60x60",
     "maior_lote": 0.0,
     "saldo_A": 0.0,
-    "saldo_B": 376.25
+    "saldo_B": 685.85
   },
   {
     "codigo": "2098",
@@ -4677,15 +4621,15 @@
     "dimensions": "60x60",
     "maior_lote": 0.0,
     "saldo_A": 0.0,
-    "saldo_B": 2089.8
+    "saldo_B": 1625.4
   },
   {
     "codigo": "2100",
     "produto": "- PISO PALMA MR RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 77.4
+    "maior_lote": 21130.2,
+    "saldo_A": 21130.2,
+    "saldo_B": 328.95
   },
   {
     "codigo": "60382",
@@ -4699,16 +4643,16 @@
     "codigo": "2080",
     "produto": "- PISO PURE BG BRILHO RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 4411.8,
-    "saldo_A": 4411.8,
+    "maior_lote": 3096.0,
+    "saldo_A": 3096.0,
     "saldo_B": 1625.4
   },
   {
     "codigo": "2081",
     "produto": "- PISO PURE CZ BRILHO RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 2322.0,
-    "saldo_A": 2322.0,
+    "maior_lote": 1238.4,
+    "saldo_A": 1238.4,
     "saldo_B": 1780.2
   },
   {
@@ -4723,17 +4667,17 @@
     "codigo": "2083",
     "produto": "- PISO SONATTA CZ BRILHO RETIFICADO 60X60",
     "dimensions": "60x60",
-    "maior_lote": 10681.2,
-    "saldo_A": 10681.2,
+    "maior_lote": 10294.2,
+    "saldo_A": 10294.2,
     "saldo_B": 851.4
   },
   {
     "codigo": "50232",
     "produto": "- PISO A GRANEL 61X121",
     "dimensions": "61x121",
-    "maior_lote": 148161.96,
-    "saldo_A": 153423.13,
-    "saldo_B": 4278.03
+    "maior_lote": 129173.46,
+    "saldo_A": 133717.2,
+    "saldo_B": 4045.53
   },
   {
     "codigo": "1892",
@@ -4795,8 +4739,8 @@
     "codigo": "8790",
     "produto": "- PISO ASSOALHO HD 61",
     "dimensions": null,
-    "maior_lote": 12443.4,
-    "saldo_A": 12443.4,
+    "maior_lote": 12202.56,
+    "saldo_A": 12202.56,
     "saldo_B": 0.0
   },
   {
@@ -4828,15 +4772,15 @@
     "produto": "- PISO BEGE 61",
     "dimensions": null,
     "maior_lote": 14530.68,
-    "saldo_A": 30666.96,
-    "saldo_B": 943.29
+    "saldo_A": 30185.28,
+    "saldo_B": 974.51
   },
   {
     "codigo": "8998",
     "produto": "- PISO BELLA VITA HD 61",
     "dimensions": null,
     "maior_lote": 21836.16,
-    "saldo_A": 23200.92,
+    "saldo_A": 22317.84,
     "saldo_B": 0.0
   },
   {
@@ -4851,8 +4795,8 @@
     "codigo": "1651",
     "produto": "- PISO BRANCO 61",
     "dimensions": null,
-    "maior_lote": 10035.0,
-    "saldo_A": 12122.28,
+    "maior_lote": 9071.64,
+    "saldo_A": 10677.24,
     "saldo_B": 0.0
   },
   {
@@ -4875,8 +4819,8 @@
     "codigo": "5831",
     "produto": "- PISO CAMBRIDJE BG EXT HD 61",
     "dimensions": null,
-    "maior_lote": 8509.68,
-    "saldo_A": 8509.68,
+    "maior_lote": 8268.84,
+    "saldo_A": 8268.84,
     "saldo_B": 0.0
   },
   {
@@ -4891,8 +4835,8 @@
     "codigo": "5832",
     "produto": "- PISO CAMBRIDJE CZ EXT HD 61",
     "dimensions": null,
-    "maior_lote": 5218.2,
-    "saldo_A": 5459.04,
+    "maior_lote": 4094.28,
+    "saldo_A": 4254.84,
     "saldo_B": 0.0
   },
   {
@@ -4900,7 +4844,7 @@
     "produto": "- PISO CAMBRIDJE CZ HD 61",
     "dimensions": null,
     "maior_lote": 12684.24,
-    "saldo_A": 28419.12,
+    "saldo_A": 28258.56,
     "saldo_B": 0.0
   },
   {
@@ -4925,14 +4869,14 @@
     "dimensions": null,
     "maior_lote": 37972.44,
     "saldo_A": 54911.52,
-    "saldo_B": 0.0
+    "saldo_B": 160.56
   },
   {
     "codigo": "5783",
     "produto": "- PISO CARRARA HD 61",
     "dimensions": null,
     "maior_lote": 6502.68,
-    "saldo_A": 7144.92,
+    "saldo_A": 7064.64,
     "saldo_B": 20.07
   },
   {
@@ -4955,8 +4899,8 @@
     "codigo": "1894",
     "produto": "- PISO CIMENTCOLOR BG HD 61",
     "dimensions": null,
-    "maior_lote": 20471.4,
-    "saldo_A": 28820.52,
+    "maior_lote": 19668.6,
+    "saldo_A": 27134.64,
     "saldo_B": 0.0
   },
   {
@@ -4964,7 +4908,7 @@
     "produto": "- PISO CIMENTCOLOR CZ HD 61",
     "dimensions": null,
     "maior_lote": 19347.48,
-    "saldo_A": 36928.8,
+    "saldo_A": 31389.48,
     "saldo_B": 0.0
   },
   {
@@ -4996,7 +4940,7 @@
     "produto": "- PISO DESERTO HD 61",
     "dimensions": null,
     "maior_lote": 12603.96,
-    "saldo_A": 13085.64,
+    "saldo_A": 12925.08,
     "saldo_B": 0.0
   },
   {
@@ -5004,7 +4948,7 @@
     "produto": "- PISO ECOLOGIC MR HD 61",
     "dimensions": null,
     "maior_lote": 37330.2,
-    "saldo_A": 58524.12,
+    "saldo_A": 55955.16,
     "saldo_B": 0.0
   },
   {
@@ -5019,8 +4963,8 @@
     "codigo": "1886",
     "produto": "- PISO ECONATURE MR HD 61",
     "dimensions": null,
-    "maior_lote": 9633.6,
-    "saldo_A": 19748.88,
+    "maior_lote": 9392.76,
+    "saldo_A": 19026.36,
     "saldo_B": 0.0
   },
   {
@@ -5028,16 +4972,16 @@
     "produto": "- PISO ESSENZA BG HD 61",
     "dimensions": null,
     "maior_lote": 24003.72,
-    "saldo_A": 26492.4,
+    "saldo_A": 26251.56,
     "saldo_B": 0.0
   },
   {
     "codigo": "1669",
     "produto": "- PISO ESSENZA CZ HD 61",
     "dimensions": null,
-    "maior_lote": 19267.2,
-    "saldo_A": 37330.2,
-    "saldo_B": 40.14
+    "maior_lote": 19026.36,
+    "saldo_A": 36768.24,
+    "saldo_B": 80.28
   },
   {
     "codigo": "2106",
@@ -5084,15 +5028,15 @@
     "produto": "- PISO FERRETE HD 61",
     "dimensions": null,
     "maior_lote": 18464.4,
-    "saldo_A": 20230.56,
+    "saldo_A": 19829.16,
     "saldo_B": 0.0
   },
   {
     "codigo": "6019",
     "produto": "- PISO GALES HD 61",
     "dimensions": null,
-    "maior_lote": 12603.96,
-    "saldo_A": 20150.28,
+    "maior_lote": 12443.4,
+    "saldo_A": 19748.88,
     "saldo_B": 0.0
   },
   {
@@ -5156,7 +5100,7 @@
     "produto": "- PISO LAMINATA HD 61",
     "dimensions": null,
     "maior_lote": 11640.6,
-    "saldo_A": 14530.68,
+    "saldo_A": 14370.12,
     "saldo_B": 0.0
   },
   {
@@ -5196,7 +5140,7 @@
     "produto": "- PISO MALTA BG HD 61",
     "dimensions": null,
     "maior_lote": 17340.48,
-    "saldo_A": 18705.24,
+    "saldo_A": 18544.68,
     "saldo_B": 0.0
   },
   {
@@ -5220,7 +5164,7 @@
     "produto": "- PISO MAZAR CZ HD 61",
     "dimensions": null,
     "maior_lote": 12764.52,
-    "saldo_A": 13406.76,
+    "saldo_A": 13246.2,
     "saldo_B": 0.0
   },
   {
@@ -5236,7 +5180,7 @@
     "produto": "- PISO MINERAL HD 61",
     "dimensions": null,
     "maior_lote": 1926.72,
-    "saldo_A": 2328.12,
+    "saldo_A": 2167.56,
     "saldo_B": 0.0
   },
   {
@@ -5276,15 +5220,15 @@
     "produto": "- PISO NAPOLE BG HD 61",
     "dimensions": null,
     "maior_lote": 52743.96,
-    "saldo_A": 59648.04,
+    "saldo_A": 58845.24,
     "saldo_B": 0.0
   },
   {
     "codigo": "5774",
     "produto": "- PISO NAPOLE HD 61",
     "dimensions": null,
-    "maior_lote": 18624.96,
-    "saldo_A": 18785.52,
+    "maior_lote": 17661.6,
+    "saldo_A": 17822.16,
     "saldo_B": 0.0
   },
   {
@@ -5292,7 +5236,7 @@
     "produto": "- PISO NORDICO HD 61",
     "dimensions": null,
     "maior_lote": 8589.96,
-    "saldo_A": 19427.76,
+    "saldo_A": 18946.08,
     "saldo_B": 0.0
   },
   {
@@ -5307,16 +5251,16 @@
     "codigo": "1896",
     "produto": "- PISO PLENO HD 61",
     "dimensions": null,
-    "maior_lote": 13165.92,
-    "saldo_A": 13165.92,
-    "saldo_B": 0.0
+    "maior_lote": 19748.88,
+    "saldo_A": 38694.96,
+    "saldo_B": 274.29
   },
   {
     "codigo": "1644",
     "produto": "- PISO POLARIS BG HD 61",
     "dimensions": null,
-    "maior_lote": 4335.12,
-    "saldo_A": 4335.12,
+    "maior_lote": 4254.84,
+    "saldo_A": 4254.84,
     "saldo_B": 0.0
   },
   {
@@ -5324,7 +5268,7 @@
     "produto": "- PISO POLARIS CZ HD 61",
     "dimensions": null,
     "maior_lote": 13246.2,
-    "saldo_A": 17902.44,
+    "saldo_A": 17661.6,
     "saldo_B": 0.0
   },
   {
@@ -5356,15 +5300,15 @@
     "produto": "- PISO TAVOLA BG HD 61",
     "dimensions": null,
     "maior_lote": 24405.12,
-    "saldo_A": 34841.52,
+    "saldo_A": 34680.96,
     "saldo_B": 0.0
   },
   {
     "codigo": "1889",
     "produto": "- PISO TAVOLA MR HD 61",
     "dimensions": null,
-    "maior_lote": 38855.52,
-    "saldo_A": 46642.68,
+    "maior_lote": 39658.32,
+    "saldo_A": 46321.56,
     "saldo_B": 0.0
   },
   {
@@ -5388,7 +5332,7 @@
     "produto": "- PISO VILLA REAL HD 61",
     "dimensions": null,
     "maior_lote": 15654.6,
-    "saldo_A": 18384.12,
+    "saldo_A": 18063.0,
     "saldo_B": 0.0
   },
   {
@@ -5411,8 +5355,8 @@
     "codigo": "50221",
     "produto": "- AMOSTRAS FORMIGRES PREMIUM 66X66",
     "dimensions": "66x66",
-    "maior_lote": 63.22,
-    "saldo_A": 63.22,
+    "maior_lote": 58.86,
+    "saldo_A": 58.86,
     "saldo_B": 0.0
   },
   {
@@ -5488,6 +5432,14 @@
     "saldo_B": 941.76
   },
   {
+    "codigo": "60000",
+    "produto": "- PISO BRANCO RT POLIDO 66X66",
+    "dimensions": "66x66",
+    "maior_lote": 0.0,
+    "saldo_A": 0.0,
+    "saldo_B": 78.48
+  },
+  {
     "codigo": "50226",
     "produto": "- PISO CALACATA BLUE MATE RT 66X66",
     "dimensions": "66x66",
@@ -5523,24 +5475,16 @@
     "codigo": "50311",
     "produto": "- PISO CORTONA CZ MATE RT 66X66",
     "dimensions": "66x66",
-    "maior_lote": 3139.2,
-    "saldo_A": 5729.04,
+    "maior_lote": 470.88,
+    "saldo_A": 549.36,
     "saldo_B": 1098.72
-  },
-  {
-    "codigo": "50201",
-    "produto": "- PISO DETROIT MATE RT 66X66",
-    "dimensions": "66x66",
-    "maior_lote": 3217.68,
-    "saldo_A": 3610.08,
-    "saldo_B": 0.0
   },
   {
     "codigo": "50223",
     "produto": "- PISO FIORDO MATE RT 66X66",
     "dimensions": "66x66",
     "maior_lote": 4316.4,
-    "saldo_A": 5650.56,
+    "saldo_A": 5336.64,
     "saldo_B": 156.96
   },
   {
@@ -5555,8 +5499,8 @@
     "codigo": "50342",
     "produto": "- PISO FUSION CINZA RT 66X66",
     "dimensions": "66x66",
-    "maior_lote": 8397.36,
-    "saldo_A": 8397.36,
+    "maior_lote": 8161.92,
+    "saldo_A": 8161.92,
     "saldo_B": 0.0
   },
   {
@@ -5619,9 +5563,9 @@
     "codigo": "50217",
     "produto": "- PISO MILANO CZ GRANILHADO RT 66X66",
     "dimensions": "66x66",
-    "maior_lote": 3217.68,
-    "saldo_A": 3453.12,
-    "saldo_B": 784.8
+    "maior_lote": 2432.88,
+    "saldo_A": 2511.36,
+    "saldo_B": 313.92
   },
   {
     "codigo": "50203",
@@ -5653,7 +5597,7 @@
     "dimensions": null,
     "maior_lote": 0.0,
     "saldo_A": 0.0,
-    "saldo_B": 7215.8
+    "saldo_B": 7464.32
   },
   {
     "codigo": "50205",
@@ -5675,8 +5619,8 @@
     "codigo": "60046",
     "produto": "- PISO PERLADO RT POLIDO 66X66",
     "dimensions": "66x66",
-    "maior_lote": 2118.96,
-    "saldo_A": 2118.96,
+    "maior_lote": 2040.48,
+    "saldo_A": 2040.48,
     "saldo_B": 0.0
   },
   {
@@ -5724,7 +5668,7 @@
     "produto": "- PISO STONE BG MATE RT 66X66",
     "dimensions": "66x66",
     "maior_lote": 6278.4,
-    "saldo_A": 7691.04,
+    "saldo_A": 7534.08,
     "saldo_B": 0.0
   },
   {
@@ -5756,7 +5700,7 @@
     "produto": "- PISO VIGO CZ MATE RT 66X66",
     "dimensions": "66x66",
     "maior_lote": 4473.36,
-    "saldo_A": 6592.32,
+    "saldo_A": 6278.4,
     "saldo_B": 3296.16
   },
   {
@@ -5779,8 +5723,8 @@
     "codigo": "80025",
     "produto": "- AMOSTRAS FORMIGRES PRIME 81X81",
     "dimensions": "81x81",
-    "maior_lote": 104.41,
-    "saldo_A": 104.41,
+    "maior_lote": 80.77,
+    "saldo_A": 80.77,
     "saldo_B": 0.0
   },
   {
@@ -5795,33 +5739,33 @@
     "codigo": "80030",
     "produto": "- PISO ARAGUAIA ESC MATE RT 81X81",
     "dimensions": "81x81",
-    "maior_lote": 1379.0,
-    "saldo_A": 2137.45,
+    "maior_lote": 689.5,
+    "saldo_A": 1172.15,
     "saldo_B": 0.0
   },
   {
     "codigo": "80012",
     "produto": "- PISO ATENAS CZ MATE RT 81X81",
     "dimensions": "81x81",
-    "maior_lote": 3171.7,
-    "saldo_A": 3171.7,
-    "saldo_B": 275.8
+    "maior_lote": 2758.0,
+    "saldo_A": 2758.0,
+    "saldo_B": 0.0
   },
   {
     "codigo": "90032",
     "produto": "- PISO AVOLIO CZ RT POLIDO 81X81",
     "dimensions": "81x81",
-    "maior_lote": 827.4,
-    "saldo_A": 1310.05,
-    "saldo_B": 620.55
+    "maior_lote": 1241.1,
+    "saldo_A": 1999.55,
+    "saldo_B": 98.5
   },
   {
     "codigo": "90031",
     "produto": "- PISO AVOLIO RT POLIDO 81X81",
     "dimensions": "81x81",
     "maior_lote": 1723.75,
-    "saldo_A": 4757.55,
-    "saldo_B": 311.26
+    "saldo_A": 3654.35,
+    "saldo_B": 137.9
   },
   {
     "codigo": "80026",
@@ -5835,9 +5779,9 @@
     "codigo": "90019",
     "produto": "- PISO BRANCO RT POLIDO 81X81",
     "dimensions": "81x81",
-    "maior_lote": 8894.55,
-    "saldo_A": 15513.75,
-    "saldo_B": 1172.15
+    "maior_lote": 8549.8,
+    "saldo_A": 18202.8,
+    "saldo_B": 1556.3
   },
   {
     "codigo": "80028",
@@ -5851,8 +5795,8 @@
     "codigo": "90020",
     "produto": "- PISO CALACATA BIANCO RT POLIDO 81X81",
     "dimensions": "81x81",
-    "maior_lote": 3309.6,
-    "saldo_A": 3309.6,
+    "maior_lote": 896.35,
+    "saldo_A": 896.35,
     "saldo_B": 206.85
   },
   {
@@ -5864,28 +5808,20 @@
     "saldo_B": 275.8
   },
   {
-    "codigo": "80038",
-    "produto": "- PISO CANELA MR MATE RT 81X81",
-    "dimensions": "81x81",
-    "maior_lote": 68.95,
-    "saldo_A": 68.95,
-    "saldo_B": 344.75
-  },
-  {
     "codigo": "80021",
     "produto": "- PISO CLEANTEC GREY GRANILHADO RT 81X81",
     "dimensions": "81x81",
-    "maior_lote": 2137.45,
-    "saldo_A": 4757.55,
+    "maior_lote": 1585.85,
+    "saldo_A": 4137.0,
     "saldo_B": 620.55
   },
   {
     "codigo": "80001",
     "produto": "- PISO CLEANTEC GREY MATE RT 81X81",
     "dimensions": "81x81",
-    "maior_lote": 827.4,
-    "saldo_A": 1172.15,
-    "saldo_B": 620.55
+    "maior_lote": 68.95,
+    "saldo_A": 68.95,
+    "saldo_B": 719.05
   },
   {
     "codigo": "80056",
@@ -5907,9 +5843,9 @@
     "codigo": "80002",
     "produto": "- PISO CLEANTEC SILVER MATE RT 81X81",
     "dimensions": "81x81",
-    "maior_lote": 551.6,
-    "saldo_A": 827.4,
-    "saldo_B": 1241.1
+    "maior_lote": 1792.7,
+    "saldo_A": 2068.5,
+    "saldo_B": 413.7
   },
   {
     "codigo": "80023",
@@ -5923,9 +5859,9 @@
     "codigo": "80000",
     "produto": "- PISO CLEANTEC WHITE MATE RT 81X81",
     "dimensions": "81x81",
-    "maior_lote": 21788.2,
-    "saldo_A": 22270.85,
-    "saldo_B": 2758.0
+    "maior_lote": 17099.6,
+    "saldo_A": 17306.45,
+    "saldo_B": 0.0
   },
   {
     "codigo": "90018",
@@ -5939,32 +5875,32 @@
     "codigo": "90014",
     "produto": "- PISO DALLAS RT POLIDO 81X81",
     "dimensions": "81x81",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 482.65
+    "maior_lote": 68.95,
+    "saldo_A": 68.95,
+    "saldo_B": 689.5
   },
   {
-    "codigo": "80003",
-    "produto": "- PISO GOLDEN LUX MATE RT 81X81",
+    "codigo": "90015",
+    "produto": "- PISO DOMINIQUE RT POLIDO 81X81",
     "dimensions": "81x81",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 689.5
+    "maior_lote": 6343.4,
+    "saldo_A": 6343.4,
+    "saldo_B": 610.7
   },
   {
     "codigo": "90001",
     "produto": "- PISO GOLDEN LUX RT POLIDO 81X81",
     "dimensions": "81x81",
-    "maior_lote": 8687.7,
-    "saldo_A": 8687.7,
+    "maior_lote": 7998.2,
+    "saldo_A": 7998.2,
     "saldo_B": 413.7
   },
   {
     "codigo": "90002",
     "produto": "- PISO GOLDEN ORO RT POLIDO 81X81",
     "dimensions": "81x81",
-    "maior_lote": 3930.15,
-    "saldo_A": 3930.15,
+    "maior_lote": 3654.35,
+    "saldo_A": 3654.35,
     "saldo_B": 344.75
   },
   {
@@ -5972,40 +5908,48 @@
     "produto": "- PISO INTUICAO MATE RT 81X81",
     "dimensions": "81x81",
     "maior_lote": 482.65,
-    "saldo_A": 1103.2,
-    "saldo_B": 413.7
+    "saldo_A": 965.3,
+    "saldo_B": 206.85
   },
   {
     "codigo": "90058",
     "produto": "- PISO INTUICAO RT POLIDO 81X81",
     "dimensions": "81x81",
-    "maior_lote": 2137.45,
-    "saldo_A": 2206.4,
+    "maior_lote": 1999.55,
+    "saldo_A": 2068.5,
     "saldo_B": 0.0
+  },
+  {
+    "codigo": "80044",
+    "produto": "- PISO LOMBARDIA BRANCO MATE RT 81X81",
+    "dimensions": "81x81",
+    "maior_lote": 3102.75,
+    "saldo_A": 5447.05,
+    "saldo_B": 137.9
   },
   {
     "codigo": "80018",
     "produto": "- PISO LOMBARDIA CINZA MATE RT 81X81",
     "dimensions": "81x81",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 137.9
+    "maior_lote": 6412.35,
+    "saldo_A": 7170.8,
+    "saldo_B": 443.25
   },
   {
     "codigo": "80015",
     "produto": "- PISO MALI BG MATE RT 81X81",
     "dimensions": "81x81",
-    "maior_lote": 3447.5,
-    "saldo_A": 4412.8,
+    "maior_lote": 4481.75,
+    "saldo_A": 5447.05,
     "saldo_B": 206.85
   },
   {
     "codigo": "80014",
     "produto": "- PISO MALI CZ MATE RT 81X81",
     "dimensions": "81x81",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 551.6
+    "maior_lote": 2206.4,
+    "saldo_A": 3585.4,
+    "saldo_B": 453.1
   },
   {
     "codigo": "80008",
@@ -6045,39 +5989,31 @@
     "dimensions": "81x81",
     "maior_lote": 68.95,
     "saldo_A": 68.95,
-    "saldo_B": 482.65
-  },
-  {
-    "codigo": "80024",
-    "produto": "- PISO MICHIGAN ESC EXT RT 81X81",
-    "dimensions": "81x81",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 551.6
+    "saldo_B": 0.0
   },
   {
     "codigo": "80059",
     "produto": "- PISO MODERN MATE RT 81X81",
     "dimensions": "81x81",
-    "maior_lote": 551.6,
-    "saldo_A": 1241.1,
-    "saldo_B": 482.65
+    "maior_lote": 275.8,
+    "saldo_A": 758.45,
+    "saldo_B": 137.9
   },
   {
     "codigo": "80006",
     "produto": "- PISO ONIX CRISTAL MATE RT 81X81",
     "dimensions": "81x81",
     "maior_lote": 68.95,
-    "saldo_A": 68.95,
-    "saldo_B": 965.3
+    "saldo_A": 137.9,
+    "saldo_B": 0.0
   },
   {
     "codigo": "90004",
     "produto": "- PISO ONIX CRISTAL RT POLIDO 81X81",
     "dimensions": "81x81",
-    "maior_lote": 551.6,
-    "saldo_A": 620.55,
-    "saldo_B": 1516.9
+    "maior_lote": 1516.9,
+    "saldo_A": 1516.9,
+    "saldo_B": 1526.75
   },
   {
     "codigo": "90006",
@@ -6085,23 +6021,15 @@
     "dimensions": "81x81",
     "maior_lote": 0.0,
     "saldo_A": 0.0,
-    "saldo_B": 3954.62
+    "saldo_B": 3751.71
   },
   {
     "codigo": "80009",
     "produto": "- PISO P.E 81X81 RETIFICADO",
     "dimensions": "81x81",
-    "maior_lote": 11.82,
-    "saldo_A": 11.82,
-    "saldo_B": 6016.51
-  },
-  {
-    "codigo": "80020",
-    "produto": "- PISO PAMPULHA MATE RT 81X81",
-    "dimensions": "81x81",
-    "maior_lote": 0.0,
-    "saldo_A": 0.0,
-    "saldo_B": 68.95
+    "maior_lote": 61.07,
+    "saldo_A": 61.07,
+    "saldo_B": 5502.34
   },
   {
     "codigo": "80005",
@@ -6115,17 +6043,17 @@
     "codigo": "90003",
     "produto": "- PISO PLACE BR RT POLIDO 81X81",
     "dimensions": "81x81",
-    "maior_lote": 11376.75,
-    "saldo_A": 11376.75,
-    "saldo_B": 102.44
+    "maior_lote": 9239.3,
+    "saldo_A": 9239.3,
+    "saldo_B": 137.9
   },
   {
     "codigo": "90012",
     "produto": "- PISO PRIMUS RT POLIDO 81X81",
     "dimensions": "81x81",
-    "maior_lote": 15031.1,
-    "saldo_A": 15031.1,
-    "saldo_B": 137.9
+    "maior_lote": 11721.5,
+    "saldo_A": 11721.5,
+    "saldo_B": 275.8
   },
   {
     "codigo": "90037",
@@ -6156,8 +6084,8 @@
     "produto": "- PISO A GRANEL 83x83",
     "dimensions": "83x83",
     "maior_lote": 0.0,
-    "saldo_A": 312855.92,
-    "saldo_B": 3111.21
+    "saldo_A": 319311.62,
+    "saldo_B": 3285.09
   },
   {
     "codigo": "50247",
@@ -6283,8 +6211,8 @@
     "codigo": "60353",
     "produto": "- PISO ESSENCIAL CZ RT POLIDO 88X88",
     "dimensions": "88x88",
-    "maior_lote": 1837.44,
-    "saldo_A": 1837.44,
+    "maior_lote": 334.08,
+    "saldo_A": 334.08,
     "saldo_B": 0.0
   },
   {
@@ -6355,8 +6283,8 @@
     "codigo": "60530",
     "produto": "- PISO ROYAL CREMA RT POLIDO 88X88",
     "dimensions": "88x88",
-    "maior_lote": 250.56,
-    "saldo_A": 250.56,
+    "maior_lote": 334.08,
+    "saldo_A": 334.08,
     "saldo_B": 83.52
   },
   {
