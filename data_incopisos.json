@@ -17,7 +17,7 @@
     "dimensions": "18,00x113,00",
     "produto": "IAC 918007",
     "LD": "LD",
-    "saldo": "2.529,38",
+    "saldo": "2.163,98",
     "previsao": ""
   },
   {
@@ -31,7 +31,7 @@
     "dimensions": "18,00x113,00",
     "produto": "IRU 918003",
     "LD": "LE",
-    "saldo": "2.628,85",
+    "saldo": "2.482,69",
     "previsao": ""
   },
   {
@@ -87,12 +87,19 @@
     "dimensions": "31,50x56,90",
     "produto": "RT 060184",
     "LD": "LC",
-    "saldo": "2.814,64",
+    "saldo": "2.255,44",
     "previsao": ""
   },
   {
     "dimensions": "32,00x58,00",
     "produto": "SIM 060027",
+    "LD": "LA",
+    "saldo": "0,00",
+    "previsao": ""
+  },
+  {
+    "dimensions": "32,00x58,00",
+    "produto": "SIM 060107",
     "LD": "LA",
     "saldo": "0,00",
     "previsao": ""
@@ -115,7 +122,7 @@
     "dimensions": "32,00x58,00",
     "produto": "HD 060088",
     "LD": "LA",
-    "saldo": "62,62",
+    "saldo": "56,56",
     "previsao": ""
   },
   {
@@ -150,7 +157,7 @@
     "dimensions": "32,00x58,00",
     "produto": "HD 060122",
     "LD": "LA",
-    "saldo": "818,10",
+    "saldo": "672,66",
     "previsao": ""
   },
   {
@@ -171,7 +178,7 @@
     "dimensions": "32,00x58,00",
     "produto": "HD 060147",
     "LD": "LA",
-    "saldo": "1.444,30",
+    "saldo": "717,10",
     "previsao": ""
   },
   {
@@ -199,7 +206,7 @@
     "dimensions": "32,00x58,00",
     "produto": "HD 060175",
     "LD": "LA",
-    "saldo": "20,20",
+    "saldo": "16,16",
     "previsao": ""
   },
   {
@@ -220,7 +227,7 @@
     "dimensions": "38,00x74,50",
     "produto": "IPR 938002",
     "LD": "LA",
-    "saldo": "4.631,22",
+    "saldo": "4.417,38",
     "previsao": ""
   },
   {
@@ -269,7 +276,7 @@
     "dimensions": "39,00x75,50",
     "produto": "IAC 939002",
     "LD": "LD",
-    "saldo": "4.243,60",
+    "saldo": "3.576,16",
     "previsao": ""
   },
   {
@@ -304,7 +311,7 @@
     "dimensions": "39,00x75,50",
     "produto": "IAC 939015",
     "LD": "LA",
-    "saldo": "232,78",
+    "saldo": "158,62",
     "previsao": ""
   },
   {
@@ -318,7 +325,7 @@
     "dimensions": "39,00x75,50",
     "produto": "IRU 939016",
     "LD": "LA",
-    "saldo": "3.211,54",
+    "saldo": "3.164,16",
     "previsao": ""
   },
   {
@@ -416,7 +423,7 @@
     "dimensions": "56,00x113,00",
     "produto": "IPR 913006",
     "LD": "LB",
-    "saldo": "3.990,00",
+    "saldo": "3.690,00",
     "previsao": ""
   },
   {
@@ -437,7 +444,7 @@
     "dimensions": "56,00x113,00",
     "produto": "IPR 913011",
     "LD": "LB",
-    "saldo": "3.030,00",
+    "saldo": "2.910,00",
     "previsao": ""
   },
   {
@@ -451,14 +458,14 @@
     "dimensions": "56,20x56,20",
     "produto": "IPR 090108",
     "LD": "LC",
-    "saldo": "382,33",
+    "saldo": "311,61",
     "previsao": ""
   },
   {
     "dimensions": "56,20x56,20",
     "produto": "PR 090101",
     "LD": "LC",
-    "saldo": "4.713,93",
+    "saldo": "4.360,33",
     "previsao": ""
   },
   {
@@ -542,7 +549,7 @@
     "dimensions": "56,90x56,90",
     "produto": "RT 090076",
     "LD": "LE",
-    "saldo": "29,51",
+    "saldo": "24,97",
     "previsao": ""
   },
   {
@@ -633,7 +640,7 @@
     "dimensions": "58,00x58,00",
     "produto": "HD 090003",
     "LD": "LC",
-    "saldo": "32,48",
+    "saldo": "106,72",
     "previsao": ""
   },
   {
@@ -724,14 +731,14 @@
     "dimensions": "58,00x58,00",
     "produto": "HD 090083",
     "LD": "LC",
-    "saldo": "4.823,28",
+    "saldo": "691,36",
     "previsao": ""
   },
   {
     "dimensions": "58,00x58,00",
     "produto": "HD 090092",
     "LD": "LC",
-    "saldo": "SIM",
+    "saldo": "4.359,28",
     "previsao": ""
   },
   {
@@ -759,7 +766,7 @@
     "dimensions": "58,00x58,00",
     "produto": "HD 090116",
     "LD": "LB",
-    "saldo": "1.146,08",
+    "saldo": "533,60",
     "previsao": ""
   },
   {
@@ -822,14 +829,14 @@
     "dimensions": "74,50x74,50",
     "produto": "IPR 974014",
     "LD": "LC",
-    "saldo": "1.527,36",
+    "saldo": "1.243,20",
     "previsao": ""
   },
   {
     "dimensions": "74,50x74,50",
     "produto": "IPR 974016",
     "LD": "LC",
-    "saldo": "348,54",
+    "saldo": "328,56",
     "previsao": ""
   },
   {
@@ -885,7 +892,7 @@
     "dimensions": "75,50x75,50",
     "produto": "IAC 975008",
     "LD": "LD",
-    "saldo": "900,60",
+    "saldo": "727,32",
     "previsao": ""
   },
   {
@@ -913,7 +920,7 @@
     "dimensions": "75,50x75,50",
     "produto": "IAC 975014",
     "LD": "LD",
-    "saldo": "68,40",
+    "saldo": "SIM",
     "previsao": ""
   },
   {
@@ -934,14 +941,14 @@
     "dimensions": "75,50x75,50",
     "produto": "IAC 975018",
     "LD": "LD",
-    "saldo": "98,04",
+    "saldo": "95,76",
     "previsao": ""
   },
   {
     "dimensions": "75,50x75,50",
     "produto": "IAC 975022",
     "LD": "LD",
-    "saldo": "91,20",
+    "saldo": "59,28",
     "previsao": ""
   },
   {
@@ -983,7 +990,7 @@
     "dimensions": "90,50x90,50",
     "produto": "IAC 991006",
     "LD": "LD",
-    "saldo": "191,10",
+    "saldo": "95,55",
     "previsao": ""
   },
   {
@@ -1018,7 +1025,7 @@
     "dimensions": "90,50x90,50",
     "produto": "IRU 991009",
     "LD": "LE",
-    "saldo": "1.859,55",
+    "saldo": "1.636,60",
     "previsao": ""
   },
   {
