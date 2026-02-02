@@ -41,6 +41,11 @@
   },
   {
     "dimensions": "121x121",
+    "produto": "DETROIT ARGENTO HAC240180",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "121x121",
     "produto": "DETROIT GRAY HAC240006",
     "saldo": "Sim"
   },
@@ -76,6 +81,11 @@
   },
   {
     "dimensions": "121x121",
+    "produto": "MANTIS LUNAR HAC240152",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "121x121",
     "produto": "MATERIA HAC240168",
     "saldo": "Sim"
   },
@@ -106,13 +116,29 @@
   },
   {
     "dimensions": "121x121",
+    "produto": "SERENO WHITE HAC240181",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "121x121",
     "produto": "SINGULAR HAC240171",
     "saldo": "Sim"
   },
   {
     "dimensions": "121x121",
-    "produto": "SPLENDOR GRIGIO HAC240010",
+    "produto": "SOLANO WHITE HAC240201",
     "saldo": "Sim"
+  },
+  {
+    "dimensions": "121x121",
+    "produto": "SOLANO WHITE HNT240201",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "121x121",
+    "produto": "SPLENDOR GRIGIO HAC240010",
+    "saldo": "Sim",
+    "previsao": "Lançamento"
   },
   {
     "dimensions": "121x121",
@@ -157,7 +183,7 @@
   {
     "dimensions": "20x121",
     "produto": "LEGNO MONACO HRV200056",
-    "saldo": "89,79"
+    "saldo": "168,63"
   },
   {
     "dimensions": "20x121",
@@ -203,6 +229,21 @@
   {
     "dimensions": "20x121",
     "produto": "WOOD ROCK HRV200057",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "30x121",
+    "produto": "RAVENA AVELA HNT300199",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "30x121",
+    "produto": "RAVENA NATURE HNT300198",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "30x121",
+    "produto": "TECA CANELA HAC300034",
     "saldo": "Sim"
   },
   {
@@ -357,12 +398,37 @@
   },
   {
     "dimensions": "61x120",
+    "produto": "ARDENTA HPO120189",
+    "saldo": "Não"
+  },
+  {
+    "dimensions": "61x120",
     "produto": "GLACIER HPO120172",
     "saldo": "Sim"
   },
   {
     "dimensions": "61x120",
+    "produto": "IGNIS NOCE HPO120187",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "61x120",
+    "produto": "IGNIS TULUM HPO120186",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "61x120",
     "produto": "MAREA HPO120163",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "61x120",
+    "produto": "MARIS HPO120194",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "61x120",
+    "produto": "PETRA HPO120192",
     "saldo": "Sim"
   },
   {
@@ -373,6 +439,11 @@
   {
     "dimensions": "61x120",
     "produto": "SAVANA HPO120160",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "61x120",
+    "produto": "SERENO WHITE HPO120181",
     "saldo": "Sim"
   },
   {
@@ -394,6 +465,23 @@
     "dimensions": "62x121",
     "produto": "APORIA HDK120165",
     "saldo": "Sim"
+  },
+  {
+    "dimensions": "62x121",
+    "produto": "ARDENTA HNT120189",
+    "saldo": "Não"
+  },
+  {
+    "dimensions": "62x121",
+    "produto": "ARDENTA HRU120189",
+    "saldo": "Não",
+    "previsao": "Lançamento"
+  },
+  {
+    "dimensions": "62x121",
+    "produto": "ARDENTA HVA120189",
+    "saldo": "Não",
+    "previsao": "Lançamento"
   },
   {
     "dimensions": "62x121",
@@ -433,6 +521,11 @@
   {
     "dimensions": "62x121",
     "produto": "COLISEU HRU120142",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "62x121",
+    "produto": "COSMO NOIR HVA120202",
     "saldo": "Sim"
   },
   {
@@ -542,7 +635,27 @@
   },
   {
     "dimensions": "62x121",
+    "produto": "PETRA HNT120192",
+    "saldo": "Não"
+  },
+  {
+    "dimensions": "62x121",
+    "produto": "PETRA HVA120192",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "62x121",
+    "produto": "POSEIDON HVA120195",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "62x121",
     "produto": "SECULO DECOR HVA120158",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "62x121",
+    "produto": "SERENO WHITE HAC120181",
     "saldo": "Sim"
   },
   {
@@ -553,6 +666,16 @@
   {
     "dimensions": "62x121",
     "produto": "SOFT COPPER HAC120042",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "62x121",
+    "produto": "SOLANO GRAY HVA120200",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "62x121",
+    "produto": "SOLANO WHITE HAC120201",
     "saldo": "Sim"
   },
   {
@@ -722,6 +845,16 @@
   },
   {
     "dimensions": "82x82",
+    "produto": "GEOMA BEGE HPO820191",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "82x82",
+    "produto": "GEOMA GRAY HPO820190",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "82x82",
     "produto": "MAREA HPO820163",
     "saldo": "Sim"
   },
@@ -733,6 +866,16 @@
   {
     "dimensions": "82x82",
     "produto": "PEROLA HPO820124",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "82x82",
+    "produto": "SERENO GRAY HPO820182",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "82x82",
+    "produto": "SERENO WHITE HPO820181",
     "saldo": "Sim"
   },
   {
@@ -783,6 +926,11 @@
   {
     "dimensions": "83x83",
     "produto": "DECK ARBO HRU830087",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "83x83",
+    "produto": "DETROIT ARGENTO HAC830180",
     "saldo": "Sim"
   },
   {
@@ -867,6 +1015,26 @@
   },
   {
     "dimensions": "83x83",
+    "produto": "GEOMA BEGE HAC830191",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "83x83",
+    "produto": "GEOMA BEGE HNT830191",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "83x83",
+    "produto": "GEOMA GRAY HAC830190",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "83x83",
+    "produto": "GEOMA GRAY HNT830190",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "83x83",
     "produto": "LOFT CHUMBO HAC830141",
     "saldo": "Sim"
   },
@@ -902,7 +1070,28 @@
   },
   {
     "dimensions": "83x83",
+    "produto": "MATERIA NOCE HNT830203",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "83x83",
     "produto": "MONET HAC830052",
+    "saldo": "Sim",
+    "previsao": "Lançamento"
+  },
+  {
+    "dimensions": "83x83",
+    "produto": "NEBULA GRAFITE HNT830185",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "83x83",
+    "produto": "NEBULA GRAFITE HRU830185",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "83x83",
+    "produto": "NEBULA GRAY HNT830184",
     "saldo": "Sim"
   },
   {
@@ -912,7 +1101,22 @@
   },
   {
     "dimensions": "83x83",
+    "produto": "SERENO GRAY HAC830182",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "83x83",
+    "produto": "SERENO WHITE HAC830181",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "83x83",
     "produto": "SOFT STEEL HRU830044",
+    "saldo": "Sim"
+  },
+  {
+    "dimensions": "83x83",
+    "produto": "SOLANO WHITE HAC830201",
     "saldo": "Sim"
   },
   {
