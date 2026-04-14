@@ -47,7 +47,7 @@
   {
     "dimensions": "121x121",
     "produto": "LOFT GRAY HAC240140",
-    "saldo": "240,26"
+    "saldo": "Sim"
   },
   {
     "dimensions": "121x121",
@@ -232,7 +232,7 @@
   {
     "dimensions": "61x120",
     "produto": "AFLORA HPO120097",
-    "saldo": "Sim"
+    "saldo": "178,20"
   },
   {
     "dimensions": "61x120",
@@ -1066,8 +1066,14 @@
   },
   {
     "dimensions": "83x83",
-    "produto": "SERENO GRAY HAC830182",
+    "produto": "SECULO HAC830169",
     "saldo": "Sim"
+  },
+  {
+    "dimensions": "83x83",
+    "produto": "SERENO GRAY HAC830182",
+    "saldo": "Sim",
+    "previsao": "Lançamento"
   },
   {
     "dimensions": "83x83",
@@ -1122,11 +1128,6 @@
   {
     "dimensions": "83x83",
     "produto": "VISION GRAY HRU830036",
-    "saldo": "Sim"
-  },
-  {
-    "dimensions": "83x83",
-    "produto": "ECULO HAC830169",
     "saldo": "Sim"
   }
 ]
